@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "regionCode": "MMR001",
+    "regionNameEn": "Kachin",
+    "regionNameMm": "ကချင်ပြည်နယ်"
+  },
+  {
+    "id": 2,
+    "regionCode": "MMR002",
+    "regionNameEn": "Kayah",
+    "regionNameMm": "ကယားပြည်နယ်"
+  },
+  {
+    "id": 3,
+    "regionCode": "MMR003",
+    "regionNameEn": "Kayin",
+    "regionNameMm": "ကရင်ပြည်နယ်"
+  },
+  {
+    "id": 4,
+    "regionCode": "MMR004",
+    "regionNameEn": "Chin",
+    "regionNameMm": "ချင်းပြည်နယ်"
+  },
+  {
+    "id": 5,
+    "regionCode": "MMR005",
+    "regionNameEn": "Sagaing",
+    "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 6,
+    "regionCode": "MMR006",
+    "regionNameEn": "Tanintharyi",
+    "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 7,
+    "regionCode": "MMR007",
+    "regionNameEn": "Bago",
+    "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 8,
+    "regionCode": "MMR009",
+    "regionNameEn": "Magway",
+    "regionNameMm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 9,
+    "regionCode": "MMR010",
+    "regionNameEn": "Mandalay",
+    "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 10,
+    "regionCode": "MMR011",
+    "regionNameEn": "Mon",
+    "regionNameMm": "မွန်ပြည်နယ်"
+  },
+  {
+    "id": 11,
+    "regionCode": "MMR012",
+    "regionNameEn": "Rakhine",
+    "regionNameMm": "ရခိုင်ပြည်နယ်"
+  },
+  {
+    "id": 12,
+    "regionCode": "MMR013",
+    "regionNameEn": "Yangon",
+    "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး"
+  },
+  {
+    "id": 13,
+    "regionCode": "MMR014",
+    "regionNameEn": "Shan",
+    "regionNameMm": "ရှမ်းပြည်နယ်"
+  },
+  {
+    "id": 14,
+    "regionCode": "MMR017",
+    "regionNameEn": "Ayeyarwady",
+    "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  {
+    "id": 15,
+    "regionCode": "MMR018",
+    "regionNameEn": "Nay Pyi Taw",
+    "regionNameMm": "နေပြည်တော်"
+  }
+]

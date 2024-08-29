@@ -1,0 +1,33 @@
+{
+  "name": "myanmar-geography-json",
+  "version": "1.0.0",
+  "description": "Myanmar geography data with json format.",
+  "module": "script.ts",
+  "type": "module",
+  "dependencies": {
+    "csv-simple-parser": "^1.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyawthura-gg/myanmar-geography-json.git"
+  },
+  "keywords": [
+    "myanmar-city",
+    "myanmar-region"
+  ],
+  "author": "Kyaw Thura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyawthura-gg/myanmar-geography-json/issues"
+  },
+  "homepage": "https://github.com/kyawthura-gg/myanmar-geography-json#readme"
+}

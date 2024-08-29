@@ -1,0 +1,576 @@
+[
+  {
+    "id": 1,
+    "regionCode": "MMR001",
+    "districtCode": "MMR001D001",
+    "districtNameEn": "Myitkyina",
+    "districtNameMm": "မြစ်ကြီးနားခရိုင်"
+  },
+  {
+    "id": 2,
+    "regionCode": "MMR001",
+    "districtCode": "MMR001D002",
+    "districtNameEn": "Mohnyin",
+    "districtNameMm": "မိုးညှင်းခရိုင်"
+  },
+  {
+    "id": 3,
+    "regionCode": "MMR001",
+    "districtCode": "MMR001D003",
+    "districtNameEn": "Bhamo",
+    "districtNameMm": "ဗန်းမော်ခရိုင်"
+  },
+  {
+    "id": 4,
+    "regionCode": "MMR001",
+    "districtCode": "MMR001D004",
+    "districtNameEn": "Puta-O",
+    "districtNameMm": "ပူတာအိုခရိုင်"
+  },
+  {
+    "id": 5,
+    "regionCode": "MMR002",
+    "districtCode": "MMR002D001",
+    "districtNameEn": "Loikaw",
+    "districtNameMm": "လွိုင်ကော်ခရိုင်"
+  },
+  {
+    "id": 6,
+    "regionCode": "MMR002",
+    "districtCode": "MMR002D002",
+    "districtNameEn": "Bawlake",
+    "districtNameMm": "ဘောလခဲခရိုင်"
+  },
+  {
+    "id": 7,
+    "regionCode": "MMR003",
+    "districtCode": "MMR003D001",
+    "districtNameEn": "Hpa-An",
+    "districtNameMm": "ဘားအံခရိုင်"
+  },
+  {
+    "id": 8,
+    "regionCode": "MMR003",
+    "districtCode": "MMR003D002",
+    "districtNameEn": "Myawaddy",
+    "districtNameMm": "မြဝတီခရိုင်"
+  },
+  {
+    "id": 9,
+    "regionCode": "MMR003",
+    "districtCode": "MMR003D003",
+    "districtNameEn": "Kawkareik",
+    "districtNameMm": "ကော့ကရိတ်ခရိုင်"
+  },
+  {
+    "id": 10,
+    "regionCode": "MMR003",
+    "districtCode": "MMR003D004",
+    "districtNameEn": "Hpapun",
+    "districtNameMm": "ဖာပွန်ခရိုင်"
+  },
+  {
+    "id": 11,
+    "regionCode": "MMR004",
+    "districtCode": "MMR004D001",
+    "districtNameEn": "Falam",
+    "districtNameMm": "ဖလမ်းခရိုင်"
+  },
+  {
+    "id": 12,
+    "regionCode": "MMR004",
+    "districtCode": "MMR004D002",
+    "districtNameEn": "Mindat",
+    "districtNameMm": "မင်းတပ်ခရိုင်"
+  },
+  {
+    "id": 13,
+    "regionCode": "MMR004",
+    "districtCode": "MMR004D003",
+    "districtNameEn": "Hakha",
+    "districtNameMm": "ဟားခါးခရိုင်"
+  },
+  {
+    "id": 14,
+    "regionCode": "MMR004",
+    "districtCode": "MMR004D004",
+    "districtNameEn": "Matupi",
+    "districtNameMm": "မတူပီခရိုင်"
+  },
+  {
+    "id": 15,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D001",
+    "districtNameEn": "Sagaing",
+    "districtNameMm": "စစ်ကိုင်းခရိုင်"
+  },
+  {
+    "id": 16,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D002",
+    "districtNameEn": "Shwebo",
+    "districtNameMm": "ရွှေဘိုခရိုင်"
+  },
+  {
+    "id": 17,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D003",
+    "districtNameEn": "Monywa",
+    "districtNameMm": "မုံရွာခရိုင်"
+  },
+  {
+    "id": 18,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D004",
+    "districtNameEn": "Katha",
+    "districtNameMm": "ကသာခရိုင်"
+  },
+  {
+    "id": 19,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D005",
+    "districtNameEn": "Kale",
+    "districtNameMm": "ကလေးခရိုင်"
+  },
+  {
+    "id": 20,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D006",
+    "districtNameEn": "Tamu",
+    "districtNameMm": "တမူးခရိုင်"
+  },
+  {
+    "id": 21,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D007",
+    "districtNameEn": "Mawlaik",
+    "districtNameMm": "မော်လိုက်ခရိုင်"
+  },
+  {
+    "id": 22,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D008",
+    "districtNameEn": "Hkamti",
+    "districtNameMm": "ခန္တီးခရိုင်"
+  },
+  {
+    "id": 23,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D009",
+    "districtNameEn": "Yinmarbin",
+    "districtNameMm": "ယင်းမာပင်ခရိုင်"
+  },
+  {
+    "id": 24,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D010",
+    "districtNameEn": "Kanbalu",
+    "districtNameMm": "ကန့်ဘလူခရိုင်"
+  },
+  {
+    "id": 25,
+    "regionCode": "MMR005",
+    "districtCode": "MMR005D011",
+    "districtNameEn": "Kawlin",
+    "districtNameMm": "ကောလင်းခရိုင်"
+  },
+  {
+    "id": 26,
+    "regionCode": "MMR006",
+    "districtCode": "MMR006D001",
+    "districtNameEn": "Dawei",
+    "districtNameMm": "ထားဝယ်ခရိုင်"
+  },
+  {
+    "id": 27,
+    "regionCode": "MMR006",
+    "districtCode": "MMR006D002",
+    "districtNameEn": "Myeik",
+    "districtNameMm": "မြိတ်ခရိုင်"
+  },
+  {
+    "id": 28,
+    "regionCode": "MMR006",
+    "districtCode": "MMR006D003",
+    "districtNameEn": "Kawthoung",
+    "districtNameMm": "ကော့သောင်းခရိုင်"
+  },
+  {
+    "id": 29,
+    "regionCode": "MMR007",
+    "districtCode": "MMR007D001",
+    "districtNameEn": "Bago",
+    "districtNameMm": "ပဲခူးခရိုင်"
+  },
+  {
+    "id": 30,
+    "regionCode": "MMR007",
+    "districtCode": "MMR007D002",
+    "districtNameEn": "Taungoo",
+    "districtNameMm": "တောင်ငူခရိုင်"
+  },
+  {
+    "id": 31,
+    "regionCode": "MMR007",
+    "districtCode": "MMR008D001",
+    "districtNameEn": "Pyay",
+    "districtNameMm": "ပြည်ခရိုင်"
+  },
+  {
+    "id": 32,
+    "regionCode": "MMR007",
+    "districtCode": "MMR008D002",
+    "districtNameEn": "Thayarwady",
+    "districtNameMm": "သာယာဝတီခရိုင်"
+  },
+  {
+    "id": 33,
+    "regionCode": "MMR009",
+    "districtCode": "MMR009D001",
+    "districtNameEn": "Magway",
+    "districtNameMm": "မကွေးခရိုင်"
+  },
+  {
+    "id": 34,
+    "regionCode": "MMR009",
+    "districtCode": "MMR009D002",
+    "districtNameEn": "Minbu",
+    "districtNameMm": "မင်းဘူးခရိုင်"
+  },
+  {
+    "id": 35,
+    "regionCode": "MMR009",
+    "districtCode": "MMR009D003",
+    "districtNameEn": "Thayet",
+    "districtNameMm": "သရက်ခရိုင်"
+  },
+  {
+    "id": 36,
+    "regionCode": "MMR009",
+    "districtCode": "MMR009D004",
+    "districtNameEn": "Pakokku",
+    "districtNameMm": "ပခုက္ကူခရိုင်"
+  },
+  {
+    "id": 37,
+    "regionCode": "MMR009",
+    "districtCode": "MMR009D005",
+    "districtNameEn": "Gangaw",
+    "districtNameMm": "ဂန့်ဂေါခရိုင်"
+  },
+  {
+    "id": 38,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D001",
+    "districtNameEn": "Mandalay",
+    "districtNameMm": "မန္တလေးခရိုင်"
+  },
+  {
+    "id": 39,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D002",
+    "districtNameEn": "Pyinoolwin",
+    "districtNameMm": "ပြင်ဦးလွင်ခရိုင်"
+  },
+  {
+    "id": 40,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D003",
+    "districtNameEn": "Kyaukse",
+    "districtNameMm": "ကျောက်ဆည်ခရိုင်"
+  },
+  {
+    "id": 41,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D004",
+    "districtNameEn": "Myingyan",
+    "districtNameMm": "မြင်းခြံခရိုင်"
+  },
+  {
+    "id": 42,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D005",
+    "districtNameEn": "Nyaung-U",
+    "districtNameMm": "ညောင်ဦးခရိုင်"
+  },
+  {
+    "id": 43,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D006",
+    "districtNameEn": "Yamethin",
+    "districtNameMm": "ရမည်းသင်းခရိုင်"
+  },
+  {
+    "id": 44,
+    "regionCode": "MMR010",
+    "districtCode": "MMR010D007",
+    "districtNameEn": "Meiktila",
+    "districtNameMm": "မိတ္ထီလာခရိုင်"
+  },
+  {
+    "id": 45,
+    "regionCode": "MMR011",
+    "districtCode": "MMR011D001",
+    "districtNameEn": "Mawlamyine",
+    "districtNameMm": "မော်လမြိုင်ခရိုင်"
+  },
+  {
+    "id": 46,
+    "regionCode": "MMR011",
+    "districtCode": "MMR011D002",
+    "districtNameEn": "Thaton",
+    "districtNameMm": "သထုံခရိုင်"
+  },
+  {
+    "id": 47,
+    "regionCode": "MMR012",
+    "districtCode": "MMR012D001",
+    "districtNameEn": "Sittwe",
+    "districtNameMm": "စစ်တွေခရိုင်"
+  },
+  {
+    "id": 48,
+    "regionCode": "MMR012",
+    "districtCode": "MMR012D002",
+    "districtNameEn": "Maungdaw",
+    "districtNameMm": "မောင်တောခရိုင်"
+  },
+  {
+    "id": 49,
+    "regionCode": "MMR012",
+    "districtCode": "MMR012D003",
+    "districtNameEn": "Kyaukpyu",
+    "districtNameMm": "ကျောက်ဖြူခရိုင်"
+  },
+  {
+    "id": 50,
+    "regionCode": "MMR012",
+    "districtCode": "MMR012D004",
+    "districtNameEn": "Thandwe",
+    "districtNameMm": "သံတွဲခရိုင်"
+  },
+  {
+    "id": 51,
+    "regionCode": "MMR012",
+    "districtCode": "MMR012D005",
+    "districtNameEn": "Mrauk-U",
+    "districtNameMm": "မြောက်ဦးခရိုင်"
+  },
+  {
+    "id": 52,
+    "regionCode": "MMR013",
+    "districtCode": "MMR013D001",
+    "districtNameEn": "Yangon (North)",
+    "districtNameMm": "ရန်ကုန်(မြောက်ပိုင်း)"
+  },
+  {
+    "id": 53,
+    "regionCode": "MMR013",
+    "districtCode": "MMR013D002",
+    "districtNameEn": "Yangon (East)",
+    "districtNameMm": "ရန်ကုန်(အရှေ့ပိုင်း)"
+  },
+  {
+    "id": 54,
+    "regionCode": "MMR013",
+    "districtCode": "MMR013D003",
+    "districtNameEn": "Yangon (South)",
+    "districtNameMm": "ရန်ကုန်(တောင်ပိုင်း)"
+  },
+  {
+    "id": 55,
+    "regionCode": "MMR013",
+    "districtCode": "MMR013D004",
+    "districtNameEn": "Yangon (West)",
+    "districtNameMm": "ရန်ကုန်(အနောက်ပိုင်း)"
+  },
+  {
+    "id": 56,
+    "regionCode": "MMR014",
+    "districtCode": "MMR014D001",
+    "districtNameEn": "Taunggyi",
+    "districtNameMm": "တောင်ကြီးခရိုင်"
+  },
+  {
+    "id": 57,
+    "regionCode": "MMR014",
+    "districtCode": "MMR014D002",
+    "districtNameEn": "Loilen",
+    "districtNameMm": "လွိုင်လင်ခရိုင်"
+  },
+  {
+    "id": 58,
+    "regionCode": "MMR014",
+    "districtCode": "MMR014D003",
+    "districtNameEn": "Langkho",
+    "districtNameMm": "လင်းခေးခရိုင်"
+  },
+  {
+    "id": 59,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D001",
+    "districtNameEn": "Lashio",
+    "districtNameMm": "လားရှိုးခရိုင်"
+  },
+  {
+    "id": 60,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D002",
+    "districtNameEn": "Muse",
+    "districtNameMm": "မူဆယ်ခရိုင်"
+  },
+  {
+    "id": 61,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D003",
+    "districtNameEn": "Kyaukme",
+    "districtNameMm": "ကျောက်မဲခရိုင်"
+  },
+  {
+    "id": 62,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D004",
+    "districtNameEn": "Kunlong",
+    "districtNameMm": "ကွမ်းလုံခရိုင်"
+  },
+  {
+    "id": 63,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D005",
+    "districtNameEn": "Laukkaing",
+    "districtNameMm": "လောက်ကိုင်ခရိုင်"
+  },
+  {
+    "id": 64,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D006",
+    "districtNameEn": "Hopang",
+    "districtNameMm": "ဟိုပန်ခရိုင်"
+  },
+  {
+    "id": 65,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D007",
+    "districtNameEn": "Matman",
+    "districtNameMm": "မက်မန်းခရိုင်"
+  },
+  {
+    "id": 66,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D008",
+    "districtNameEn": "Mongmit",
+    "districtNameMm": "မိုးမိတ်ခရိုင်"
+  },
+  {
+    "id": 67,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D221",
+    "districtNameEn": "Laukkaing (Kokang SAZ)",
+    "districtNameMm": "လောက်ကိုင်-ကိုးကန့်အထူးဒေသ (၁)"
+  },
+  {
+    "id": 68,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D331",
+    "districtNameEn": "Mong Maw (Wa SAD)",
+    "districtNameMm": "မိုင်းမော-ဝအထူးဒေသ (၂)"
+  },
+  {
+    "id": 69,
+    "regionCode": "MMR014",
+    "districtCode": "MMR015D332",
+    "districtNameEn": "Wein Kawng (Wein Kao) (Wa SAD)",
+    "districtNameMm": "ဝိန်းကောင်-ဝအထူးဒေသ (၂)"
+  },
+  {
+    "id": 70,
+    "regionCode": "MMR014",
+    "districtCode": "MMR016D001",
+    "districtNameEn": "Kengtung",
+    "districtNameMm": "ကျိုင်းတုံခရိုင်"
+  },
+  {
+    "id": 71,
+    "regionCode": "MMR014",
+    "districtCode": "MMR016D002",
+    "districtNameEn": "Monghsat",
+    "districtNameMm": "မိုင်းဆတ်ခရိုင်"
+  },
+  {
+    "id": 72,
+    "regionCode": "MMR014",
+    "districtCode": "MMR016D003",
+    "districtNameEn": "Tachileik",
+    "districtNameMm": "တာချီလိတ်ခရိုင်"
+  },
+  {
+    "id": 73,
+    "regionCode": "MMR014",
+    "districtCode": "MMR016D004",
+    "districtNameEn": "Monghpyak",
+    "districtNameMm": "မိုင်းဖြတ်ခရိုင်"
+  },
+  {
+    "id": 74,
+    "regionCode": "MMR014",
+    "districtCode": "MMR016D333",
+    "districtNameEn": "Mong Pawk (Wa SAD)",
+    "districtNameMm": "မိုင်းပေါက်-ဝအထူးဒေသ (၂)"
+  },
+  {
+    "id": 75,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D001",
+    "districtNameEn": "Pathein",
+    "districtNameMm": "ပုသိမ်ခရိုင်"
+  },
+  {
+    "id": 76,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D002",
+    "districtNameEn": "Hinthada",
+    "districtNameMm": "ဟင်္သာတခရိုင်"
+  },
+  {
+    "id": 77,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D003",
+    "districtNameEn": "Myaungmya",
+    "districtNameMm": "မြောင်းမြခရိုင်"
+  },
+  {
+    "id": 78,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D004",
+    "districtNameEn": "Labutta",
+    "districtNameMm": "လပွတ္တာခရိုင်"
+  },
+  {
+    "id": 79,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D005",
+    "districtNameEn": "Maubin",
+    "districtNameMm": "မအူပင်ခရိုင်"
+  },
+  {
+    "id": 80,
+    "regionCode": "MMR017",
+    "districtCode": "MMR017D006",
+    "districtNameEn": "Pyapon",
+    "districtNameMm": "ဖျာပုံခရိုင်"
+  },
+  {
+    "id": 81,
+    "regionCode": "MMR018",
+    "districtCode": "MMR018D001",
+    "districtNameEn": "Oke Ta Ra",
+    "districtNameMm": "ဥတ္တရခရိုင်"
+  },
+  {
+    "id": 82,
+    "regionCode": "MMR018",
+    "districtCode": "MMR018D002",
+    "districtNameEn": "Det Khi Na",
+    "districtNameMm": "ဒက္ခိဏခရိုင်"
+  }
+]

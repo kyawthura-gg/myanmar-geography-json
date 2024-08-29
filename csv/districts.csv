@@ -1,0 +1,83 @@
+SR,SR Name_Eng,District_Pcode,District_Name_Eng,District_Name_MMR
+MMR001,Kachin,MMR001D001,Myitkyina,မြစ်ကြီးနားခရိုင်
+MMR001,Kachin,MMR001D002,Mohnyin,မိုးညှင်းခရိုင်
+MMR001,Kachin,MMR001D003,Bhamo,ဗန်းမော်ခရိုင်
+MMR001,Kachin,MMR001D004,Puta-O,ပူတာအိုခရိုင်
+MMR002,Kayah,MMR002D001,Loikaw,လွိုင်ကော်ခရိုင်
+MMR002,Kayah,MMR002D002,Bawlake,ဘောလခဲခရိုင်
+MMR003,Kayin,MMR003D001,Hpa-An,ဘားအံခရိုင်
+MMR003,Kayin,MMR003D002,Myawaddy,မြဝတီခရိုင်
+MMR003,Kayin,MMR003D003,Kawkareik,ကော့ကရိတ်ခရိုင်
+MMR003,Kayin,MMR003D004,Hpapun,ဖာပွန်ခရိုင်
+MMR004,Chin,MMR004D001,Falam,ဖလမ်းခရိုင်
+MMR004,Chin,MMR004D002,Mindat,မင်းတပ်ခရိုင်
+MMR004,Chin,MMR004D003,Hakha,ဟားခါးခရိုင်
+MMR004,Chin,MMR004D004,Matupi,မတူပီခရိုင်
+MMR005,Sagaing,MMR005D001,Sagaing,စစ်ကိုင်းခရိုင်
+MMR005,Sagaing,MMR005D002,Shwebo,ရွှေဘိုခရိုင်
+MMR005,Sagaing,MMR005D003,Monywa,မုံရွာခရိုင်
+MMR005,Sagaing,MMR005D004,Katha,ကသာခရိုင်
+MMR005,Sagaing,MMR005D005,Kale,ကလေးခရိုင်
+MMR005,Sagaing,MMR005D006,Tamu,တမူးခရိုင်
+MMR005,Sagaing,MMR005D007,Mawlaik,မော်လိုက်ခရိုင်
+MMR005,Sagaing,MMR005D008,Hkamti,ခန္တီးခရိုင်
+MMR005,Sagaing,MMR005D009,Yinmarbin,ယင်းမာပင်ခရိုင်
+MMR005,Sagaing,MMR005D010,Kanbalu,ကန့်ဘလူခရိုင်
+MMR005,Sagaing,MMR005D011,Kawlin,ကောလင်းခရိုင်
+MMR006,Tanintharyi,MMR006D001,Dawei,ထားဝယ်ခရိုင်
+MMR006,Tanintharyi,MMR006D002,Myeik,မြိတ်ခရိုင်
+MMR006,Tanintharyi,MMR006D003,Kawthoung,ကော့သောင်းခရိုင်
+MMR007,Bago (East),MMR007D001,Bago,ပဲခူးခရိုင်
+MMR007,Bago (East),MMR007D002,Taungoo,တောင်ငူခရိုင်
+MMR008,Bago (West),MMR008D001,Pyay,ပြည်ခရိုင်
+MMR008,Bago (West),MMR008D002,Thayarwady,သာယာဝတီခရိုင်
+MMR009,Magway,MMR009D001,Magway,မကွေးခရိုင်
+MMR009,Magway,MMR009D002,Minbu,မင်းဘူးခရိုင်
+MMR009,Magway,MMR009D003,Thayet,သရက်ခရိုင်
+MMR009,Magway,MMR009D004,Pakokku,ပခုက္ကူခရိုင်
+MMR009,Magway,MMR009D005,Gangaw,ဂန့်ဂေါခရိုင်
+MMR010,Mandalay,MMR010D001,Mandalay,မန္တလေးခရိုင်
+MMR010,Mandalay,MMR010D002,Pyinoolwin,ပြင်ဦးလွင်ခရိုင်
+MMR010,Mandalay,MMR010D003,Kyaukse,ကျောက်ဆည်ခရိုင်
+MMR010,Mandalay,MMR010D004,Myingyan,မြင်းခြံခရိုင်
+MMR010,Mandalay,MMR010D005,Nyaung-U,ညောင်ဦးခရိုင်
+MMR010,Mandalay,MMR010D006,Yamethin,ရမည်းသင်းခရိုင်
+MMR010,Mandalay,MMR010D007,Meiktila,မိတ္ထီလာခရိုင်
+MMR011,Mon,MMR011D001,Mawlamyine,မော်လမြိုင်ခရိုင်
+MMR011,Mon,MMR011D002,Thaton,သထုံခရိုင်
+MMR012,Rakhine,MMR012D001,Sittwe,စစ်တွေခရိုင်
+MMR012,Rakhine,MMR012D002,Maungdaw,မောင်တောခရိုင်
+MMR012,Rakhine,MMR012D003,Kyaukpyu,ကျောက်ဖြူခရိုင်
+MMR012,Rakhine,MMR012D004,Thandwe,သံတွဲခရိုင်
+MMR012,Rakhine,MMR012D005,Mrauk-U,မြောက်ဦးခရိုင်
+MMR013,Yangon,MMR013D001,Yangon (North),ရန်ကုန်(မြောက်ပိုင်း)
+MMR013,Yangon,MMR013D002,Yangon (East),ရန်ကုန်(အရှေ့ပိုင်း)
+MMR013,Yangon,MMR013D003,Yangon (South),ရန်ကုန်(တောင်ပိုင်း)
+MMR013,Yangon,MMR013D004,Yangon (West),ရန်ကုန်(အနောက်ပိုင်း)
+MMR014,Shan (South),MMR014D001,Taunggyi,တောင်ကြီးခရိုင်
+MMR014,Shan (South),MMR014D002,Loilen,လွိုင်လင်ခရိုင်
+MMR014,Shan (South),MMR014D003,Langkho,လင်းခေးခရိုင်
+MMR015,Shan (North),MMR015D001,Lashio,လားရှိုးခရိုင်
+MMR015,Shan (North),MMR015D002,Muse,မူဆယ်ခရိုင်
+MMR015,Shan (North),MMR015D003,Kyaukme,ကျောက်မဲခရိုင်
+MMR015,Shan (North),MMR015D004,Kunlong,ကွမ်းလုံခရိုင်
+MMR015,Shan (North),MMR015D005,Laukkaing,လောက်ကိုင်ခရိုင်
+MMR015,Shan (North),MMR015D006,Hopang,ဟိုပန်ခရိုင်
+MMR015,Shan (North),MMR015D007,Matman,မက်မန်းခရိုင်
+MMR015,Shan (North),MMR015D008,Mongmit,မိုးမိတ်ခရိုင်
+MMR015,Shan (North),MMR015D221,Laukkaing (Kokang SAZ),လောက်ကိုင်-ကိုးကန့်အထူးဒေသ (၁)
+MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),မိုင်းမော-ဝအထူးဒေသ (၂)
+MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),ဝိန်းကောင်-ဝအထူးဒေသ (၂)
+MMR016,Shan (East),MMR016D001,Kengtung,ကျိုင်းတုံခရိုင်
+MMR016,Shan (East),MMR016D002,Monghsat,မိုင်းဆတ်ခရိုင်
+MMR016,Shan (East),MMR016D003,Tachileik,တာချီလိတ်ခရိုင်
+MMR016,Shan (East),MMR016D004,Monghpyak,မိုင်းဖြတ်ခရိုင်
+MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),မိုင်းပေါက်-ဝအထူးဒေသ (၂)
+MMR017,Ayeyarwady,MMR017D001,Pathein,ပုသိမ်ခရိုင်
+MMR017,Ayeyarwady,MMR017D002,Hinthada,ဟင်္သာတခရိုင်
+MMR017,Ayeyarwady,MMR017D003,Myaungmya,မြောင်းမြခရိုင်
+MMR017,Ayeyarwady,MMR017D004,Labutta,လပွတ္တာခရိုင်
+MMR017,Ayeyarwady,MMR017D005,Maubin,မအူပင်ခရိုင်
+MMR017,Ayeyarwady,MMR017D006,Pyapon,ဖျာပုံခရိုင်
+MMR018,Nay Pyi Taw,MMR018D001,Oke Ta Ra,ဥတ္တရခရိုင်
+MMR018,Nay Pyi Taw,MMR018D002,Det Khi Na,ဒက္ခိဏခရိုင်
