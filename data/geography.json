@@ -3017,20 +3017,6 @@
     "districtCode": "MMR010D001",
     "districtNameEn": "Mandalay",
     "districtNameMm": "မန္တလေးခရိုင်",
-    "townshipCode": "MMR010001",
-    "townshipNameEn": "Mandalay City",
-    "townshipNameMm": "မန္တလေး",
-    "longitude": "96.0921",
-    "latitude": "21.9894"
-  },
-  {
-    "id": 217,
-    "regionCode": "MMR010",
-    "regionNameEn": "Mandalay",
-    "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
-    "districtCode": "MMR010D001",
-    "districtNameEn": "Mandalay",
-    "districtNameMm": "မန္တလေးခရိုင်",
     "townshipCode": "MMR010002",
     "townshipNameEn": "Chanayethazan",
     "townshipNameMm": "ချမ်းအေးသာဇံ",
@@ -3038,7 +3024,7 @@
     "latitude": "21.97535"
   },
   {
-    "id": 218,
+    "id": 217,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3052,7 +3038,7 @@
     "latitude": "21.9394"
   },
   {
-    "id": 219,
+    "id": 218,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3066,7 +3052,7 @@
     "latitude": "20.84248"
   },
   {
-    "id": 220,
+    "id": 219,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3080,7 +3066,7 @@
     "latitude": "21.61325"
   },
   {
-    "id": 221,
+    "id": 220,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3094,7 +3080,7 @@
     "latitude": "22.21036"
   },
   {
-    "id": 222,
+    "id": 221,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3108,7 +3094,7 @@
     "latitude": "21.97535"
   },
   {
-    "id": 223,
+    "id": 222,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3122,7 +3108,7 @@
     "latitude": "21.09867"
   },
   {
-    "id": 224,
+    "id": 223,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3136,7 +3122,7 @@
     "latitude": "20.88189"
   },
   {
-    "id": 225,
+    "id": 224,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3150,7 +3136,7 @@
     "latitude": "22.92139"
   },
   {
-    "id": 226,
+    "id": 225,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3164,7 +3150,7 @@
     "latitude": "21.45745"
   },
   {
-    "id": 227,
+    "id": 226,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3178,7 +3164,7 @@
     "latitude": "21.735"
   },
   {
-    "id": 228,
+    "id": 227,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3192,7 +3178,7 @@
     "latitude": "21.3583"
   },
   {
-    "id": 229,
+    "id": 228,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3206,7 +3192,7 @@
     "latitude": "21.42427"
   },
   {
-    "id": 230,
+    "id": 229,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3220,7 +3206,7 @@
     "latitude": "21.4237"
   },
   {
-    "id": 231,
+    "id": 230,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3234,7 +3220,7 @@
     "latitude": "21.89846"
   },
   {
-    "id": 232,
+    "id": 231,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3248,7 +3234,7 @@
     "latitude": "21.13197"
   },
   {
-    "id": 233,
+    "id": 232,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3262,7 +3248,7 @@
     "latitude": "21.15058"
   },
   {
-    "id": 234,
+    "id": 233,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3276,7 +3262,7 @@
     "latitude": "21.19543"
   },
   {
-    "id": 235,
+    "id": 234,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3290,7 +3276,7 @@
     "latitude": "22.00399"
   },
   {
-    "id": 236,
+    "id": 235,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3304,7 +3290,7 @@
     "latitude": "20.59472"
   },
   {
-    "id": 237,
+    "id": 236,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3318,7 +3304,7 @@
     "latitude": "21.90196"
   },
   {
-    "id": 238,
+    "id": 237,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3332,7 +3318,7 @@
     "latitude": "22.01397"
   },
   {
-    "id": 239,
+    "id": 238,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3346,7 +3332,7 @@
     "latitude": "22.54838"
   },
   {
-    "id": 240,
+    "id": 239,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3360,7 +3346,7 @@
     "latitude": "21.73114"
   },
   {
-    "id": 241,
+    "id": 240,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3374,7 +3360,7 @@
     "latitude": "21.8151"
   },
   {
-    "id": 242,
+    "id": 241,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3388,7 +3374,7 @@
     "latitude": "21.27603"
   },
   {
-    "id": 243,
+    "id": 242,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3402,7 +3388,7 @@
     "latitude": "23.50188"
   },
   {
-    "id": 244,
+    "id": 243,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3416,7 +3402,7 @@
     "latitude": "22.88593"
   },
   {
-    "id": 245,
+    "id": 244,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3430,7 +3416,7 @@
     "latitude": "20.85019"
   },
   {
-    "id": 246,
+    "id": 245,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3444,7 +3430,7 @@
     "latitude": "21.09691"
   },
   {
-    "id": 247,
+    "id": 246,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3458,7 +3444,7 @@
     "latitude": "20.4305"
   },
   {
-    "id": 248,
+    "id": 247,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3472,7 +3458,7 @@
     "latitude": "17.21987"
   },
   {
-    "id": 249,
+    "id": 248,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3486,7 +3472,7 @@
     "latitude": "16.35125"
   },
   {
-    "id": 250,
+    "id": 249,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3500,7 +3486,7 @@
     "latitude": "16.37045"
   },
   {
-    "id": 251,
+    "id": 250,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3514,7 +3500,7 @@
     "latitude": "17.31156"
   },
   {
-    "id": 252,
+    "id": 251,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3528,7 +3514,7 @@
     "latitude": "17.5137"
   },
   {
-    "id": 253,
+    "id": 252,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3542,7 +3528,7 @@
     "latitude": "16.48459"
   },
   {
-    "id": 254,
+    "id": 253,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3556,7 +3542,7 @@
     "latitude": "16.1409"
   },
   {
-    "id": 255,
+    "id": 254,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3570,7 +3556,7 @@
     "latitude": "16.25812"
   },
   {
-    "id": 256,
+    "id": 255,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3584,7 +3570,7 @@
     "latitude": "16.61679"
   },
   {
-    "id": 257,
+    "id": 256,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3598,7 +3584,7 @@
     "latitude": "16.69655"
   },
   {
-    "id": 258,
+    "id": 257,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3612,7 +3598,7 @@
     "latitude": "16.08"
   },
   {
-    "id": 259,
+    "id": 258,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3626,7 +3612,7 @@
     "latitude": "15.9667"
   },
   {
-    "id": 260,
+    "id": 259,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3640,7 +3626,7 @@
     "latitude": "16.9197"
   },
   {
-    "id": 261,
+    "id": 260,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3654,7 +3640,7 @@
     "latitude": "17.06022"
   },
   {
-    "id": 262,
+    "id": 261,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3668,7 +3654,7 @@
     "latitude": "15.03752"
   },
   {
-    "id": 263,
+    "id": 262,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3682,7 +3668,7 @@
     "latitude": "15.50351"
   },
   {
-    "id": 264,
+    "id": 263,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3696,7 +3682,7 @@
     "latitude": "15.24539"
   },
   {
-    "id": 265,
+    "id": 264,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3710,7 +3696,7 @@
     "latitude": "19.70026"
   },
   {
-    "id": 266,
+    "id": 265,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3724,7 +3710,7 @@
     "latitude": "19.63467"
   },
   {
-    "id": 267,
+    "id": 266,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3738,7 +3724,7 @@
     "latitude": "19.891"
   },
   {
-    "id": 268,
+    "id": 267,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3752,7 +3738,7 @@
     "latitude": "19.84383"
   },
   {
-    "id": 269,
+    "id": 268,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3766,7 +3752,7 @@
     "latitude": "19.7361"
   },
   {
-    "id": 270,
+    "id": 269,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3780,7 +3766,7 @@
     "latitude": "20.13041"
   },
   {
-    "id": 271,
+    "id": 270,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3794,7 +3780,7 @@
     "latitude": "19.76867"
   },
   {
-    "id": 272,
+    "id": 271,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3808,7 +3794,7 @@
     "latitude": "19.80326"
   },
   {
-    "id": 273,
+    "id": 272,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3822,7 +3808,7 @@
     "latitude": "19.862"
   },
   {
-    "id": 274,
+    "id": 273,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3836,7 +3822,7 @@
     "latitude": "19.79537"
   },
   {
-    "id": 275,
+    "id": 274,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3850,7 +3836,7 @@
     "latitude": "19.5682"
   },
   {
-    "id": 276,
+    "id": 275,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3864,7 +3850,7 @@
     "latitude": "20.87498"
   },
   {
-    "id": 277,
+    "id": 276,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3878,7 +3864,7 @@
     "latitude": "17.59369"
   },
   {
-    "id": 278,
+    "id": 277,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3892,7 +3878,7 @@
     "latitude": "18.00712"
   },
   {
-    "id": 279,
+    "id": 278,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3906,7 +3892,7 @@
     "latitude": "19.4239"
   },
   {
-    "id": 280,
+    "id": 279,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3920,7 +3906,7 @@
     "latitude": "19.2166"
   },
   {
-    "id": 281,
+    "id": 280,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3934,7 +3920,7 @@
     "latitude": "20.84396"
   },
   {
-    "id": 282,
+    "id": 281,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3948,7 +3934,7 @@
     "latitude": "21.26554"
   },
   {
-    "id": 283,
+    "id": 282,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3962,7 +3948,7 @@
     "latitude": "20.81897"
   },
   {
-    "id": 284,
+    "id": 283,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3976,7 +3962,7 @@
     "latitude": "20.62786"
   },
   {
-    "id": 285,
+    "id": 284,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -3990,7 +3976,7 @@
     "latitude": "21.19991"
   },
   {
-    "id": 286,
+    "id": 285,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4004,7 +3990,7 @@
     "latitude": "20.36452"
   },
   {
-    "id": 287,
+    "id": 286,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4018,7 +4004,7 @@
     "latitude": "20.59185"
   },
   {
-    "id": 288,
+    "id": 287,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4032,7 +4018,7 @@
     "latitude": "18.85506"
   },
   {
-    "id": 289,
+    "id": 288,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4046,7 +4032,7 @@
     "latitude": "19.85695"
   },
   {
-    "id": 290,
+    "id": 289,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4060,7 +4046,7 @@
     "latitude": "20.04676"
   },
   {
-    "id": 291,
+    "id": 290,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4074,7 +4060,7 @@
     "latitude": "20.18098"
   },
   {
-    "id": 292,
+    "id": 291,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4088,7 +4074,7 @@
     "latitude": "20.33199"
   },
   {
-    "id": 293,
+    "id": 292,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4102,7 +4088,7 @@
     "latitude": "19.03862"
   },
   {
-    "id": 294,
+    "id": 293,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4116,7 +4102,7 @@
     "latitude": "19.08769"
   },
   {
-    "id": 295,
+    "id": 294,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4130,7 +4116,7 @@
     "latitude": "20.48215"
   },
   {
-    "id": 296,
+    "id": 295,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4144,7 +4130,7 @@
     "latitude": "20.13727"
   },
   {
-    "id": 297,
+    "id": 296,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4158,7 +4144,7 @@
     "latitude": "18.43755"
   },
   {
-    "id": 298,
+    "id": 297,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4172,7 +4158,7 @@
     "latitude": "18.4662"
   },
   {
-    "id": 299,
+    "id": 298,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4186,7 +4172,7 @@
     "latitude": "19.34234"
   },
   {
-    "id": 300,
+    "id": 299,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4200,7 +4186,7 @@
     "latitude": "18.99829"
   },
   {
-    "id": 301,
+    "id": 300,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4214,7 +4200,7 @@
     "latitude": "18.85353"
   },
   {
-    "id": 302,
+    "id": 301,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4228,7 +4214,7 @@
     "latitude": "22.28525"
   },
   {
-    "id": 303,
+    "id": 302,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4242,7 +4228,7 @@
     "latitude": "24.39986"
   },
   {
-    "id": 304,
+    "id": 303,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4256,7 +4242,7 @@
     "latitude": "22.38918"
   },
   {
-    "id": 305,
+    "id": 304,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4270,7 +4256,7 @@
     "latitude": "21.95693"
   },
   {
-    "id": 306,
+    "id": 305,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4284,7 +4270,7 @@
     "latitude": "25.99243"
   },
   {
-    "id": 307,
+    "id": 306,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4298,7 +4284,7 @@
     "latitude": "24.8644"
   },
   {
-    "id": 308,
+    "id": 307,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4312,7 +4298,7 @@
     "latitude": "25.0834"
   },
   {
-    "id": 309,
+    "id": 308,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4326,7 +4312,7 @@
     "latitude": "24.68344"
   },
   {
-    "id": 310,
+    "id": 309,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4340,7 +4326,7 @@
     "latitude": "24.22252"
   },
   {
-    "id": 311,
+    "id": 310,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4354,7 +4340,7 @@
     "latitude": "24.4649"
   },
   {
-    "id": 312,
+    "id": 311,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4368,7 +4354,7 @@
     "latitude": "23.1933"
   },
   {
-    "id": 313,
+    "id": 312,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4382,7 +4368,7 @@
     "latitude": "23.1998"
   },
   {
-    "id": 314,
+    "id": 313,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4396,7 +4382,7 @@
     "latitude": "23.20305"
   },
   {
-    "id": 315,
+    "id": 314,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4410,7 +4396,7 @@
     "latitude": "22.9311"
   },
   {
-    "id": 316,
+    "id": 315,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4424,7 +4410,7 @@
     "latitude": "22.43291"
   },
   {
-    "id": 317,
+    "id": 316,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4438,7 +4424,7 @@
     "latitude": "24.18163"
   },
   {
-    "id": 318,
+    "id": 317,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4452,7 +4438,7 @@
     "latitude": "23.79026"
   },
   {
-    "id": 319,
+    "id": 318,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4466,7 +4452,7 @@
     "latitude": "22.77016"
   },
   {
-    "id": 320,
+    "id": 319,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4480,7 +4466,7 @@
     "latitude": "23.31964"
   },
   {
-    "id": 321,
+    "id": 320,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4494,7 +4480,7 @@
     "latitude": "26.32594"
   },
   {
-    "id": 322,
+    "id": 321,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4508,7 +4494,7 @@
     "latitude": "25.96589"
   },
   {
-    "id": 323,
+    "id": 322,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4522,7 +4508,7 @@
     "latitude": "25.44706"
   },
   {
-    "id": 324,
+    "id": 323,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4536,7 +4522,7 @@
     "latitude": "25.04671"
   },
   {
-    "id": 325,
+    "id": 324,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4550,7 +4536,7 @@
     "latitude": "25.36455"
   },
   {
-    "id": 326,
+    "id": 325,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4564,7 +4550,7 @@
     "latitude": "23.63512"
   },
   {
-    "id": 327,
+    "id": 326,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4578,7 +4564,7 @@
     "latitude": "22.87781"
   },
   {
-    "id": 328,
+    "id": 327,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4592,7 +4578,7 @@
     "latitude": "22.12168"
   },
   {
-    "id": 329,
+    "id": 328,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4606,7 +4592,7 @@
     "latitude": "21.83164"
   },
   {
-    "id": 330,
+    "id": 329,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4620,7 +4606,7 @@
     "latitude": "21.92681"
   },
   {
-    "id": 331,
+    "id": 330,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4634,7 +4620,7 @@
     "latitude": "26.7757"
   },
   {
-    "id": 332,
+    "id": 331,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4648,7 +4634,7 @@
     "latitude": "26.97979"
   },
   {
-    "id": 333,
+    "id": 332,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4662,7 +4648,7 @@
     "latitude": "27.23683"
   },
   {
-    "id": 334,
+    "id": 333,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4676,7 +4662,7 @@
     "latitude": "21.93415"
   },
   {
-    "id": 335,
+    "id": 334,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4690,7 +4676,7 @@
     "latitude": "24.26768"
   },
   {
-    "id": 336,
+    "id": 335,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4704,7 +4690,7 @@
     "latitude": "24.08089"
   },
   {
-    "id": 337,
+    "id": 336,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4718,7 +4704,7 @@
     "latitude": "21.88008"
   },
   {
-    "id": 338,
+    "id": 337,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4732,7 +4718,7 @@
     "latitude": "22.1639"
   },
   {
-    "id": 339,
+    "id": 338,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4746,7 +4732,7 @@
     "latitude": "21.97363"
   },
   {
-    "id": 340,
+    "id": 339,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4760,7 +4746,7 @@
     "latitude": "22.59329"
   },
   {
-    "id": 341,
+    "id": 340,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4774,7 +4760,7 @@
     "latitude": "22.56996"
   },
   {
-    "id": 342,
+    "id": 341,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4788,7 +4774,7 @@
     "latitude": "22.5561"
   },
   {
-    "id": 343,
+    "id": 342,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4802,7 +4788,7 @@
     "latitude": "22.68529"
   },
   {
-    "id": 344,
+    "id": 343,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4816,7 +4802,7 @@
     "latitude": "23.77977"
   },
   {
-    "id": 345,
+    "id": 344,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4830,7 +4816,7 @@
     "latitude": "24.51539"
   },
   {
-    "id": 346,
+    "id": 345,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4844,7 +4830,7 @@
     "latitude": "24.21149"
   },
   {
-    "id": 347,
+    "id": 346,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4858,7 +4844,7 @@
     "latitude": "22.94407"
   },
   {
-    "id": 348,
+    "id": 347,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4872,7 +4858,7 @@
     "latitude": "23.75452"
   },
   {
-    "id": 349,
+    "id": 348,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4886,7 +4872,7 @@
     "latitude": "22.36715"
   },
   {
-    "id": 350,
+    "id": 349,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4900,7 +4886,7 @@
     "latitude": "23.89924"
   },
   {
-    "id": 351,
+    "id": 350,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4914,7 +4900,7 @@
     "latitude": "22.76914"
   },
   {
-    "id": 352,
+    "id": 351,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4928,7 +4914,7 @@
     "latitude": "22.07779"
   },
   {
-    "id": 353,
+    "id": 352,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -4942,7 +4928,7 @@
     "latitude": "22.04143"
   },
   {
-    "id": 354,
+    "id": 353,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -4956,7 +4942,7 @@
     "latitude": "21.29189"
   },
   {
-    "id": 355,
+    "id": 354,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -4970,7 +4956,7 @@
     "latitude": "21.98542"
   },
   {
-    "id": 356,
+    "id": 355,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -4984,7 +4970,7 @@
     "latitude": "21.84343"
   },
   {
-    "id": 357,
+    "id": 356,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -4998,7 +4984,7 @@
     "latitude": "22.00822"
   },
   {
-    "id": 358,
+    "id": 357,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5012,7 +4998,7 @@
     "latitude": "20.87804"
   },
   {
-    "id": 359,
+    "id": 358,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5026,7 +5012,7 @@
     "latitude": "20.50544"
   },
   {
-    "id": 360,
+    "id": 359,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5040,7 +5026,7 @@
     "latitude": "20.74048"
   },
   {
-    "id": 361,
+    "id": 360,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5054,7 +5040,7 @@
     "latitude": "21.7499"
   },
   {
-    "id": 362,
+    "id": 361,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5068,7 +5054,7 @@
     "latitude": "21.6729"
   },
   {
-    "id": 363,
+    "id": 362,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5082,7 +5068,7 @@
     "latitude": "21.3502"
   },
   {
-    "id": 364,
+    "id": 363,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5096,7 +5082,7 @@
     "latitude": "21.33004"
   },
   {
-    "id": 365,
+    "id": 364,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5110,7 +5096,7 @@
     "latitude": "19.7979"
   },
   {
-    "id": 366,
+    "id": 365,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5124,7 +5110,7 @@
     "latitude": "20.30351"
   },
   {
-    "id": 367,
+    "id": 366,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5138,7 +5124,7 @@
     "latitude": "19.8892"
   },
   {
-    "id": 368,
+    "id": 367,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5152,7 +5138,7 @@
     "latitude": "22.0082"
   },
   {
-    "id": 369,
+    "id": 368,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5166,7 +5152,7 @@
     "latitude": "21.84235"
   },
   {
-    "id": 370,
+    "id": 369,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5180,7 +5166,7 @@
     "latitude": "21.1807"
   },
   {
-    "id": 371,
+    "id": 370,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5194,7 +5180,7 @@
     "latitude": "21.32976"
   },
   {
-    "id": 372,
+    "id": 371,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5208,7 +5194,7 @@
     "latitude": "21.92906"
   },
   {
-    "id": 373,
+    "id": 372,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5222,7 +5208,7 @@
     "latitude": "20.867"
   },
   {
-    "id": 374,
+    "id": 373,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5236,7 +5222,7 @@
     "latitude": "20.45304"
   },
   {
-    "id": 375,
+    "id": 374,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5250,7 +5236,7 @@
     "latitude": "20.71262"
   },
   {
-    "id": 376,
+    "id": 375,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5264,7 +5250,7 @@
     "latitude": "22.76395"
   },
   {
-    "id": 377,
+    "id": 376,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5278,7 +5264,7 @@
     "latitude": "22.9794"
   },
   {
-    "id": 378,
+    "id": 377,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5292,7 +5278,7 @@
     "latitude": "23.42544"
   },
   {
-    "id": 379,
+    "id": 378,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5306,7 +5292,7 @@
     "latitude": "23.47583"
   },
   {
-    "id": 380,
+    "id": 379,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5320,7 +5306,7 @@
     "latitude": "23.25641"
   },
   {
-    "id": 381,
+    "id": 380,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5334,7 +5320,7 @@
     "latitude": "23.0846"
   },
   {
-    "id": 382,
+    "id": 381,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5348,7 +5334,7 @@
     "latitude": "23.3072"
   },
   {
-    "id": 383,
+    "id": 382,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5362,7 +5348,7 @@
     "latitude": "22.61894"
   },
   {
-    "id": 384,
+    "id": 383,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5376,7 +5362,7 @@
     "latitude": "22.71811"
   },
   {
-    "id": 385,
+    "id": 384,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5390,7 +5376,7 @@
     "latitude": "22.96912"
   },
   {
-    "id": 386,
+    "id": 385,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5404,7 +5390,7 @@
     "latitude": "23.82946"
   },
   {
-    "id": 387,
+    "id": 386,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5418,7 +5404,7 @@
     "latitude": "24.09412"
   },
   {
-    "id": 388,
+    "id": 387,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5432,7 +5418,7 @@
     "latitude": "23.41645"
   },
   {
-    "id": 389,
+    "id": 388,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5446,7 +5432,7 @@
     "latitude": "23.45921"
   },
   {
-    "id": 390,
+    "id": 389,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5460,7 +5446,7 @@
     "latitude": "23.57597"
   },
   {
-    "id": 391,
+    "id": 390,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5474,7 +5460,7 @@
     "latitude": "22.54172"
   },
   {
-    "id": 392,
+    "id": 391,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5488,7 +5474,7 @@
     "latitude": "22.7908"
   },
   {
-    "id": 393,
+    "id": 392,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5502,7 +5488,7 @@
     "latitude": "22.77316"
   },
   {
-    "id": 394,
+    "id": 393,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5516,7 +5502,7 @@
     "latitude": "22.95277"
   },
   {
-    "id": 395,
+    "id": 394,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5530,7 +5516,7 @@
     "latitude": "23.47557"
   },
   {
-    "id": 396,
+    "id": 395,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5544,7 +5530,7 @@
     "latitude": "23.69163"
   },
   {
-    "id": 397,
+    "id": 396,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5558,7 +5544,7 @@
     "latitude": "22.77647"
   },
   {
-    "id": 398,
+    "id": 397,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5572,7 +5558,7 @@
     "latitude": "22.90568"
   },
   {
-    "id": 399,
+    "id": 398,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5586,7 +5572,7 @@
     "latitude": "23.47292"
   },
   {
-    "id": 400,
+    "id": 399,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5600,7 +5586,7 @@
     "latitude": "22.50304"
   },
   {
-    "id": 401,
+    "id": 400,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5614,7 +5600,7 @@
     "latitude": "22.94789"
   },
   {
-    "id": 402,
+    "id": 401,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5628,7 +5614,7 @@
     "latitude": "23.24648"
   },
   {
-    "id": 403,
+    "id": 402,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5642,7 +5628,7 @@
     "latitude": "21.95417"
   },
   {
-    "id": 404,
+    "id": 403,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5656,7 +5642,7 @@
     "latitude": "22.9672"
   },
   {
-    "id": 405,
+    "id": 404,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5670,7 +5656,7 @@
     "latitude": "23.11422"
   },
   {
-    "id": 406,
+    "id": 405,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5684,7 +5670,7 @@
     "latitude": "22.42762"
   },
   {
-    "id": 407,
+    "id": 406,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5698,7 +5684,7 @@
     "latitude": "23.95176"
   },
   {
-    "id": 408,
+    "id": 407,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5712,7 +5698,7 @@
     "latitude": "24.0998"
   },
   {
-    "id": 409,
+    "id": 408,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5726,7 +5712,7 @@
     "latitude": "23.98989"
   },
   {
-    "id": 410,
+    "id": 409,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5740,7 +5726,7 @@
     "latitude": "24.07548"
   },
   {
-    "id": 411,
+    "id": 410,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5754,7 +5740,7 @@
     "latitude": "22.47704"
   },
   {
-    "id": 412,
+    "id": 411,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5768,7 +5754,7 @@
     "latitude": "23.47584"
   },
   {
-    "id": 413,
+    "id": 412,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5782,7 +5768,7 @@
     "latitude": "23.837"
   },
   {
-    "id": 414,
+    "id": 413,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5796,7 +5782,7 @@
     "latitude": "22.96407"
   },
   {
-    "id": 415,
+    "id": 414,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5810,7 +5796,7 @@
     "latitude": "23.09361"
   },
   {
-    "id": 416,
+    "id": 415,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5824,7 +5810,7 @@
     "latitude": "22.37369"
   },
   {
-    "id": 417,
+    "id": 416,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5838,7 +5824,7 @@
     "latitude": "23.11117"
   },
   {
-    "id": 418,
+    "id": 417,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5852,7 +5838,7 @@
     "latitude": "22.60793"
   },
   {
-    "id": 419,
+    "id": 418,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5866,7 +5852,7 @@
     "latitude": "22.43836"
   },
   {
-    "id": 420,
+    "id": 419,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5880,7 +5866,7 @@
     "latitude": "22.30273"
   },
   {
-    "id": 421,
+    "id": 420,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5894,7 +5880,7 @@
     "latitude": "22.33003"
   },
   {
-    "id": 422,
+    "id": 421,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5908,7 +5894,7 @@
     "latitude": "22.17594"
   },
   {
-    "id": 423,
+    "id": 422,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5922,7 +5908,7 @@
     "latitude": "22.12912"
   },
   {
-    "id": 424,
+    "id": 423,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5936,7 +5922,7 @@
     "latitude": "22.68954"
   },
   {
-    "id": 425,
+    "id": 424,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5950,7 +5936,7 @@
     "latitude": "22.17594"
   },
   {
-    "id": 426,
+    "id": 425,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5964,7 +5950,7 @@
     "latitude": "23.05628"
   },
   {
-    "id": 427,
+    "id": 426,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5978,7 +5964,7 @@
     "latitude": "22.4981"
   },
   {
-    "id": 428,
+    "id": 427,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5992,7 +5978,7 @@
     "latitude": "22.95939"
   },
   {
-    "id": 429,
+    "id": 428,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6006,7 +5992,7 @@
     "latitude": "22.62819"
   },
   {
-    "id": 430,
+    "id": 429,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6020,7 +6006,7 @@
     "latitude": "20.79743"
   },
   {
-    "id": 431,
+    "id": 430,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6034,7 +6020,7 @@
     "latitude": "20.16227"
   },
   {
-    "id": 432,
+    "id": 431,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6048,7 +6034,7 @@
     "latitude": "20.66122"
   },
   {
-    "id": 433,
+    "id": 432,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6062,7 +6048,7 @@
     "latitude": "20.7221"
   },
   {
-    "id": 434,
+    "id": 433,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6076,7 +6062,7 @@
     "latitude": "20.62418"
   },
   {
-    "id": 435,
+    "id": 434,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6090,7 +6076,7 @@
     "latitude": "21.28872"
   },
   {
-    "id": 436,
+    "id": 435,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6104,7 +6090,7 @@
     "latitude": "21.301"
   },
   {
-    "id": 437,
+    "id": 436,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6118,7 +6104,7 @@
     "latitude": "21.92515"
   },
   {
-    "id": 438,
+    "id": 437,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6132,7 +6118,7 @@
     "latitude": "21.645"
   },
   {
-    "id": 439,
+    "id": 438,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6146,7 +6132,7 @@
     "latitude": "21.27024"
   },
   {
-    "id": 440,
+    "id": 439,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6160,7 +6146,7 @@
     "latitude": "19.769"
   },
   {
-    "id": 441,
+    "id": 440,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6174,7 +6160,7 @@
     "latitude": "20.34222"
   },
   {
-    "id": 442,
+    "id": 441,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6188,7 +6174,7 @@
     "latitude": "21.63124"
   },
   {
-    "id": 443,
+    "id": 442,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6202,7 +6188,7 @@
     "latitude": "21.24664"
   },
   {
-    "id": 444,
+    "id": 443,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6216,7 +6202,7 @@
     "latitude": "20.92536"
   },
   {
-    "id": 445,
+    "id": 444,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6230,7 +6216,7 @@
     "latitude": "20.991"
   },
   {
-    "id": 446,
+    "id": 445,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6244,7 +6230,7 @@
     "latitude": "20.2305"
   },
   {
-    "id": 447,
+    "id": 446,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6258,7 +6244,7 @@
     "latitude": "21.90513"
   },
   {
-    "id": 448,
+    "id": 447,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6272,7 +6258,7 @@
     "latitude": "21.65989"
   },
   {
-    "id": 449,
+    "id": 448,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6286,7 +6272,7 @@
     "latitude": "21.61149"
   },
   {
-    "id": 450,
+    "id": 449,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6300,7 +6286,7 @@
     "latitude": "20.75728"
   },
   {
-    "id": 451,
+    "id": 450,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6314,7 +6300,7 @@
     "latitude": "20.5136"
   },
   {
-    "id": 452,
+    "id": 451,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6328,7 +6314,7 @@
     "latitude": "20.3188"
   },
   {
-    "id": 453,
+    "id": 452,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6342,7 +6328,7 @@
     "latitude": "21.09887"
   },
   {
-    "id": 454,
+    "id": 453,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6356,7 +6342,7 @@
     "latitude": "20.88912"
   },
   {
-    "id": 455,
+    "id": 454,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6370,7 +6356,7 @@
     "latitude": "20.45493"
   },
   {
-    "id": 456,
+    "id": 455,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6384,7 +6370,7 @@
     "latitude": "20.65957"
   },
   {
-    "id": 457,
+    "id": 456,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6398,7 +6384,7 @@
     "latitude": "19.86348"
   },
   {
-    "id": 458,
+    "id": 457,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6412,7 +6398,7 @@
     "latitude": "20.94158"
   },
   {
-    "id": 459,
+    "id": 458,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6426,7 +6412,7 @@
     "latitude": "20.29326"
   },
   {
-    "id": 460,
+    "id": 459,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6440,7 +6426,7 @@
     "latitude": "19.98626"
   },
   {
-    "id": 461,
+    "id": 460,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6454,7 +6440,7 @@
     "latitude": "20.12439"
   },
   {
-    "id": 462,
+    "id": 461,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6468,7 +6454,7 @@
     "latitude": "20.77475"
   },
   {
-    "id": 463,
+    "id": 462,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6482,7 +6468,7 @@
     "latitude": "20.371"
   },
   {
-    "id": 464,
+    "id": 463,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6496,7 +6482,7 @@
     "latitude": "20.76015"
   },
   {
-    "id": 465,
+    "id": 464,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6510,7 +6496,7 @@
     "latitude": "20.77477"
   },
   {
-    "id": 466,
+    "id": 465,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6524,7 +6510,7 @@
     "latitude": "21.16282"
   },
   {
-    "id": 467,
+    "id": 466,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6538,7 +6524,7 @@
     "latitude": "11.26504"
   },
   {
-    "id": 468,
+    "id": 467,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6552,7 +6538,7 @@
     "latitude": "10.93336"
   },
   {
-    "id": 469,
+    "id": 468,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6566,7 +6552,7 @@
     "latitude": "11.46842"
   },
   {
-    "id": 470,
+    "id": 469,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6580,7 +6566,7 @@
     "latitude": "14.07753"
   },
   {
-    "id": 471,
+    "id": 470,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6594,7 +6580,7 @@
     "latitude": "14.16355"
   },
   {
-    "id": 472,
+    "id": 471,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6608,7 +6594,7 @@
     "latitude": "9.98261"
   },
   {
-    "id": 473,
+    "id": 472,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6622,7 +6608,7 @@
     "latitude": "10.353"
   },
   {
-    "id": 474,
+    "id": 473,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6636,7 +6622,7 @@
     "latitude": "12.47386"
   },
   {
-    "id": 475,
+    "id": 474,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6650,7 +6636,7 @@
     "latitude": "13.97522"
   },
   {
-    "id": 476,
+    "id": 475,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6664,7 +6650,7 @@
     "latitude": "12.44112"
   },
   {
-    "id": 477,
+    "id": 476,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6678,7 +6664,7 @@
     "latitude": "12.84928"
   },
   {
-    "id": 478,
+    "id": 477,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6692,7 +6678,7 @@
     "latitude": "13.27223"
   },
   {
-    "id": 479,
+    "id": 478,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6706,7 +6692,7 @@
     "latitude": "12.97531"
   },
   {
-    "id": 480,
+    "id": 479,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6720,7 +6706,7 @@
     "latitude": "11.7952"
   },
   {
-    "id": 481,
+    "id": 480,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6734,7 +6720,7 @@
     "latitude": "12.08941"
   },
   {
-    "id": 482,
+    "id": 481,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6748,7 +6734,7 @@
     "latitude": "13.8687"
   },
   {
-    "id": 483,
+    "id": 482,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6762,7 +6748,7 @@
     "latitude": "14.6238"
   },
   {
-    "id": 484,
+    "id": 483,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6776,7 +6762,7 @@
     "latitude": "14.24591"
   },
   {
-    "id": 485,
+    "id": 484,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6790,7 +6776,7 @@
     "latitude": "16.7824"
   },
   {
-    "id": 486,
+    "id": 485,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6804,7 +6790,7 @@
     "latitude": "16.81543"
   },
   {
-    "id": 487,
+    "id": 486,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6818,7 +6804,7 @@
     "latitude": "16.77197"
   },
   {
-    "id": 488,
+    "id": 487,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6832,7 +6818,7 @@
     "latitude": "14.13443"
   },
   {
-    "id": 489,
+    "id": 488,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6846,7 +6832,7 @@
     "latitude": "16.79495"
   },
   {
-    "id": 490,
+    "id": 489,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6860,7 +6846,7 @@
     "latitude": "16.91281"
   },
   {
-    "id": 491,
+    "id": 490,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6874,7 +6860,7 @@
     "latitude": "16.87774"
   },
   {
-    "id": 492,
+    "id": 491,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6888,7 +6874,7 @@
     "latitude": "16.84049"
   },
   {
-    "id": 493,
+    "id": 492,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6902,7 +6888,7 @@
     "latitude": "16.84016"
   },
   {
-    "id": 494,
+    "id": 493,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6916,7 +6902,7 @@
     "latitude": "16.75855"
   },
   {
-    "id": 495,
+    "id": 494,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6930,7 +6916,7 @@
     "latitude": "16.78192"
   },
   {
-    "id": 496,
+    "id": 495,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6944,7 +6930,7 @@
     "latitude": "16.84793"
   },
   {
-    "id": 497,
+    "id": 496,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6958,7 +6944,7 @@
     "latitude": "16.85402"
   },
   {
-    "id": 498,
+    "id": 497,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6972,7 +6958,7 @@
     "latitude": ""
   },
   {
-    "id": 499,
+    "id": 498,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6986,7 +6972,7 @@
     "latitude": ""
   },
   {
-    "id": 500,
+    "id": 499,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7000,7 +6986,7 @@
     "latitude": "17.09875"
   },
   {
-    "id": 501,
+    "id": 500,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7014,7 +7000,7 @@
     "latitude": "17.09987"
   },
   {
-    "id": 502,
+    "id": 501,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7028,7 +7014,7 @@
     "latitude": "17.0174"
   },
   {
-    "id": 503,
+    "id": 502,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7042,7 +7028,7 @@
     "latitude": "16.90177"
   },
   {
-    "id": 504,
+    "id": 503,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7056,7 +7042,7 @@
     "latitude": "16.82768"
   },
   {
-    "id": 505,
+    "id": 504,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7070,7 +7056,7 @@
     "latitude": "16.54616"
   },
   {
-    "id": 506,
+    "id": 505,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7084,7 +7070,7 @@
     "latitude": "16.90544"
   },
   {
-    "id": 507,
+    "id": 506,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7098,7 +7084,7 @@
     "latitude": "16.4394"
   },
   {
-    "id": 508,
+    "id": 507,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7112,21 +7098,7 @@
     "latitude": "16.77426"
   },
   {
-    "id": 509,
-    "regionCode": "MMR013",
-    "regionNameEn": "Yangon",
-    "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
-    "districtCode": "MMR013D004",
-    "districtNameEn": "Yangon (West)",
-    "districtNameMm": "ရန်ကုန်(အနောက်ပိုင်း)",
-    "townshipCode": "MMR013033",
-    "townshipNameEn": "Yangon City",
-    "townshipNameMm": "ရန်ကုန်",
-    "longitude": "96.16093",
-    "latitude": "16.77819"
-  },
-  {
-    "id": 510,
+    "id": 508,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7140,7 +7112,7 @@
     "latitude": "16.63393"
   },
   {
-    "id": 511,
+    "id": 509,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7154,7 +7126,7 @@
     "latitude": "16.64788"
   },
   {
-    "id": 512,
+    "id": 510,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7168,7 +7140,7 @@
     "latitude": "16.81457"
   },
   {
-    "id": 513,
+    "id": 511,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7182,7 +7154,7 @@
     "latitude": "16.77991"
   },
   {
-    "id": 514,
+    "id": 512,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7196,7 +7168,7 @@
     "latitude": "16.77712"
   },
   {
-    "id": 515,
+    "id": 513,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7210,7 +7182,7 @@
     "latitude": "16.86619"
   },
   {
-    "id": 516,
+    "id": 514,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7224,7 +7196,7 @@
     "latitude": "17.04276"
   },
   {
-    "id": 517,
+    "id": 515,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7238,7 +7210,7 @@
     "latitude": "16.94914"
   },
   {
-    "id": 518,
+    "id": 516,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7252,7 +7224,7 @@
     "latitude": "16.78891"
   },
   {
-    "id": 519,
+    "id": 517,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7266,7 +7238,7 @@
     "latitude": "16.91878"
   },
   {
-    "id": 520,
+    "id": 518,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7280,7 +7252,7 @@
     "latitude": "16.77698"
   },
   {
-    "id": 521,
+    "id": 519,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7294,7 +7266,7 @@
     "latitude": "16.77965"
   },
   {
-    "id": 522,
+    "id": 520,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7308,7 +7280,7 @@
     "latitude": "16.80381"
   },
   {
-    "id": 523,
+    "id": 521,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7322,7 +7294,7 @@
     "latitude": "16.75779"
   },
   {
-    "id": 524,
+    "id": 522,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7336,7 +7308,7 @@
     "latitude": "16.7704"
   },
   {
-    "id": 525,
+    "id": 523,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7350,7 +7322,7 @@
     "latitude": "16.95504"
   },
   {
-    "id": 526,
+    "id": 524,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7364,7 +7336,7 @@
     "latitude": "16.84625"
   },
   {
-    "id": 527,
+    "id": 525,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7378,7 +7350,7 @@
     "latitude": "17.38239"
   },
   {
-    "id": 528,
+    "id": 526,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7392,7 +7364,7 @@
     "latitude": "17.49696"
   },
   {
-    "id": 529,
+    "id": 527,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7406,7 +7378,7 @@
     "latitude": "17.31263"
   },
   {
-    "id": 530,
+    "id": 528,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7420,7 +7392,7 @@
     "latitude": "16.81018"
   },
   {
-    "id": 531,
+    "id": 529,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7434,7 +7406,7 @@
     "latitude": "16.79301"
   },
   {
-    "id": 532,
+    "id": 530,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7448,7 +7420,7 @@
     "latitude": "16.76378"
   },
   {
-    "id": 533,
+    "id": 531,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7462,7 +7434,7 @@
     "latitude": "16.83101"
   },
   {
-    "id": 534,
+    "id": 532,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7476,7 +7448,7 @@
     "latitude": "16.7586"
   },
   {
-    "id": 535,
+    "id": 533,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7490,7 +7462,7 @@
     "latitude": "16.70734"
   },
   {
-    "id": 536,
+    "id": 534,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
