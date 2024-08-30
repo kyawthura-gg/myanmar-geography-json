@@ -82,7 +82,7 @@ async function main() {
         id: i + 1,
         regionCode,
         districtCode: parsedData['District/SAZ_Pcode'],
-        townshipCode: parsedData['Tsp_Pcode'],
+        townshipCode: parsedData['Town_Pcode'],
         townshipNameEn: parsedData['Town_Name_Eng']
           ?.replace('Town', '')
           ?.trim(),
@@ -149,7 +149,7 @@ async function main() {
         districtCode,
         districtNameEn: district?.districtNameEn,
         districtNameMm: district.districtNameMm ?? district?.districtNameEn,
-        townshipCode: parsedData['Tsp_Pcode'],
+        townshipCode: parsedData['Town_Pcode'],
         townshipNameEn: parsedData['Town_Name_Eng']
           ?.replace('Town', '')
           ?.trim(),
