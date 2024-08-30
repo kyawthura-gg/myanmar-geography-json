@@ -303,7 +303,6 @@ MMR005,Sagaing,MMR005D003,Monywa,MMR005013,Budalin,MMR005013701,Budalin Town,ဘ
 MMR005,Sagaing,MMR005D003,Monywa,MMR005015,Chaung-U,MMR005015701,Chaung-U Town,ချောင်းဦး,95.27363,21.95693
 MMR005,Sagaing,MMR005D008,Hkamti,MMR005033,Hkamti,MMR005033701,Hkamti Town,ခန္တီး,95.69547,25.99243
 MMR005,Sagaing,MMR005D008,Hkamti,MMR005034,Homalin,MMR005034701,Homalin Town,ဟုမ္မလင်း,94.91088,24.8644
-MMR005,Sagaing,MMR005D008,Hkamti,MMR005034,Homalin,MMR005034703,Mo Waing Lut Town,မိုဝိုင်းလွတ်,94.9645,25.0834
 MMR005,Sagaing,MMR005D008,Hkamti,MMR005034,Homalin,MMR005034702,Shwe Pyi Aye Town,ရွှေပြည်အေး,94.73147,24.68344
 MMR005,Sagaing,MMR005D004,Katha,MMR005021,Indaw,MMR005021701,Indaw Town,အင်းတော်,96.14167,24.22252
 MMR005,Sagaing,MMR005D004,Katha,MMR005021,Indaw,MMR005021702,Maw Lu Town,မော်လူး,96.1796,24.4649
@@ -316,19 +315,11 @@ MMR005,Sagaing,MMR005D004,Katha,MMR005020,Katha,MMR005020701,Katha Town,ကသ�
 MMR005,Sagaing,MMR005D011,Kawlin,MMR005024,Kawlin,MMR005024701,Kawlin Town,ကောလင်း,95.68339,23.79026
 MMR005,Sagaing,MMR005D002,Shwebo,MMR005005,Khin-U,MMR005005701,Khin-U Town,ခင်ဦး,95.62149,22.77016
 MMR005,Sagaing,MMR005D010,Kanbalu,MMR005008,Kyunhla,MMR005008701,Kyunhla Town,ကျွန်းလှ,95.5321,23.31964
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005036,Lahe,MMR005036701,Lahe Town,လဟယ်,95.44113,26.32594
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005036,Lahe,MMR005036702,Thangpakwe Town,ထန်ပါခွေ,95.24148,25.96589
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005035,Layshi,MMR005035701,Layshi Town,လေရှီး,94.95663,25.44706
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005035,Layshi,MMR005035702,Mowailut Town,မိုပိုင်းလွတ်,94.78748,25.04671
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005035,Layshi,MMR005035703,Somra Town,ဆွမ္မရာ,94.68729,25.36455
 MMR005,Sagaing,MMR005D007,Mawlaik,MMR005031,Mawlaik,MMR005031701,Mawlaik Town,မော်လိုက်,94.41201,23.63512
 MMR005,Sagaing,MMR005D005,Kale,MMR005029,Mingin,MMR005029701,Mingin Town,မင်းကင်း,94.4942,22.87781
 MMR005,Sagaing,MMR005D003,Monywa,MMR005012,Monywa,MMR005012701,Monywa Town,မုံရွာ,95.13963,22.12168
 MMR005,Sagaing,MMR005D001,Sagaing,MMR005003,Myaung,MMR005003701,Myaung Town,မြောင်,95.42425,21.83164
 MMR005,Sagaing,MMR005D001,Sagaing,MMR005002,Myinmu,MMR005002701,Myinmu Town,မြင်းမူ,95.57157,21.92681
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005037,Nanyun,MMR005037703,Dohi Town,ဒုံဟီး,95.79165,26.7757
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005037,Nanyun,MMR005037701,Namyung Town,နန်းယွန်း,96.16705,26.97979
-MMR005,Sagaing,MMR005D008,Naga Self-Administered Zone,MMR005037,Nanyun,MMR005037702,Pansau Town,ပန်ဆောင်,96.16712,27.23683
 MMR005,Sagaing,MMR005D009,Yinmarbin,MMR005019,Pale,MMR005019701,Pale Town,ပုလဲ,94.87486,21.93415
 MMR005,Sagaing,MMR005D007,Mawlaik,MMR005032,Paungbyin,MMR005032701,Paungbyin Town,ဖောင်းပြင်,94.81686,24.26768
 MMR005,Sagaing,MMR005D011,Kawlin,MMR005026,Pinlebu,MMR005026701,Pinlebu Town,ပင်လည်ဘူး,95.37026,24.08089
@@ -348,11 +339,7 @@ MMR005,Sagaing,MMR005D002,Shwebo,MMR005006,Wetlet,MMR005006701,Wetlet Town,ဝ�
 MMR005,Sagaing,MMR005D011,Kawlin,MMR005025,Wuntho,MMR005025701,Wuntho Town,ဝန်းသို,95.68193,23.89924
 MMR005,Sagaing,MMR005D002,Shwebo,MMR005009,Ye-U,MMR005009701,Ye-U Town,ရေဦး,95.43049,22.76914
 MMR005,Sagaing,MMR005D009,Yinmarbin,MMR005016,Yinmarbin,MMR005016701,Yinmarbin Town,ယင်းမာပင်,94.90014,22.07779
-MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),MMR016320,Ho Tawng (Ho Tao),MMR016320701,Ho Tawng (Ho Tao) Town,ဟိုတောင်း,99.55067,22.04143
 MMR016,Shan (East),MMR016D001,Kengtung,MMR016001,Kengtung,MMR016001701,Kengtung Town,ကျိုင်းတုံ,99.6036,21.29189
-MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),MMR016319,Mong Hpen,MMR016319701,Mong Hpen Town,မိုင်းဖျန်,99.59892,21.98542
-MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),MMR016322,Mong Kar,MMR016322701,Mong Kar Town,မိုင်းကာ,99.41942,21.84343
-MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),MMR016321,Mong Pawk,MMR016321701,Mong Pawk Town,မိုင်းပေါက်,99.3101,22.00822
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016010,Monghpyak,MMR016010701,Monghpyak Town,မိုင်းဖြတ်,99.92333,20.87804
 MMR016,Shan (East),MMR016D002,Monghsat,MMR016006,Monghsat,MMR016006701,Monghsat Town,မိုင်းဆတ်,99.24724,20.50544
 MMR016,Shan (East),MMR016D002,Monghsat,MMR016006,Monghsat,MMR016006702,Mongkhoke Town,မိုင်းခုတ်,99.4636,20.74048
@@ -363,24 +350,16 @@ MMR016,Shan (East),MMR016D001,Kengtung,MMR016007,Mongping,MMR016007702,Tontar To
 MMR016,Shan (East),MMR016D002,Monghsat,MMR016008,Mongton,MMR016008703,Hmone Hta Town,မုံးထ,98.56708,19.7979
 MMR016,Shan (East),MMR016D002,Monghsat,MMR016008,Mongton,MMR016008701,Mongton Town,မိုင်းတုံ,98.90008,20.30351
 MMR016,Shan (East),MMR016D002,Monghsat,MMR016008,Mongton,MMR016008702,Ponparkyin Town,ပုံပါကျင်,98.9382,19.8892
-MMR016,Shan (East),MMR016D001,Kengtung,MMR016003,Mongyang,MMR016003702,Mongpauk Town,မိုင်းပေါက်,99.3101,22.0082
 MMR016,Shan (East),MMR016D001,Kengtung,MMR016003,Mongyang,MMR016003701,Mongyang Town,မိုင်းယန်း,99.68711,21.84235
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011701,Mongyawng Town,မိုင်းယောင်း,100.3579,21.1807
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016011,Mongyawng,MMR016011702,Mongyu Town,မိုင်းယု,100.55082,21.32976
-MMR016,Shan (East),MMR016D333,Mong Pawk (Wa SAD),MMR016323,Nam Hpai,MMR016323701,Nam Hpai Town,နမ့်ဖိုင်,99.20035,21.92906
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016009,Tachileik,MMR016009702,Kenglat Town,ကျိုင်းလပ်,100.534,20.867
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016009,Tachileik,MMR016009701,Tachileik Town,တာချီလိတ်,99.88403,20.45304
 MMR016,Shan (East),MMR016D003,Tachileik,MMR016009,Tachileik,MMR016009703,Tarlay Town,တာလေ,100.09307,20.71262
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015311,Aik Chan (Ai' Chun),MMR015311701,Aik Chan (Ai' Chun) Town,အိုက်ချန်,99.22358,22.76395
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015306,Hkun Mar (Hkwin Ma),MMR015306701,Hkun Mar (Hkwin Ma) Town,ခွန်းမား,99.46016,22.9794
 MMR015,Shan (North),MMR015D006,Hopang,MMR015021,Hopang,MMR015021701,Hopang Town,ဟိုပန်,98.75029,23.42544
-MMR015,Shan (North),MMR015D006,Hopang,MMR015021,Hopang,MMR015021702,Namtit Town,နမ့်တစ်,98.86722,23.47583
 MMR015,Shan (North),MMR015D006,Hopang,MMR015021,Hopang,MMR015021703,Pan Lon Town,ပန်လုံ,98.78571,23.25641
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015305,Hsawng Hpa (Saun Pha),MMR015305701,Hsawng Hpa (Saun Pha) Town,ဆောင်ဖ,99.22365,23.0846
 MMR015,Shan (North),MMR015D001,Lashio,MMR015002,Hseni,MMR015002701,Hseni Town,သိန္နီ,97.9736,23.3072
 MMR015,Shan (North),MMR015D003,Kyaukme,MMR015014,Hsipaw,MMR015014701,Hsipaw Town,သီပေါ,97.2981,22.61894
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015310,Ka Lawng Hpar,MMR015310701,Ka Lawng Hpar Town,ကလောင်ဖါ,98.72545,22.71811
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015304,Kawng Min Hsang,MMR015304702,Mong Maw Town,မိုင်းမော,98.96356,22.96912
 MMR015,Shan (North),MMR015D005,Kokang Self-Administered Zone,MMR015023,Konkyan,MMR015023701,Konkyan Town,ကုန်းကြမ်း,98.53934,23.82946
 MMR015,Shan (North),MMR015D005,Kokang Self-Administered Zone,MMR015023,Konkyan,MMR015023702,Maw Hteik Town,,98.79679,24.09412
 MMR015,Shan (North),MMR015D001,Lashio,MMR015020,Kunlong,MMR015020701,Kunlong Town,ကွမ်းလုံ,98.65053,23.41645
@@ -392,39 +371,23 @@ MMR015,Shan (North),MMR015D003,Kyaukme,MMR015012,Kyaukme,MMR015012702,Mongngawt 
 MMR015,Shan (North),MMR015D001,Lashio,MMR015001,Lashio,MMR015001701,Lashio Town,လားရှိုး,97.74747,22.95277
 MMR015,Shan (North),MMR015D005,Kokang Self-Administered Zone,MMR015022,Laukkaing,MMR015022702,Chinshwehaw Town,ချင်းရွှေဟော်,98.82419,23.47557
 MMR015,Shan (North),MMR015D005,Kokang Self-Administered Zone,MMR015022,Laukkaing,MMR015022701,Laukkaing Town,လောက်ကိုင်,98.76408,23.69163
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015309,Lin Haw,MMR015309701,Lin Haw Town,လင်ဟော်,98.83702,22.77647
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015307,Long Htan,MMR015307701,Long Htan Town,လုံထန်,99.36871,22.90568
 MMR015,Shan (North),MMR015D008,Mongmit,MMR015018,Mabein,MMR015018701,Mabein Town,မဘိမ်း,96.6292,23.47292
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015313,Man Man Hseng,MMR015313701,Man Man Hseng Town,မန်မန်ဆိုင်,98.76685,22.50304
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015303,Man Tun,MMR015303701,Man Tun Town,မန်တွန်း,98.612,22.94789
 MMR015,Shan (North),MMR015D003,Pa Laung Self-Administered Zone,MMR015019,Manton,MMR015019701,Manton Town,မန်တုံ,97.12222,23.24648
 MMR015,Shan (North),MMR015D007,Matman,MMR015024,Matman,MMR015024701,Matman Town,မက်မန်း,98.87088,21.95417
-MMR015,Shan (North),MMR015D006,Hopang,MMR015008,Mongmao,MMR015008701,Mongmao Town,မိုင်းမော,98.9674,22.9672
 MMR015,Shan (North),MMR015D008,Mongmit,MMR015017,Mongmit,MMR015017701,Mongmit Town,မိုးမိတ်,96.66999,23.11422
 MMR015,Shan (North),MMR015D001,Lashio,MMR015003,Mongyai,MMR015003701,Mongyai Town,မိုင်းရယ်,98.039,22.42762
 MMR015,Shan (North),MMR015D002,Muse,MMR015009,Muse,MMR015009703,Manhlyoe (Manhero) Town,(မန်ဟျိုး) မန်ဟီးရိုး,97.80064,23.95176
 MMR015,Shan (North),MMR015D002,Muse,MMR015009,Muse,MMR015009702,Monekoe Town,မုန်းကိုး,98.3031,24.0998
 MMR015,Shan (North),MMR015D002,Muse,MMR015009,Muse,MMR015009701,Muse Town,မူဆယ်,97.90165,23.98989
 MMR015,Shan (North),MMR015D002,Muse,MMR015009,Muse,MMR015009704,Pang Hseng (Kyu Koke) Town,ပန်ဆိုင်း (ကြူကုတ်),98.06229,24.07548
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015315,Nam Hkam Wu,MMR015315701,Nam Hkam Wu Town,နမ်ခမ်းဝူး,99.18664,22.47704
 MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015301,Nam Tit,MMR015301701,Nam Tit Town,နမ့်တစ်,98.86718,23.47584
 MMR015,Shan (North),MMR015D002,Muse,MMR015010,Namhkan,MMR015010701,Namhkan Town,နမ့်ခမ်း,97.6818,23.837
 MMR015,Shan (North),MMR015D003,Pa Laung Self-Administered Zone,MMR015016,Namhsan,MMR015016701,Namhsan Town,နမ့်ဆန်,97.16126,22.96407
 MMR015,Shan (North),MMR015D003,Kyaukme,MMR015015,Namtu,MMR015015701,Namtu Town,နမ္မတူ,97.40049,23.09361
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015316,Nar Kawng,MMR015316701,Nar Kawng Town,နားကောင်,98.71027,22.37369
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015302,Nar Wee (Na Wi),MMR015302701,Nar Wee (Na Wi) Town,နာဝီး,98.66354,23.11117
-MMR015,Shan (North),MMR015D007,Matman,MMR015006,Narphan,MMR015006701,Narphan Town,နားဖန်,99.09258,22.60793
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015314,Nawng Hkit,MMR015314701,Nawng Hkit Town,နောင်ခစ်,98.9248,22.43836
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015314,Nawng Hkit,MMR015314702,Wein Kawn Town,ဝိန်းကောင်,98.93896,22.30273
 MMR015,Shan (North),MMR015D003,Kyaukme,MMR015013,Nawnghkio,MMR015013701,Nawnghkio Town,နောင်ချို,96.79895,22.33003
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015317,Pang Hkam,MMR015317701,Pang Hkam Town,ပန်ခမ့်,99.17044,22.17594
-MMR015,Shan (North),MMR015D332,Wein Kawng (Wein Kao) (Wa SAD),MMR015318,Pang Yang,MMR015318701,Pang Yang Town,ပန်ယန်း,98.79675,22.12912
 MMR015,Shan (North),MMR015D007,Matman,MMR015005,Pangsang (Panghkam),MMR015005702,Man Kan Town,မန်ကန်,98.59519,22.68954
 MMR015,Shan (North),MMR015D007,Matman,MMR015005,Pangsang (Panghkam),MMR015005701,Pangsang (Panghkam) Town,ပန်ဆန်း (ပန်ခမ်း),99.17044,22.17594
-MMR015,Shan (North),MMR015D006,Hopang,MMR015007,Pangwaun,MMR015007701,Pangwaun Town,ပန်ဝိုင်,99.30908,23.05628
 MMR015,Shan (North),MMR015D001,Lashio,MMR015004,Tangyan,MMR015004701,Tangyan Town,တန့်ယန်း,98.3968,22.4981
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015308,Yawng Lin,MMR015308701,Yawng Lin Town,ယောင်လင်း,99.31197,22.95939
-MMR015,Shan (North),MMR015D331,Mong Maw (Wa SAD),MMR015312,Yin Pang,MMR015312701,Yin Pang Town,ရင်ဖန့်,99.28307,22.62819
 MMR014,Shan (South),MMR014D001,Pa-O Self-Administered Zone,MMR014003,Hopong,MMR014003701,Hopong Town,ဟိုပုံး,97.17024,20.79743
 MMR014,Shan (South),MMR014D001,Pa-O Self-Administered Zone,MMR014004,Hsihseng,MMR014004701,Hsihseng Town,ဆီဆိုင်,97.2519,20.16227
 MMR014,Shan (South),MMR014D001,Taunggyi,MMR014005,Kalaw,MMR014005702,Aungpan Town,အောင်ပန်း,96.63584,20.66122
@@ -492,14 +455,13 @@ MMR013,Yangon,MMR013D002,Yangon (East),MMR013018,Dagon Myothit (South),MMR013018
 MMR013,Yangon,MMR013D003,Yangon (South),MMR013030,Dala,MMR013030701,Dala,ဒလ,96.143,16.75855
 MMR013,Yangon,MMR013D002,Yangon (East),MMR013014,Dawbon,MMR013014701,Dawbon,ဒေါပုံ,96.18435,16.78192
 MMR013,Yangon,MMR013D004,Yangon (West),MMR013040,Hlaing,MMR013040701,Hlaing,လှိုင်,96.12523,16.84793
-MMR013,Yangon,MMR013D001,Yangon (North),MMR013008,Hlaingtharya,MMR013008701,Hlaingtharya Town,လှိုင်သာယာ,96.06893,16.85402
-MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046701,Hlaingtharya (East) Town,လှိုင်သာယာ (အရှေ့ပိုင်း),,
-MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047701,Hlaingtharya (West) Town,လှိုင်သာယာ (အနောက်ပိုင်း),,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013046,Hlaingtharya (East),MMR013046701,Hlaingtharya (East) Town,လှိုင်သာယာ (အရှေ့ပိုင်း),96.06893,16.85402,
+MMR013,Yangon,MMR013D001,Yangon (North),MMR013047,Hlaingtharya (West),MMR013047701,Hlaingtharya (West) Town,လှိုင်သာယာ (အနောက်ပိုင်း),96.06893,16.85402,
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013004,Hlegu,MMR013004701,Hlegu Town,လှည်းကူး,96.22745,17.09875
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013003,Hmawbi,MMR013003701,Hmawbi Town,မှော်ဘီ,96.0418,17.09987
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013006,Htantabin,MMR013006701,Htantabin Town,ထန်းတပင်,95.9827,17.0174
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013001,Insein,MMR013001701,Insein,အင်းစိန်,96.09596,16.90177
-MMR013,Yangon,MMR013D004,Yangon (West),MMR013041,Kamaryut,MMR013041701,Kamaryut,ကမာရွတ်,96.13244,16.82768
+MMR013,Yangon,MMR013D004,Yangon (West),MMR013041,Kamayut,MMR013041701,Kamayut,ကမာရွတ်,96.13244,16.82768
 MMR013,Yangon,MMR013D003,Yangon (South),MMR013028,Kawhmu,MMR013028701,Kawhmu Town,ကော့မှူး,96.06195,16.54616
 MMR013,Yangon,MMR013D003,Yangon (South),MMR013026,Kayan,MMR013026701,Kayan Town,ခရမ်း,96.5605,16.90544
 MMR013,Yangon,MMR013D003,Yangon (South),MMR013029,Kungyangon,MMR013029701,Kungyangon Town,ကွမ်းခြံကုန်း,96.0119,16.4394

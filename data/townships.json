@@ -3043,16 +3043,6 @@
     "id": 305,
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
-    "townshipCode": "MMR005034703",
-    "townshipNameEn": "Mo Waing Lut",
-    "townshipNameMm": "မိုဝိုင်းလွတ်",
-    "longitude": "94.9645",
-    "latitude": "25.0834"
-  },
-  {
-    "id": 306,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
     "townshipCode": "MMR005034702",
     "townshipNameEn": "Shwe Pyi Aye",
     "townshipNameMm": "ရွှေပြည်အေး",
@@ -3060,7 +3050,7 @@
     "latitude": "24.68344"
   },
   {
-    "id": 307,
+    "id": 306,
     "regionCode": "MMR005",
     "districtCode": "MMR005D004",
     "townshipCode": "MMR005021701",
@@ -3070,7 +3060,7 @@
     "latitude": "24.22252"
   },
   {
-    "id": 308,
+    "id": 307,
     "regionCode": "MMR005",
     "districtCode": "MMR005D004",
     "townshipCode": "MMR005021702",
@@ -3080,7 +3070,7 @@
     "latitude": "24.4649"
   },
   {
-    "id": 309,
+    "id": 308,
     "regionCode": "MMR005",
     "districtCode": "MMR005D005",
     "townshipCode": "MMR005027701",
@@ -3090,7 +3080,7 @@
     "latitude": "23.1933"
   },
   {
-    "id": 310,
+    "id": 309,
     "regionCode": "MMR005",
     "districtCode": "MMR005D005",
     "townshipCode": "MMR005028701",
@@ -3100,7 +3090,7 @@
     "latitude": "23.1998"
   },
   {
-    "id": 311,
+    "id": 310,
     "regionCode": "MMR005",
     "districtCode": "MMR005D010",
     "townshipCode": "MMR005007701",
@@ -3110,7 +3100,7 @@
     "latitude": "23.20305"
   },
   {
-    "id": 312,
+    "id": 311,
     "regionCode": "MMR005",
     "districtCode": "MMR005D010",
     "townshipCode": "MMR005007702",
@@ -3120,7 +3110,7 @@
     "latitude": "22.9311"
   },
   {
-    "id": 313,
+    "id": 312,
     "regionCode": "MMR005",
     "districtCode": "MMR005D009",
     "townshipCode": "MMR005017701",
@@ -3130,7 +3120,7 @@
     "latitude": "22.43291"
   },
   {
-    "id": 314,
+    "id": 313,
     "regionCode": "MMR005",
     "districtCode": "MMR005D004",
     "townshipCode": "MMR005020701",
@@ -3140,7 +3130,7 @@
     "latitude": "24.18163"
   },
   {
-    "id": 315,
+    "id": 314,
     "regionCode": "MMR005",
     "districtCode": "MMR005D011",
     "townshipCode": "MMR005024701",
@@ -3150,7 +3140,7 @@
     "latitude": "23.79026"
   },
   {
-    "id": 316,
+    "id": 315,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005005701",
@@ -3160,7 +3150,7 @@
     "latitude": "22.77016"
   },
   {
-    "id": 317,
+    "id": 316,
     "regionCode": "MMR005",
     "districtCode": "MMR005D010",
     "townshipCode": "MMR005008701",
@@ -3170,57 +3160,7 @@
     "latitude": "23.31964"
   },
   {
-    "id": 318,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005036701",
-    "townshipNameEn": "Lahe",
-    "townshipNameMm": "လဟယ်",
-    "longitude": "95.44113",
-    "latitude": "26.32594"
-  },
-  {
-    "id": 319,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005036702",
-    "townshipNameEn": "Thangpakwe",
-    "townshipNameMm": "ထန်ပါခွေ",
-    "longitude": "95.24148",
-    "latitude": "25.96589"
-  },
-  {
-    "id": 320,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005035701",
-    "townshipNameEn": "Layshi",
-    "townshipNameMm": "လေရှီး",
-    "longitude": "94.95663",
-    "latitude": "25.44706"
-  },
-  {
-    "id": 321,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005035702",
-    "townshipNameEn": "Mowailut",
-    "townshipNameMm": "မိုပိုင်းလွတ်",
-    "longitude": "94.78748",
-    "latitude": "25.04671"
-  },
-  {
-    "id": 322,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005035703",
-    "townshipNameEn": "Somra",
-    "townshipNameMm": "ဆွမ္မရာ",
-    "longitude": "94.68729",
-    "latitude": "25.36455"
-  },
-  {
-    "id": 323,
+    "id": 317,
     "regionCode": "MMR005",
     "districtCode": "MMR005D007",
     "townshipCode": "MMR005031701",
@@ -3230,7 +3170,7 @@
     "latitude": "23.63512"
   },
   {
-    "id": 324,
+    "id": 318,
     "regionCode": "MMR005",
     "districtCode": "MMR005D005",
     "townshipCode": "MMR005029701",
@@ -3240,7 +3180,7 @@
     "latitude": "22.87781"
   },
   {
-    "id": 325,
+    "id": 319,
     "regionCode": "MMR005",
     "districtCode": "MMR005D003",
     "townshipCode": "MMR005012701",
@@ -3250,7 +3190,7 @@
     "latitude": "22.12168"
   },
   {
-    "id": 326,
+    "id": 320,
     "regionCode": "MMR005",
     "districtCode": "MMR005D001",
     "townshipCode": "MMR005003701",
@@ -3260,7 +3200,7 @@
     "latitude": "21.83164"
   },
   {
-    "id": 327,
+    "id": 321,
     "regionCode": "MMR005",
     "districtCode": "MMR005D001",
     "townshipCode": "MMR005002701",
@@ -3270,37 +3210,7 @@
     "latitude": "21.92681"
   },
   {
-    "id": 328,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005037703",
-    "townshipNameEn": "Dohi",
-    "townshipNameMm": "ဒုံဟီး",
-    "longitude": "95.79165",
-    "latitude": "26.7757"
-  },
-  {
-    "id": 329,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005037701",
-    "townshipNameEn": "Namyung",
-    "townshipNameMm": "နန်းယွန်း",
-    "longitude": "96.16705",
-    "latitude": "26.97979"
-  },
-  {
-    "id": 330,
-    "regionCode": "MMR005",
-    "districtCode": "MMR005D008",
-    "townshipCode": "MMR005037702",
-    "townshipNameEn": "Pansau",
-    "townshipNameMm": "ပန်ဆောင်",
-    "longitude": "96.16712",
-    "latitude": "27.23683"
-  },
-  {
-    "id": 331,
+    "id": 322,
     "regionCode": "MMR005",
     "districtCode": "MMR005D009",
     "townshipCode": "MMR005019701",
@@ -3310,7 +3220,7 @@
     "latitude": "21.93415"
   },
   {
-    "id": 332,
+    "id": 323,
     "regionCode": "MMR005",
     "districtCode": "MMR005D007",
     "townshipCode": "MMR005032701",
@@ -3320,7 +3230,7 @@
     "latitude": "24.26768"
   },
   {
-    "id": 333,
+    "id": 324,
     "regionCode": "MMR005",
     "districtCode": "MMR005D011",
     "townshipCode": "MMR005026701",
@@ -3330,7 +3240,7 @@
     "latitude": "24.08089"
   },
   {
-    "id": 334,
+    "id": 325,
     "regionCode": "MMR005",
     "districtCode": "MMR005D001",
     "townshipCode": "MMR005001701",
@@ -3340,7 +3250,7 @@
     "latitude": "21.88008"
   },
   {
-    "id": 335,
+    "id": 326,
     "regionCode": "MMR005",
     "districtCode": "MMR005D001",
     "townshipCode": "MMR005001702",
@@ -3350,7 +3260,7 @@
     "latitude": "22.1639"
   },
   {
-    "id": 336,
+    "id": 327,
     "regionCode": "MMR005",
     "districtCode": "MMR005D009",
     "townshipCode": "MMR005018701",
@@ -3360,7 +3270,7 @@
     "latitude": "21.97363"
   },
   {
-    "id": 337,
+    "id": 328,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005004702",
@@ -3370,7 +3280,7 @@
     "latitude": "22.59329"
   },
   {
-    "id": 338,
+    "id": 329,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005004701",
@@ -3380,7 +3290,7 @@
     "latitude": "22.56996"
   },
   {
-    "id": 339,
+    "id": 330,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005010702",
@@ -3390,7 +3300,7 @@
     "latitude": "22.5561"
   },
   {
-    "id": 340,
+    "id": 331,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005010701",
@@ -3400,7 +3310,7 @@
     "latitude": "22.68529"
   },
   {
-    "id": 341,
+    "id": 332,
     "regionCode": "MMR005",
     "districtCode": "MMR005D006",
     "townshipCode": "MMR005030703",
@@ -3410,7 +3320,7 @@
     "latitude": "23.77977"
   },
   {
-    "id": 342,
+    "id": 333,
     "regionCode": "MMR005",
     "districtCode": "MMR005D006",
     "townshipCode": "MMR005030702",
@@ -3420,7 +3330,7 @@
     "latitude": "24.51539"
   },
   {
-    "id": 343,
+    "id": 334,
     "regionCode": "MMR005",
     "districtCode": "MMR005D006",
     "townshipCode": "MMR005030701",
@@ -3430,7 +3340,7 @@
     "latitude": "24.21149"
   },
   {
-    "id": 344,
+    "id": 335,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005011701",
@@ -3440,7 +3350,7 @@
     "latitude": "22.94407"
   },
   {
-    "id": 345,
+    "id": 336,
     "regionCode": "MMR005",
     "districtCode": "MMR005D004",
     "townshipCode": "MMR005022701",
@@ -3450,7 +3360,7 @@
     "latitude": "23.75452"
   },
   {
-    "id": 346,
+    "id": 337,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005006701",
@@ -3460,7 +3370,7 @@
     "latitude": "22.36715"
   },
   {
-    "id": 347,
+    "id": 338,
     "regionCode": "MMR005",
     "districtCode": "MMR005D011",
     "townshipCode": "MMR005025701",
@@ -3470,7 +3380,7 @@
     "latitude": "23.89924"
   },
   {
-    "id": 348,
+    "id": 339,
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005009701",
@@ -3480,7 +3390,7 @@
     "latitude": "22.76914"
   },
   {
-    "id": 349,
+    "id": 340,
     "regionCode": "MMR005",
     "districtCode": "MMR005D009",
     "townshipCode": "MMR005016701",
@@ -3490,17 +3400,7 @@
     "latitude": "22.07779"
   },
   {
-    "id": 350,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "townshipCode": "MMR016320701",
-    "townshipNameEn": "Ho Tawng (Ho Tao)",
-    "townshipNameMm": "ဟိုတောင်း",
-    "longitude": "99.55067",
-    "latitude": "22.04143"
-  },
-  {
-    "id": 351,
+    "id": 341,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016001701",
@@ -3510,37 +3410,7 @@
     "latitude": "21.29189"
   },
   {
-    "id": 352,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "townshipCode": "MMR016319701",
-    "townshipNameEn": "Mong Hpen",
-    "townshipNameMm": "မိုင်းဖျန်",
-    "longitude": "99.59892",
-    "latitude": "21.98542"
-  },
-  {
-    "id": 353,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "townshipCode": "MMR016322701",
-    "townshipNameEn": "Mong Kar",
-    "townshipNameMm": "မိုင်းကာ",
-    "longitude": "99.41942",
-    "latitude": "21.84343"
-  },
-  {
-    "id": 354,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "townshipCode": "MMR016321701",
-    "townshipNameEn": "Mong Pawk",
-    "townshipNameMm": "မိုင်းပေါက်",
-    "longitude": "99.3101",
-    "latitude": "22.00822"
-  },
-  {
-    "id": 355,
+    "id": 342,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016010701",
@@ -3550,7 +3420,7 @@
     "latitude": "20.87804"
   },
   {
-    "id": 356,
+    "id": 343,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016006701",
@@ -3560,7 +3430,7 @@
     "latitude": "20.50544"
   },
   {
-    "id": 357,
+    "id": 344,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016006702",
@@ -3570,7 +3440,7 @@
     "latitude": "20.74048"
   },
   {
-    "id": 358,
+    "id": 345,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016002701",
@@ -3580,7 +3450,7 @@
     "latitude": "21.7499"
   },
   {
-    "id": 359,
+    "id": 346,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016005701",
@@ -3590,7 +3460,7 @@
     "latitude": "21.6729"
   },
   {
-    "id": 360,
+    "id": 347,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016007701",
@@ -3600,7 +3470,7 @@
     "latitude": "21.3502"
   },
   {
-    "id": 361,
+    "id": 348,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016007702",
@@ -3610,7 +3480,7 @@
     "latitude": "21.33004"
   },
   {
-    "id": 362,
+    "id": 349,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016008703",
@@ -3620,7 +3490,7 @@
     "latitude": "19.7979"
   },
   {
-    "id": 363,
+    "id": 350,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016008701",
@@ -3630,7 +3500,7 @@
     "latitude": "20.30351"
   },
   {
-    "id": 364,
+    "id": 351,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016008702",
@@ -3640,17 +3510,7 @@
     "latitude": "19.8892"
   },
   {
-    "id": 365,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D001",
-    "townshipCode": "MMR016003702",
-    "townshipNameEn": "Mongpauk",
-    "townshipNameMm": "မိုင်းပေါက်",
-    "longitude": "99.3101",
-    "latitude": "22.0082"
-  },
-  {
-    "id": 366,
+    "id": 352,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016003701",
@@ -3660,7 +3520,7 @@
     "latitude": "21.84235"
   },
   {
-    "id": 367,
+    "id": 353,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016011701",
@@ -3670,7 +3530,7 @@
     "latitude": "21.1807"
   },
   {
-    "id": 368,
+    "id": 354,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016011702",
@@ -3680,17 +3540,7 @@
     "latitude": "21.32976"
   },
   {
-    "id": 369,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "townshipCode": "MMR016323701",
-    "townshipNameEn": "Nam Hpai",
-    "townshipNameMm": "နမ့်ဖိုင်",
-    "longitude": "99.20035",
-    "latitude": "21.92906"
-  },
-  {
-    "id": 370,
+    "id": 355,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016009702",
@@ -3700,7 +3550,7 @@
     "latitude": "20.867"
   },
   {
-    "id": 371,
+    "id": 356,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016009701",
@@ -3710,7 +3560,7 @@
     "latitude": "20.45304"
   },
   {
-    "id": 372,
+    "id": 357,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016009703",
@@ -3720,27 +3570,7 @@
     "latitude": "20.71262"
   },
   {
-    "id": 373,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015311701",
-    "townshipNameEn": "Aik Chan (Ai' Chun)",
-    "townshipNameMm": "အိုက်ချန်",
-    "longitude": "99.22358",
-    "latitude": "22.76395"
-  },
-  {
-    "id": 374,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015306701",
-    "townshipNameEn": "Hkun Mar (Hkwin Ma)",
-    "townshipNameMm": "ခွန်းမား",
-    "longitude": "99.46016",
-    "latitude": "22.9794"
-  },
-  {
-    "id": 375,
+    "id": 358,
     "regionCode": "MMR014",
     "districtCode": "MMR015D006",
     "townshipCode": "MMR015021701",
@@ -3750,17 +3580,7 @@
     "latitude": "23.42544"
   },
   {
-    "id": 376,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D006",
-    "townshipCode": "MMR015021702",
-    "townshipNameEn": "Namtit",
-    "townshipNameMm": "နမ့်တစ်",
-    "longitude": "98.86722",
-    "latitude": "23.47583"
-  },
-  {
-    "id": 377,
+    "id": 359,
     "regionCode": "MMR014",
     "districtCode": "MMR015D006",
     "townshipCode": "MMR015021703",
@@ -3770,17 +3590,7 @@
     "latitude": "23.25641"
   },
   {
-    "id": 378,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015305701",
-    "townshipNameEn": "Hsawng Hpa (Saun Pha)",
-    "townshipNameMm": "ဆောင်ဖ",
-    "longitude": "99.22365",
-    "latitude": "23.0846"
-  },
-  {
-    "id": 379,
+    "id": 360,
     "regionCode": "MMR014",
     "districtCode": "MMR015D001",
     "townshipCode": "MMR015002701",
@@ -3790,7 +3600,7 @@
     "latitude": "23.3072"
   },
   {
-    "id": 380,
+    "id": 361,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015014701",
@@ -3800,27 +3610,7 @@
     "latitude": "22.61894"
   },
   {
-    "id": 381,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015310701",
-    "townshipNameEn": "Ka Lawng Hpar",
-    "townshipNameMm": "ကလောင်ဖါ",
-    "longitude": "98.72545",
-    "latitude": "22.71811"
-  },
-  {
-    "id": 382,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015304702",
-    "townshipNameEn": "Mong Maw",
-    "townshipNameMm": "မိုင်းမော",
-    "longitude": "98.96356",
-    "latitude": "22.96912"
-  },
-  {
-    "id": 383,
+    "id": 362,
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015023701",
@@ -3830,7 +3620,7 @@
     "latitude": "23.82946"
   },
   {
-    "id": 384,
+    "id": 363,
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015023702",
@@ -3840,7 +3630,7 @@
     "latitude": "24.09412"
   },
   {
-    "id": 385,
+    "id": 364,
     "regionCode": "MMR014",
     "districtCode": "MMR015D001",
     "townshipCode": "MMR015020701",
@@ -3850,7 +3640,7 @@
     "latitude": "23.41645"
   },
   {
-    "id": 386,
+    "id": 365,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015011701",
@@ -3860,7 +3650,7 @@
     "latitude": "23.45921"
   },
   {
-    "id": 387,
+    "id": 366,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015011702",
@@ -3870,7 +3660,7 @@
     "latitude": "23.57597"
   },
   {
-    "id": 388,
+    "id": 367,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015012701",
@@ -3880,7 +3670,7 @@
     "latitude": "22.54172"
   },
   {
-    "id": 389,
+    "id": 368,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015012703",
@@ -3890,7 +3680,7 @@
     "latitude": "22.7908"
   },
   {
-    "id": 390,
+    "id": 369,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015012702",
@@ -3900,7 +3690,7 @@
     "latitude": "22.77316"
   },
   {
-    "id": 391,
+    "id": 370,
     "regionCode": "MMR014",
     "districtCode": "MMR015D001",
     "townshipCode": "MMR015001701",
@@ -3910,7 +3700,7 @@
     "latitude": "22.95277"
   },
   {
-    "id": 392,
+    "id": 371,
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015022702",
@@ -3920,7 +3710,7 @@
     "latitude": "23.47557"
   },
   {
-    "id": 393,
+    "id": 372,
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015022701",
@@ -3930,27 +3720,7 @@
     "latitude": "23.69163"
   },
   {
-    "id": 394,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015309701",
-    "townshipNameEn": "Lin Haw",
-    "townshipNameMm": "လင်ဟော်",
-    "longitude": "98.83702",
-    "latitude": "22.77647"
-  },
-  {
-    "id": 395,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015307701",
-    "townshipNameEn": "Long Htan",
-    "townshipNameMm": "လုံထန်",
-    "longitude": "99.36871",
-    "latitude": "22.90568"
-  },
-  {
-    "id": 396,
+    "id": 373,
     "regionCode": "MMR014",
     "districtCode": "MMR015D008",
     "townshipCode": "MMR015018701",
@@ -3960,27 +3730,7 @@
     "latitude": "23.47292"
   },
   {
-    "id": 397,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015313701",
-    "townshipNameEn": "Man Man Hseng",
-    "townshipNameMm": "မန်မန်ဆိုင်",
-    "longitude": "98.76685",
-    "latitude": "22.50304"
-  },
-  {
-    "id": 398,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015303701",
-    "townshipNameEn": "Man Tun",
-    "townshipNameMm": "မန်တွန်း",
-    "longitude": "98.612",
-    "latitude": "22.94789"
-  },
-  {
-    "id": 399,
+    "id": 374,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015019701",
@@ -3990,7 +3740,7 @@
     "latitude": "23.24648"
   },
   {
-    "id": 400,
+    "id": 375,
     "regionCode": "MMR014",
     "districtCode": "MMR015D007",
     "townshipCode": "MMR015024701",
@@ -4000,17 +3750,7 @@
     "latitude": "21.95417"
   },
   {
-    "id": 401,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D006",
-    "townshipCode": "MMR015008701",
-    "townshipNameEn": "Mongmao",
-    "townshipNameMm": "မိုင်းမော",
-    "longitude": "98.9674",
-    "latitude": "22.9672"
-  },
-  {
-    "id": 402,
+    "id": 376,
     "regionCode": "MMR014",
     "districtCode": "MMR015D008",
     "townshipCode": "MMR015017701",
@@ -4020,7 +3760,7 @@
     "latitude": "23.11422"
   },
   {
-    "id": 403,
+    "id": 377,
     "regionCode": "MMR014",
     "districtCode": "MMR015D001",
     "townshipCode": "MMR015003701",
@@ -4030,7 +3770,7 @@
     "latitude": "22.42762"
   },
   {
-    "id": 404,
+    "id": 378,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009703",
@@ -4040,7 +3780,7 @@
     "latitude": "23.95176"
   },
   {
-    "id": 405,
+    "id": 379,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009702",
@@ -4050,7 +3790,7 @@
     "latitude": "24.0998"
   },
   {
-    "id": 406,
+    "id": 380,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009701",
@@ -4060,7 +3800,7 @@
     "latitude": "23.98989"
   },
   {
-    "id": 407,
+    "id": 381,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009704",
@@ -4070,17 +3810,7 @@
     "latitude": "24.07548"
   },
   {
-    "id": 408,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015315701",
-    "townshipNameEn": "Nam Hkam Wu",
-    "townshipNameMm": "နမ်ခမ်းဝူး",
-    "longitude": "99.18664",
-    "latitude": "22.47704"
-  },
-  {
-    "id": 409,
+    "id": 382,
     "regionCode": "MMR014",
     "districtCode": "MMR015D331",
     "townshipCode": "MMR015301701",
@@ -4090,7 +3820,7 @@
     "latitude": "23.47584"
   },
   {
-    "id": 410,
+    "id": 383,
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015010701",
@@ -4100,7 +3830,7 @@
     "latitude": "23.837"
   },
   {
-    "id": 411,
+    "id": 384,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015016701",
@@ -4110,7 +3840,7 @@
     "latitude": "22.96407"
   },
   {
-    "id": 412,
+    "id": 385,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015015701",
@@ -4120,57 +3850,7 @@
     "latitude": "23.09361"
   },
   {
-    "id": 413,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015316701",
-    "townshipNameEn": "Nar Kawng",
-    "townshipNameMm": "နားကောင်",
-    "longitude": "98.71027",
-    "latitude": "22.37369"
-  },
-  {
-    "id": 414,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015302701",
-    "townshipNameEn": "Nar Wee (Na Wi)",
-    "townshipNameMm": "နာဝီး",
-    "longitude": "98.66354",
-    "latitude": "23.11117"
-  },
-  {
-    "id": 415,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D007",
-    "townshipCode": "MMR015006701",
-    "townshipNameEn": "Narphan",
-    "townshipNameMm": "နားဖန်",
-    "longitude": "99.09258",
-    "latitude": "22.60793"
-  },
-  {
-    "id": 416,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015314701",
-    "townshipNameEn": "Nawng Hkit",
-    "townshipNameMm": "နောင်ခစ်",
-    "longitude": "98.9248",
-    "latitude": "22.43836"
-  },
-  {
-    "id": 417,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015314702",
-    "townshipNameEn": "Wein Kawn",
-    "townshipNameMm": "ဝိန်းကောင်",
-    "longitude": "98.93896",
-    "latitude": "22.30273"
-  },
-  {
-    "id": 418,
+    "id": 386,
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015013701",
@@ -4180,27 +3860,7 @@
     "latitude": "22.33003"
   },
   {
-    "id": 419,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015317701",
-    "townshipNameEn": "Pang Hkam",
-    "townshipNameMm": "ပန်ခမ့်",
-    "longitude": "99.17044",
-    "latitude": "22.17594"
-  },
-  {
-    "id": 420,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "townshipCode": "MMR015318701",
-    "townshipNameEn": "Pang Yang",
-    "townshipNameMm": "ပန်ယန်း",
-    "longitude": "98.79675",
-    "latitude": "22.12912"
-  },
-  {
-    "id": 421,
+    "id": 387,
     "regionCode": "MMR014",
     "districtCode": "MMR015D007",
     "townshipCode": "MMR015005702",
@@ -4210,7 +3870,7 @@
     "latitude": "22.68954"
   },
   {
-    "id": 422,
+    "id": 388,
     "regionCode": "MMR014",
     "districtCode": "MMR015D007",
     "townshipCode": "MMR015005701",
@@ -4220,17 +3880,7 @@
     "latitude": "22.17594"
   },
   {
-    "id": 423,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D006",
-    "townshipCode": "MMR015007701",
-    "townshipNameEn": "Pangwaun",
-    "townshipNameMm": "ပန်ဝိုင်",
-    "longitude": "99.30908",
-    "latitude": "23.05628"
-  },
-  {
-    "id": 424,
+    "id": 389,
     "regionCode": "MMR014",
     "districtCode": "MMR015D001",
     "townshipCode": "MMR015004701",
@@ -4240,27 +3890,7 @@
     "latitude": "22.4981"
   },
   {
-    "id": 425,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015308701",
-    "townshipNameEn": "Yawng Lin",
-    "townshipNameMm": "ယောင်လင်း",
-    "longitude": "99.31197",
-    "latitude": "22.95939"
-  },
-  {
-    "id": 426,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D331",
-    "townshipCode": "MMR015312701",
-    "townshipNameEn": "Yin Pang",
-    "townshipNameMm": "ရင်ဖန့်",
-    "longitude": "99.28307",
-    "latitude": "22.62819"
-  },
-  {
-    "id": 427,
+    "id": 390,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014003701",
@@ -4270,7 +3900,7 @@
     "latitude": "20.79743"
   },
   {
-    "id": 428,
+    "id": 391,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014004701",
@@ -4280,7 +3910,7 @@
     "latitude": "20.16227"
   },
   {
-    "id": 429,
+    "id": 392,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014005702",
@@ -4290,7 +3920,7 @@
     "latitude": "20.66122"
   },
   {
-    "id": 430,
+    "id": 393,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014005703",
@@ -4300,7 +3930,7 @@
     "latitude": "20.7221"
   },
   {
-    "id": 431,
+    "id": 394,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014005701",
@@ -4310,7 +3940,7 @@
     "latitude": "20.62418"
   },
   {
-    "id": 432,
+    "id": 395,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014014702",
@@ -4320,7 +3950,7 @@
     "latitude": "21.28872"
   },
   {
-    "id": 433,
+    "id": 396,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014014701",
@@ -4330,7 +3960,7 @@
     "latitude": "21.301"
   },
   {
-    "id": 434,
+    "id": 397,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014015701",
@@ -4340,7 +3970,7 @@
     "latitude": "21.92515"
   },
   {
-    "id": 435,
+    "id": 398,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014015702",
@@ -4350,7 +3980,7 @@
     "latitude": "21.645"
   },
   {
-    "id": 436,
+    "id": 399,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014012701",
@@ -4360,7 +3990,7 @@
     "latitude": "21.27024"
   },
   {
-    "id": 437,
+    "id": 400,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014018702",
@@ -4370,7 +4000,7 @@
     "latitude": "19.769"
   },
   {
-    "id": 438,
+    "id": 401,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014018701",
@@ -4380,7 +4010,7 @@
     "latitude": "20.34222"
   },
   {
-    "id": 439,
+    "id": 402,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014008702",
@@ -4390,7 +4020,7 @@
     "latitude": "21.63124"
   },
   {
-    "id": 440,
+    "id": 403,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014008701",
@@ -4400,7 +4030,7 @@
     "latitude": "21.24664"
   },
   {
-    "id": 441,
+    "id": 404,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014011701",
@@ -4410,7 +4040,7 @@
     "latitude": "20.92536"
   },
   {
-    "id": 442,
+    "id": 405,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014011702",
@@ -4420,7 +4050,7 @@
     "latitude": "20.991"
   },
   {
-    "id": 443,
+    "id": 406,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014020701",
@@ -4430,7 +4060,7 @@
     "latitude": "20.2305"
   },
   {
-    "id": 444,
+    "id": 407,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014017701",
@@ -4440,7 +4070,7 @@
     "latitude": "21.90513"
   },
   {
-    "id": 445,
+    "id": 408,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014017702",
@@ -4450,7 +4080,7 @@
     "latitude": "21.65989"
   },
   {
-    "id": 446,
+    "id": 409,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014016701",
@@ -4460,7 +4090,7 @@
     "latitude": "21.61149"
   },
   {
-    "id": 447,
+    "id": 410,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014019702",
@@ -4470,7 +4100,7 @@
     "latitude": "20.75728"
   },
   {
-    "id": 448,
+    "id": 411,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014019701",
@@ -4480,7 +4110,7 @@
     "latitude": "20.5136"
   },
   {
-    "id": 449,
+    "id": 412,
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014021701",
@@ -4490,7 +4120,7 @@
     "latitude": "20.3188"
   },
   {
-    "id": 450,
+    "id": 413,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014013702",
@@ -4500,7 +4130,7 @@
     "latitude": "21.09887"
   },
   {
-    "id": 451,
+    "id": 414,
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014013701",
@@ -4510,7 +4140,7 @@
     "latitude": "20.88912"
   },
   {
-    "id": 452,
+    "id": 415,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014002702",
@@ -4520,7 +4150,7 @@
     "latitude": "20.45493"
   },
   {
-    "id": 453,
+    "id": 416,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014002701",
@@ -4530,7 +4160,7 @@
     "latitude": "20.65957"
   },
   {
-    "id": 454,
+    "id": 417,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014010701",
@@ -4540,7 +4170,7 @@
     "latitude": "19.86348"
   },
   {
-    "id": 455,
+    "id": 418,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014006701",
@@ -4550,7 +4180,7 @@
     "latitude": "20.94158"
   },
   {
-    "id": 456,
+    "id": 419,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014009702",
@@ -4560,7 +4190,7 @@
     "latitude": "20.29326"
   },
   {
-    "id": 457,
+    "id": 420,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014009703",
@@ -4570,7 +4200,7 @@
     "latitude": "19.98626"
   },
   {
-    "id": 458,
+    "id": 421,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014009701",
@@ -4580,7 +4210,7 @@
     "latitude": "20.12439"
   },
   {
-    "id": 459,
+    "id": 422,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001702",
@@ -4590,7 +4220,7 @@
     "latitude": "20.77475"
   },
   {
-    "id": 460,
+    "id": 423,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001703",
@@ -4600,7 +4230,7 @@
     "latitude": "20.371"
   },
   {
-    "id": 461,
+    "id": 424,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001704",
@@ -4610,7 +4240,7 @@
     "latitude": "20.76015"
   },
   {
-    "id": 462,
+    "id": 425,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001701",
@@ -4620,7 +4250,7 @@
     "latitude": "20.77477"
   },
   {
-    "id": 463,
+    "id": 426,
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014007701",
@@ -4630,7 +4260,7 @@
     "latitude": "21.16282"
   },
   {
-    "id": 464,
+    "id": 427,
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006010701",
@@ -4640,7 +4270,7 @@
     "latitude": "11.26504"
   },
   {
-    "id": 465,
+    "id": 428,
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006010703",
@@ -4650,7 +4280,7 @@
     "latitude": "10.93336"
   },
   {
-    "id": 466,
+    "id": 429,
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006010702",
@@ -4660,7 +4290,7 @@
     "latitude": "11.46842"
   },
   {
-    "id": 467,
+    "id": 430,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006001701",
@@ -4670,7 +4300,7 @@
     "latitude": "14.07753"
   },
   {
-    "id": 468,
+    "id": 431,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006001702",
@@ -4680,7 +4310,7 @@
     "latitude": "14.16355"
   },
   {
-    "id": 469,
+    "id": 432,
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006009701",
@@ -4690,7 +4320,7 @@
     "latitude": "9.98261"
   },
   {
-    "id": 470,
+    "id": 433,
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006009702",
@@ -4700,7 +4330,7 @@
     "latitude": "10.353"
   },
   {
-    "id": 471,
+    "id": 434,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006006701",
@@ -4710,7 +4340,7 @@
     "latitude": "12.47386"
   },
   {
-    "id": 472,
+    "id": 435,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006002701",
@@ -4720,7 +4350,7 @@
     "latitude": "13.97522"
   },
   {
-    "id": 473,
+    "id": 436,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006005701",
@@ -4730,7 +4360,7 @@
     "latitude": "12.44112"
   },
   {
-    "id": 474,
+    "id": 437,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006007703",
@@ -4740,7 +4370,7 @@
     "latitude": "12.84928"
   },
   {
-    "id": 475,
+    "id": 438,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006007702",
@@ -4750,7 +4380,7 @@
     "latitude": "13.27223"
   },
   {
-    "id": 476,
+    "id": 439,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006007701",
@@ -4760,7 +4390,7 @@
     "latitude": "12.97531"
   },
   {
-    "id": 477,
+    "id": 440,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006008702",
@@ -4770,7 +4400,7 @@
     "latitude": "11.7952"
   },
   {
-    "id": 478,
+    "id": 441,
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006008701",
@@ -4780,7 +4410,7 @@
     "latitude": "12.08941"
   },
   {
-    "id": 479,
+    "id": 442,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006003701",
@@ -4790,7 +4420,7 @@
     "latitude": "13.8687"
   },
   {
-    "id": 480,
+    "id": 443,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006004702",
@@ -4800,7 +4430,7 @@
     "latitude": "14.6238"
   },
   {
-    "id": 481,
+    "id": 444,
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006004701",
@@ -4810,7 +4440,7 @@
     "latitude": "14.24591"
   },
   {
-    "id": 482,
+    "id": 445,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013037701",
@@ -4820,7 +4450,7 @@
     "latitude": "16.7824"
   },
   {
-    "id": 483,
+    "id": 446,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013044701",
@@ -4830,7 +4460,7 @@
     "latitude": "16.81543"
   },
   {
-    "id": 484,
+    "id": 447,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013017701",
@@ -4840,7 +4470,7 @@
     "latitude": "16.77197"
   },
   {
-    "id": 485,
+    "id": 448,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013032701",
@@ -4850,7 +4480,7 @@
     "latitude": "14.13443"
   },
   {
-    "id": 486,
+    "id": 449,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013043701",
@@ -4860,7 +4490,7 @@
     "latitude": "16.79495"
   },
   {
-    "id": 487,
+    "id": 450,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013020701",
@@ -4870,7 +4500,7 @@
     "latitude": "16.91281"
   },
   {
-    "id": 488,
+    "id": 451,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013019701",
@@ -4880,7 +4510,7 @@
     "latitude": "16.87774"
   },
   {
-    "id": 489,
+    "id": 452,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013021701",
@@ -4890,7 +4520,7 @@
     "latitude": "16.84049"
   },
   {
-    "id": 490,
+    "id": 453,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013018701",
@@ -4900,7 +4530,7 @@
     "latitude": "16.84016"
   },
   {
-    "id": 491,
+    "id": 454,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013030701",
@@ -4910,7 +4540,7 @@
     "latitude": "16.75855"
   },
   {
-    "id": 492,
+    "id": 455,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013014701",
@@ -4920,7 +4550,7 @@
     "latitude": "16.78192"
   },
   {
-    "id": 493,
+    "id": 456,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013040701",
@@ -4930,37 +4560,27 @@
     "latitude": "16.84793"
   },
   {
-    "id": 494,
-    "regionCode": "MMR013",
-    "districtCode": "MMR013D001",
-    "townshipCode": "MMR013008701",
-    "townshipNameEn": "Hlaingtharya",
-    "townshipNameMm": "လှိုင်သာယာ",
-    "longitude": "96.06893",
-    "latitude": "16.85402"
-  },
-  {
-    "id": 495,
+    "id": 457,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013046701",
     "townshipNameEn": "Hlaingtharya (East)",
     "townshipNameMm": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "96.06893",
+    "latitude": "16.85402,"
   },
   {
-    "id": 496,
+    "id": 458,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013047701",
     "townshipNameEn": "Hlaingtharya (West)",
     "townshipNameMm": "လှိုင်သာယာ (အနောက်ပိုင်း)",
-    "longitude": "",
-    "latitude": ""
+    "longitude": "96.06893",
+    "latitude": "16.85402,"
   },
   {
-    "id": 497,
+    "id": 459,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013004701",
@@ -4970,7 +4590,7 @@
     "latitude": "17.09875"
   },
   {
-    "id": 498,
+    "id": 460,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013003701",
@@ -4980,7 +4600,7 @@
     "latitude": "17.09987"
   },
   {
-    "id": 499,
+    "id": 461,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013006701",
@@ -4990,7 +4610,7 @@
     "latitude": "17.0174"
   },
   {
-    "id": 500,
+    "id": 462,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013001701",
@@ -5000,17 +4620,17 @@
     "latitude": "16.90177"
   },
   {
-    "id": 501,
+    "id": 463,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013041701",
-    "townshipNameEn": "Kamaryut",
+    "townshipNameEn": "Kamayut",
     "townshipNameMm": "ကမာရွတ်",
     "longitude": "96.13244",
     "latitude": "16.82768"
   },
   {
-    "id": 502,
+    "id": 464,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013028701",
@@ -5020,7 +4640,7 @@
     "latitude": "16.54616"
   },
   {
-    "id": 503,
+    "id": 465,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013026701",
@@ -5030,7 +4650,7 @@
     "latitude": "16.90544"
   },
   {
-    "id": 504,
+    "id": 466,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013029701",
@@ -5040,7 +4660,7 @@
     "latitude": "16.4394"
   },
   {
-    "id": 505,
+    "id": 467,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013033701",
@@ -5050,7 +4670,7 @@
     "latitude": "16.77426"
   },
   {
-    "id": 506,
+    "id": 468,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013024701",
@@ -5060,7 +4680,7 @@
     "latitude": "16.63393"
   },
   {
-    "id": 507,
+    "id": 469,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013024702",
@@ -5070,7 +4690,7 @@
     "latitude": "16.64788"
   },
   {
-    "id": 508,
+    "id": 470,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013038701",
@@ -5080,7 +4700,7 @@
     "latitude": "16.81457"
   },
   {
-    "id": 509,
+    "id": 471,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013035701",
@@ -5090,7 +4710,7 @@
     "latitude": "16.77991"
   },
   {
-    "id": 510,
+    "id": 472,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013036701",
@@ -5100,7 +4720,7 @@
     "latitude": "16.77712"
   },
   {
-    "id": 511,
+    "id": 473,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013042701",
@@ -5110,7 +4730,7 @@
     "latitude": "16.86619"
   },
   {
-    "id": 512,
+    "id": 474,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013002702",
@@ -5120,7 +4740,7 @@
     "latitude": "17.04276"
   },
   {
-    "id": 513,
+    "id": 475,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013002701",
@@ -5130,7 +4750,7 @@
     "latitude": "16.94914"
   },
   {
-    "id": 514,
+    "id": 476,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013022701",
@@ -5140,7 +4760,7 @@
     "latitude": "16.78891"
   },
   {
-    "id": 515,
+    "id": 477,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013012701",
@@ -5150,7 +4770,7 @@
     "latitude": "16.91878"
   },
   {
-    "id": 516,
+    "id": 478,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013034701",
@@ -5160,7 +4780,7 @@
     "latitude": "16.77698"
   },
   {
-    "id": 517,
+    "id": 479,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013016701",
@@ -5170,7 +4790,7 @@
     "latitude": "16.77965"
   },
   {
-    "id": 518,
+    "id": 480,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013039701",
@@ -5180,7 +4800,7 @@
     "latitude": "16.80381"
   },
   {
-    "id": 519,
+    "id": 481,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013031701",
@@ -5190,7 +4810,7 @@
     "latitude": "16.75779"
   },
   {
-    "id": 520,
+    "id": 482,
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013045701",
@@ -5200,7 +4820,7 @@
     "latitude": "16.7704"
   },
   {
-    "id": 521,
+    "id": 483,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013007701",
@@ -5210,7 +4830,7 @@
     "latitude": "16.95504"
   },
   {
-    "id": 522,
+    "id": 484,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013011701",
@@ -5220,7 +4840,7 @@
     "latitude": "16.84625"
   },
   {
-    "id": 523,
+    "id": 485,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013005703",
@@ -5230,7 +4850,7 @@
     "latitude": "17.38239"
   },
   {
-    "id": 524,
+    "id": 486,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013005702",
@@ -5240,7 +4860,7 @@
     "latitude": "17.49696"
   },
   {
-    "id": 525,
+    "id": 487,
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013005701",
@@ -5250,7 +4870,7 @@
     "latitude": "17.31263"
   },
   {
-    "id": 526,
+    "id": 488,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013015701",
@@ -5260,7 +4880,7 @@
     "latitude": "16.81018"
   },
   {
-    "id": 527,
+    "id": 489,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013013701",
@@ -5270,7 +4890,7 @@
     "latitude": "16.79301"
   },
   {
-    "id": 528,
+    "id": 490,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013023701",
@@ -5280,7 +4900,7 @@
     "latitude": "16.76378"
   },
   {
-    "id": 529,
+    "id": 491,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013009701",
@@ -5290,7 +4910,7 @@
     "latitude": "16.83101"
   },
   {
-    "id": 530,
+    "id": 492,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013025701",
@@ -5300,7 +4920,7 @@
     "latitude": "16.7586"
   },
   {
-    "id": 531,
+    "id": 493,
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013027701",
@@ -5310,7 +4930,7 @@
     "latitude": "16.70734"
   },
   {
-    "id": 532,
+    "id": 494,
     "regionCode": "MMR013",
     "districtCode": "MMR013D002",
     "townshipCode": "MMR013010701",
