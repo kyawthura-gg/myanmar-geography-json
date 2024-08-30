@@ -83,7 +83,9 @@ async function main() {
         regionCode,
         districtCode: parsedData['District/SAZ_Pcode'],
         townshipCode: parsedData['Tsp_Pcode'],
-        townshipNameEn: parsedData['Township_Name_Eng']?.trim(),
+        townshipNameEn: parsedData['Town_Name_Eng']
+          ?.replace('Town', '')
+          ?.trim(),
         townshipNameMm: parsedData['Town_Name_MMR']?.trim(),
         longitude: parsedData['Longitude'],
         latitude: parsedData['Latitude'],
@@ -148,7 +150,9 @@ async function main() {
         districtNameEn: district?.districtNameEn,
         districtNameMm: district.districtNameMm ?? district?.districtNameEn,
         townshipCode: parsedData['Tsp_Pcode'],
-        townshipNameEn: parsedData['Township_Name_Eng']?.trim(),
+        townshipNameEn: parsedData['Town_Name_Eng']
+          ?.replace('Town', '')
+          ?.trim(),
         townshipNameMm: parsedData['Town_Name_MMR']?.trim(),
         longitude: parsedData['Longitude'],
         latitude: parsedData['Latitude'],
