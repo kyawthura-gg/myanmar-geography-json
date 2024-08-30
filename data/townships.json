@@ -44,7 +44,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017008",
-    "townshipNameEn": "Hinthada",
+    "townshipNameEn": "Du Yar",
     "townshipNameMm": "ဒူးယား",
     "longitude": "95.4802",
     "latitude": "17.5616"
@@ -64,7 +64,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017008",
-    "townshipNameEn": "Hinthada",
+    "townshipNameEn": "Ta Loke Htaw",
     "townshipNameMm": "တလုတ္ထော်",
     "longitude": "95.3046",
     "latitude": "17.6419"
@@ -74,7 +74,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017013",
-    "townshipNameEn": "Ingapu",
+    "townshipNameEn": "Htoogyi",
     "townshipNameMm": "ထူးကြီး",
     "longitude": "95.26073",
     "latitude": "17.97132"
@@ -94,7 +94,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017013",
-    "townshipNameEn": "Ingapu",
+    "townshipNameEn": "Me Za Li Kone",
     "townshipNameMm": "မဲဇလီကုန်း",
     "longitude": "95.2288",
     "latitude": "17.9009"
@@ -124,7 +124,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017012",
-    "townshipNameEn": "Kyangin",
+    "townshipNameEn": "Batye",
     "townshipNameMm": "ဘက်ရဲ",
     "longitude": "95.14703",
     "latitude": "18.30044"
@@ -154,7 +154,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017005",
-    "townshipNameEn": "Kyonpyaw",
+    "townshipNameEn": "Ahtaung",
     "townshipNameMm": "အထောင်",
     "longitude": "95.33365",
     "latitude": "17.34855"
@@ -174,7 +174,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D004",
     "townshipCode": "MMR017016",
-    "townshipNameEn": "Labutta",
+    "townshipNameEn": "Hainggyikyun",
     "townshipNameMm": "ဟိုင်းကြီးကျွန်း",
     "longitude": "94.80943",
     "latitude": "15.82677"
@@ -184,7 +184,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D004",
     "townshipCode": "MMR017016",
-    "townshipNameEn": "Labutta",
+    "townshipNameEn": "Labutta (3) Mile",
     "townshipNameMm": "လပွတ္တာ (၃) မိုင်",
     "longitude": "94.78124",
     "latitude": "16.19983"
@@ -204,7 +204,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D004",
     "townshipCode": "MMR017016",
-    "townshipNameEn": "Labutta",
+    "townshipNameEn": "Pyinsalu",
     "townshipNameMm": "ပြင်စလူ",
     "longitude": "94.80943",
     "latitude": "15.82677"
@@ -244,7 +244,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017011",
-    "townshipNameEn": "Myanaung",
+    "townshipNameEn": "In Pin",
     "townshipNameMm": "အင်ပင်",
     "longitude": "95.269",
     "latitude": "18.0935"
@@ -254,7 +254,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "townshipCode": "MMR017011",
-    "townshipNameEn": "Myanaung",
+    "townshipNameEn": "Kanaung",
     "townshipNameMm": "ကနောင်",
     "longitude": "95.38137",
     "latitude": "18.21566"
@@ -284,7 +284,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017004",
-    "townshipNameEn": "Ngapudaw",
+    "townshipNameEn": "Hainggyikyun",
     "townshipNameMm": "ဟိုင်းကြီးကျွန်း",
     "longitude": "94.34411",
     "latitude": "16.01602"
@@ -304,7 +304,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017004",
-    "townshipNameEn": "Ngapudaw",
+    "townshipNameEn": "Ngayokekaung",
     "townshipNameMm": "ငရုတ်ကောင်း",
     "longitude": "94.3019",
     "latitude": "16.52089"
@@ -334,7 +334,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017001",
-    "townshipNameEn": "Pathein",
+    "townshipNameEn": "Chaung Thar",
     "townshipNameMm": "ချောင်းသာ",
     "longitude": "94.4447",
     "latitude": "16.9597"
@@ -344,7 +344,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017001",
-    "townshipNameEn": "Pathein",
+    "townshipNameEn": "Ngwesaung",
     "townshipNameMm": "ငွေဆောင်",
     "longitude": "94.38711",
     "latitude": "16.86379"
@@ -364,7 +364,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017001",
-    "townshipNameEn": "Pathein",
+    "townshipNameEn": "Shwethaungyan",
     "townshipNameMm": "ရွှေသောင်ယံ",
     "longitude": "94.46133",
     "latitude": "17.07674"
@@ -374,7 +374,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D006",
     "townshipCode": "MMR017023",
-    "townshipNameEn": "Pyapon",
+    "townshipNameEn": "Ahmar",
     "townshipNameMm": "အမာ",
     "longitude": "95.29017",
     "latitude": "15.7994"
@@ -404,7 +404,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D003",
     "townshipCode": "MMR017017",
-    "townshipNameEn": "Wakema",
+    "townshipNameEn": "Kyonmangae",
     "townshipNameMm": "ကျုံမငေး",
     "longitude": "95.1319",
     "latitude": "16.43803"
@@ -424,7 +424,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017006",
-    "townshipNameEn": "Yegyi",
+    "townshipNameEn": "Ahthoke",
     "townshipNameMm": "အသုတ်",
     "longitude": "95.08331",
     "latitude": "17.19974"
@@ -434,7 +434,7 @@
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "townshipCode": "MMR017006",
-    "townshipNameEn": "Yegyi",
+    "townshipNameEn": "Ngathaingchaung",
     "townshipNameMm": "ငသိုင်းချောင်း",
     "longitude": "95.07731",
     "latitude": "17.39927"
@@ -474,7 +474,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007001",
-    "townshipNameEn": "Bago",
+    "townshipNameEn": "Hpayargyi",
     "townshipNameMm": "ဘုရားကြီး",
     "longitude": "96.52654",
     "latitude": "17.47538"
@@ -484,7 +484,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007001",
-    "townshipNameEn": "Bago",
+    "townshipNameEn": "Inntakaw",
     "townshipNameMm": "အင်းတကော်",
     "longitude": "96.37637",
     "latitude": "17.18087"
@@ -524,7 +524,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007003",
-    "townshipNameEn": "Kawa",
+    "townshipNameEn": "Thetkala",
     "townshipNameMm": "သက္ကလ",
     "longitude": "96.59657",
     "latitude": "17.02939"
@@ -544,7 +544,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007006",
-    "townshipNameEn": "Kyauktaga",
+    "townshipNameEn": "Hpa Do",
     "townshipNameMm": "ဖဒို",
     "longitude": "96.5549",
     "latitude": "18.0377"
@@ -564,7 +564,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007006",
-    "townshipNameEn": "Kyauktaga",
+    "townshipNameEn": "Penwegon",
     "townshipNameMm": "ပဲနွယ်ကုန်း",
     "longitude": "96.56886",
     "latitude": "18.22271"
@@ -574,7 +574,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007005",
-    "townshipNameEn": "Nyaunglebin",
+    "townshipNameEn": "Madauk",
     "townshipNameMm": "မဒေါက်",
     "longitude": "96.84535",
     "latitude": "17.91491"
@@ -594,7 +594,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007005",
-    "townshipNameEn": "Nyaunglebin",
+    "townshipNameEn": "Peinzalok",
     "townshipNameMm": "ပိန်းဇလုပ်",
     "longitude": "96.66836",
     "latitude": "18.0699"
@@ -604,7 +604,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D001",
     "townshipCode": "MMR007005",
-    "townshipNameEn": "Nyaunglebin",
+    "townshipNameEn": "Pyuntasa",
     "townshipNameMm": "ပြွန်တန်ဆာ",
     "longitude": "96.71597",
     "latitude": "17.87517"
@@ -614,7 +614,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007013",
-    "townshipNameEn": "Oktwin",
+    "townshipNameEn": "Kywe Pwe",
     "townshipNameMm": "ကျွဲပွဲ",
     "longitude": "96.4099",
     "latitude": "18.7"
@@ -634,7 +634,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007012",
-    "townshipNameEn": "Phyu",
+    "townshipNameEn": "Kanyutkwin",
     "townshipNameMm": "ကညွတ်ကွင်း",
     "longitude": "96.49218",
     "latitude": "18.3404"
@@ -654,7 +654,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007012",
-    "townshipNameEn": "Phyu",
+    "townshipNameEn": "Zayyawadi",
     "townshipNameMm": "ဇေယျ၀တီ",
     "longitude": "96.43084",
     "latitude": "18.54097"
@@ -674,7 +674,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007009",
-    "townshipNameEn": "Taungoo",
+    "townshipNameEn": "Kaytumati",
     "townshipNameMm": "ကေတုမတီ",
     "longitude": "96.40357",
     "latitude": "19.01432"
@@ -714,7 +714,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007010",
-    "townshipNameEn": "Yedashe",
+    "townshipNameEn": "Hswar",
     "townshipNameMm": "ဆွာ",
     "longitude": "96.29072",
     "latitude": "19.26498"
@@ -724,7 +724,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007010",
-    "townshipNameEn": "Yedashe",
+    "townshipNameEn": "Myo Hla",
     "townshipNameMm": "မြို့လှ",
     "longitude": "96.26628",
     "latitude": "19.40442"
@@ -734,7 +734,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR007D002",
     "townshipCode": "MMR007010",
-    "townshipNameEn": "Yedashe",
+    "townshipNameEn": "Yae Ni",
     "townshipNameMm": "ရေနီ",
     "longitude": "96.26804",
     "latitude": "19.47438"
@@ -784,7 +784,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D002",
     "townshipCode": "MMR008009",
-    "townshipNameEn": "Minhla",
+    "townshipNameEn": "Sit Kwin",
     "townshipNameMm": "စစ်ကွင်း",
     "longitude": "95.7232",
     "latitude": "17.8941"
@@ -814,7 +814,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D002",
     "townshipCode": "MMR008012",
-    "townshipNameEn": "Nattalin",
+    "townshipNameEn": "Tar Pun",
     "townshipNameMm": "တာပွန်",
     "longitude": "95.4549",
     "latitude": "18.361"
@@ -824,7 +824,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D002",
     "townshipCode": "MMR008010",
-    "townshipNameEn": "Okpho",
+    "townshipNameEn": "Oe Thei Kone",
     "townshipNameMm": "အိုးသည်ကုန်း",
     "longitude": "95.6935",
     "latitude": "18.0432"
@@ -844,7 +844,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D001",
     "townshipCode": "MMR008003",
-    "townshipNameEn": "Padaung",
+    "townshipNameEn": "Oakshitpin",
     "townshipNameMm": "ဥရှစ်ပင်",
     "longitude": "95.01383",
     "latitude": "18.68519"
@@ -884,7 +884,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D001",
     "townshipCode": "MMR008001",
-    "townshipNameEn": "Pyay",
+    "townshipNameEn": "Paungdale",
     "townshipNameMm": "ပေါင်းတလည်",
     "longitude": "95.38459",
     "latitude": "18.84968"
@@ -924,7 +924,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D002",
     "townshipCode": "MMR008007",
-    "townshipNameEn": "Thayarwady",
+    "townshipNameEn": "Thonse",
     "townshipNameMm": "သုံးဆယ်",
     "longitude": "95.78985",
     "latitude": "17.62988"
@@ -934,7 +934,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D001",
     "townshipCode": "MMR008005",
-    "townshipNameEn": "Thegon",
+    "townshipNameEn": "Inn Ma",
     "townshipNameMm": "အင်းမ",
     "longitude": "95.34904",
     "latitude": "18.52806"
@@ -944,7 +944,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D001",
     "townshipCode": "MMR008005",
-    "townshipNameEn": "Thegon",
+    "townshipNameEn": "Puteekone",
     "townshipNameMm": "ပုတီးကုန်း",
     "longitude": "95.45645",
     "latitude": "18.57236"
@@ -954,7 +954,7 @@
     "regionCode": "MMR007",
     "districtCode": "MMR008D001",
     "townshipCode": "MMR008005",
-    "townshipNameEn": "Thegon",
+    "townshipNameEn": "Sin Mee Swea",
     "townshipNameMm": "ဆင်မြီးဆွဲ",
     "longitude": "95.3594",
     "latitude": "18.7369"
@@ -994,7 +994,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D001",
     "townshipCode": "MMR004001",
-    "townshipNameEn": "Falam",
+    "townshipNameEn": "Rihkhawdar",
     "townshipNameMm": "ရိခေါ်ဒါရ်",
     "longitude": "93.38869",
     "latitude": "23.36097"
@@ -1004,7 +1004,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D001",
     "townshipCode": "MMR004001",
-    "townshipNameEn": "Falam",
+    "townshipNameEn": "Webula",
     "townshipNameMm": "ဝေဘူလ",
     "longitude": "93.9133",
     "latitude": "23.0168"
@@ -1024,7 +1024,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D003",
     "townshipCode": "MMR004002",
-    "townshipNameEn": "Hakha",
+    "townshipNameEn": "Surkhua",
     "townshipNameMm": "ဆူရ်ခွား",
     "longitude": "93.63416",
     "latitude": "22.25553"
@@ -1044,7 +1044,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D002",
     "townshipCode": "MMR004008",
-    "townshipNameEn": "Kanpetlet",
+    "townshipNameEn": "Kyin Dway",
     "townshipNameMm": "ကျင်ဒွေး",
     "longitude": "93.8382",
     "latitude": "20.973"
@@ -1054,7 +1054,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D004",
     "townshipCode": "MMR004007",
-    "townshipNameEn": "Matupi",
+    "townshipNameEn": "Lalengpi",
     "townshipNameMm": "လိုင်လင်းပီ",
     "longitude": "93.1143",
     "latitude": "21.9592"
@@ -1074,7 +1074,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D004",
     "townshipCode": "MMR004007",
-    "townshipNameEn": "Matupi",
+    "townshipNameEn": "Rezua",
     "townshipNameMm": "ရေဇွာ",
     "longitude": "93.40857",
     "latitude": "22.05289"
@@ -1094,7 +1094,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D002",
     "townshipCode": "MMR004006",
-    "townshipNameEn": "Mindat",
+    "townshipNameEn": "M'kuiimnu",
     "townshipNameMm": "မကွီအိမ်နူး",
     "longitude": "93.5945",
     "latitude": "21.1727"
@@ -1114,7 +1114,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D004",
     "townshipCode": "MMR004009",
-    "townshipNameEn": "Paletwa",
+    "townshipNameEn": "Samee",
     "townshipNameMm": "ဆမီး",
     "longitude": "93.09649",
     "latitude": "21.29333"
@@ -1124,7 +1124,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D001",
     "townshipCode": "MMR004004",
-    "townshipNameEn": "Tedim",
+    "townshipNameEn": "Khaikam",
     "townshipNameMm": "ခိုင်ကမ်း",
     "longitude": "93.9551",
     "latitude": "23.2175"
@@ -1144,7 +1144,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D003",
     "townshipCode": "MMR004003",
-    "townshipNameEn": "Thantlang",
+    "townshipNameEn": "Hnaring",
     "townshipNameMm": "နှာဟရိန်",
     "longitude": "93.4361",
     "latitude": "22.1898"
@@ -1164,7 +1164,7 @@
     "regionCode": "MMR004",
     "districtCode": "MMR004D001",
     "townshipCode": "MMR004005",
-    "townshipNameEn": "Tonzang",
+    "townshipNameEn": "Cikha",
     "townshipNameMm": "ကျီခါး",
     "longitude": "93.53347",
     "latitude": "23.88976"
@@ -1204,7 +1204,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D001",
     "townshipCode": "MMR001005",
-    "townshipNameEn": "Chipwi",
+    "townshipNameEn": "Pang War",
     "townshipNameMm": "ပန်ဝါ",
     "longitude": "98.37863",
     "latitude": "25.59866"
@@ -1224,7 +1224,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001009",
-    "townshipNameEn": "Hpakant",
+    "townshipNameEn": "Kamaing",
     "townshipNameMm": "ကာမိုင်း",
     "longitude": "96.71153",
     "latitude": "25.5226"
@@ -1284,7 +1284,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001008",
-    "townshipNameEn": "Mogaung",
+    "townshipNameEn": "Nammatee",
     "townshipNameMm": "နမ္မတီး",
     "longitude": "97.00896",
     "latitude": "25.37835"
@@ -1294,7 +1294,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001007",
-    "townshipNameEn": "Mohnyin",
+    "townshipNameEn": "Hopin",
     "townshipNameMm": "ဟိုပင်",
     "longitude": "96.53019",
     "latitude": "24.99183"
@@ -1304,7 +1304,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001007",
-    "townshipNameEn": "Mohnyin",
+    "townshipNameEn": "Inn Taw Gyi",
     "townshipNameMm": "အင်းတော်ကြီး",
     "longitude": "96.2876",
     "latitude": "25.0929"
@@ -1324,7 +1324,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001007",
-    "townshipNameEn": "Mohnyin",
+    "townshipNameEn": "Nam Mar",
     "townshipNameMm": "နန်းမား",
     "longitude": "96.43625",
     "latitude": "24.87399"
@@ -1334,7 +1334,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D002",
     "townshipCode": "MMR001007",
-    "townshipNameEn": "Mohnyin",
+    "townshipNameEn": "Nam Mun",
     "townshipNameMm": "နန့်မွန်း",
     "longitude": "96.3548",
     "latitude": "25.0047"
@@ -1344,7 +1344,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D003",
     "townshipCode": "MMR001012",
-    "townshipNameEn": "Momauk",
+    "townshipNameEn": "Dawthponeyan",
     "townshipNameMm": "ဒေါ့ဖုန်းယန်",
     "longitude": "97.46127",
     "latitude": "24.61398"
@@ -1354,7 +1354,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D003",
     "townshipCode": "MMR001012",
-    "townshipNameEn": "Momauk",
+    "townshipNameEn": "Lwegel",
     "townshipNameMm": "လွယ်ဂျယ်",
     "longitude": "97.72077",
     "latitude": "24.19932"
@@ -1384,7 +1384,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D001",
     "townshipCode": "MMR001001",
-    "townshipNameEn": "Myitkyina",
+    "townshipNameEn": "Sinbo",
     "townshipNameMm": "ဆင်ဘို",
     "longitude": "97.03917",
     "latitude": "24.77923"
@@ -1404,7 +1404,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D004",
     "townshipCode": "MMR001017",
-    "townshipNameEn": "Nawngmun",
+    "townshipNameEn": "Pannandin",
     "townshipNameMm": "ပန်နန်းဒင်",
     "longitude": "97.87662",
     "latitude": "27.7281"
@@ -1424,7 +1424,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D003",
     "townshipCode": "MMR001011",
-    "townshipNameEn": "Shwegu",
+    "townshipNameEn": "Myo Hla",
     "townshipNameMm": "မြို့လှ",
     "longitude": "96.65522",
     "latitude": "24.47856"
@@ -1454,7 +1454,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D001",
     "townshipCode": "MMR001004",
-    "townshipNameEn": "Tanai",
+    "townshipNameEn": "Shin Bway Yang",
     "townshipNameMm": "ရှင်ဗွေယန်",
     "longitude": "96.2094",
     "latitude": "26.69478"
@@ -1484,7 +1484,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D001",
     "townshipCode": "MMR001002",
-    "townshipNameEn": "Waingmaw",
+    "townshipNameEn": "Kan Paik Ti",
     "townshipNameMm": "ကန်ပိုက်တီ",
     "longitude": "98.11739",
     "latitude": "25.40319"
@@ -1494,7 +1494,7 @@
     "regionCode": "MMR001",
     "districtCode": "MMR001D001",
     "townshipCode": "MMR001002",
-    "townshipNameEn": "Waingmaw",
+    "townshipNameEn": "Sadung",
     "townshipNameMm": "ဆဒုံး",
     "longitude": "97.89996",
     "latitude": "25.39709"
@@ -1524,7 +1524,7 @@
     "regionCode": "MMR002",
     "districtCode": "MMR002D002",
     "townshipCode": "MMR002005",
-    "townshipNameEn": "Bawlake",
+    "townshipNameEn": "Ywarthit",
     "townshipNameMm": "ရွာသစ်",
     "longitude": "97.4995",
     "latitude": "19.16673"
@@ -1544,7 +1544,7 @@
     "regionCode": "MMR002",
     "districtCode": "MMR002D001",
     "townshipCode": "MMR002002",
-    "townshipNameEn": "Demoso",
+    "townshipNameEn": "Nan Mei Khon",
     "townshipNameMm": "နန်းမယ်ခုံ",
     "longitude": "97.1091",
     "latitude": "19.6696"
@@ -1574,7 +1574,7 @@
     "regionCode": "MMR002",
     "districtCode": "MMR002D001",
     "townshipCode": "MMR002001",
-    "townshipNameEn": "Loikaw",
+    "townshipNameEn": "Law Pi Ta",
     "townshipNameMm": "လောပိတ",
     "longitude": "97.32929",
     "latitude": "19.54909"
@@ -1594,7 +1594,7 @@
     "regionCode": "MMR002",
     "districtCode": "MMR002D001",
     "townshipCode": "MMR002001",
-    "townshipNameEn": "Loikaw",
+    "townshipNameEn": "Loilen Lay",
     "townshipNameMm": "လွိုင်လင်လေး",
     "longitude": "97.2318",
     "latitude": "19.8777"
@@ -1634,7 +1634,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D001",
     "townshipCode": "MMR003002",
-    "townshipNameEn": "Hlaingbwe",
+    "townshipNameEn": "Paingkyon",
     "townshipNameMm": "ပိုင်ကျုံ",
     "longitude": "97.98597",
     "latitude": "17.0217"
@@ -1644,7 +1644,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D001",
     "townshipCode": "MMR003002",
-    "townshipNameEn": "Hlaingbwe",
+    "townshipNameEn": "Shan Ywar Thit",
     "townshipNameMm": "ရှမ်းရွာသစ်",
     "longitude": "97.88778",
     "latitude": "17.42438"
@@ -1674,7 +1674,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D004",
     "townshipCode": "MMR003003",
-    "townshipNameEn": "Hpapun",
+    "townshipNameEn": "Kamarmaung",
     "townshipNameMm": "ကမမောင်း",
     "longitude": "97.6529",
     "latitude": "17.34688"
@@ -1694,7 +1694,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D003",
     "townshipCode": "MMR003006",
-    "townshipNameEn": "Kawkareik",
+    "townshipNameEn": "Kyondoe",
     "townshipNameMm": "ကျုံဒိုး",
     "longitude": "98.04353",
     "latitude": "16.59446"
@@ -1704,7 +1704,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D003",
     "townshipCode": "MMR003007",
-    "townshipNameEn": "Kyainseikgyi",
+    "townshipNameEn": "Hpayarthonesu",
     "townshipNameMm": "ဘုရားသုံးဆူ",
     "longitude": "98.37808",
     "latitude": "15.30444"
@@ -1714,7 +1714,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D003",
     "townshipCode": "MMR003007",
-    "townshipNameEn": "Kyainseikgyi",
+    "townshipNameEn": "Kyaikdon",
     "townshipNameMm": "ကျိုက်ဒုံ",
     "longitude": "98.39268",
     "latitude": "16.00253"
@@ -1744,7 +1744,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D002",
     "townshipCode": "MMR003005",
-    "townshipNameEn": "Myawaddy",
+    "townshipNameEn": "Su Ka Li",
     "townshipNameMm": "စုကလိ",
     "longitude": "98.59621",
     "latitude": "16.15439"
@@ -1754,7 +1754,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D002",
     "townshipCode": "MMR003005",
-    "townshipNameEn": "Myawaddy",
+    "townshipNameEn": "Waw Lay Myaing (Waw Lay)",
     "townshipNameMm": "",
     "longitude": "98.71324",
     "latitude": "16.29392"
@@ -1764,7 +1764,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D001",
     "townshipCode": "MMR003004",
-    "townshipNameEn": "Thandaunggyi",
+    "townshipNameEn": "Baw Ga Li",
     "townshipNameMm": "ဘောဂလိ",
     "longitude": "96.78565",
     "latitude": "18.91451"
@@ -1774,7 +1774,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D001",
     "townshipCode": "MMR003004",
-    "townshipNameEn": "Thandaunggyi",
+    "townshipNameEn": "Leik Tho",
     "townshipNameMm": "လိပ်သို",
     "longitude": "96.58097",
     "latitude": "19.22235"
@@ -1784,7 +1784,7 @@
     "regionCode": "MMR003",
     "districtCode": "MMR003D001",
     "townshipCode": "MMR003004",
-    "townshipNameEn": "Thandaunggyi",
+    "townshipNameEn": "Thandaung",
     "townshipNameMm": "သံတောင်",
     "longitude": "96.58266",
     "latitude": "19.02175"
@@ -1824,7 +1824,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D001",
     "townshipCode": "MMR009003",
-    "townshipNameEn": "Chauk",
+    "townshipNameEn": "Sa Lay",
     "townshipNameMm": "စလေ",
     "longitude": "94.7424",
     "latitude": "20.8338"
@@ -1844,7 +1844,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D005",
     "townshipCode": "MMR009023",
-    "townshipNameEn": "Gangaw",
+    "townshipNameEn": "Kyaw",
     "townshipNameMm": "ကျော",
     "longitude": "94.35789",
     "latitude": "21.92737"
@@ -1884,7 +1884,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D002",
     "townshipCode": "MMR009007",
-    "townshipNameEn": "Minbu",
+    "townshipNameEn": "Saku",
     "townshipNameMm": "စကု",
     "longitude": "94.76831",
     "latitude": "20.22609"
@@ -1954,7 +1954,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D004",
     "townshipCode": "MMR009018",
-    "townshipNameEn": "Pakokku",
+    "townshipNameEn": "Kamma",
     "townshipNameMm": "ကမ္မ",
     "longitude": "94.81558",
     "latitude": "21.38358"
@@ -1964,7 +1964,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D004",
     "townshipCode": "MMR009018",
-    "townshipNameEn": "Pakokku",
+    "townshipNameEn": "Myit Chay",
     "townshipNameMm": "မြစ်ခြေ",
     "longitude": "94.8511",
     "latitude": "21.2454"
@@ -2014,7 +2014,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D002",
     "townshipCode": "MMR009010",
-    "townshipNameEn": "Salin",
+    "townshipNameEn": "Sinphyukyun",
     "townshipNameMm": "ဆင်ဖြူကျွန်း",
     "longitude": "94.6929",
     "latitude": "20.6642"
@@ -2024,7 +2024,7 @@
     "regionCode": "MMR009",
     "districtCode": "MMR009D005",
     "townshipCode": "MMR009025",
-    "townshipNameEn": "Saw",
+    "townshipNameEn": "Kyaukhtu",
     "townshipNameMm": "ကျောက်ထု",
     "longitude": "94.136",
     "latitude": "21.406"
@@ -2134,7 +2134,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D001",
     "townshipCode": "MMR010006",
-    "townshipNameEn": "Amarapura",
+    "townshipNameEn": "Myitnge",
     "townshipNameMm": "မြစ်ငယ်",
     "longitude": "96.06856",
     "latitude": "21.85418"
@@ -2154,7 +2154,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D001",
     "townshipCode": "MMR010001",
-    "townshipNameEn": "Aungmyaythazan",
+    "townshipNameEn": "Mandalay City",
     "townshipNameMm": "မန္တလေး",
     "longitude": "96.0921",
     "latitude": "21.9894"
@@ -2264,7 +2264,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D004",
     "townshipCode": "MMR010017",
-    "townshipNameEn": "Myingyan",
+    "townshipNameEn": "Si Mee Khon",
     "townshipNameMm": "ဆီမီးခုံ",
     "longitude": "95.4221",
     "latitude": "21.735"
@@ -2274,7 +2274,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D003",
     "townshipCode": "MMR010015",
-    "townshipNameEn": "Myittha",
+    "townshipNameEn": "Ku Me",
     "townshipNameMm": "ကူမဲ",
     "longitude": "96.1603",
     "latitude": "21.3583"
@@ -2314,7 +2314,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D005",
     "townshipCode": "MMR010022",
-    "townshipNameEn": "Nyaung-U",
+    "townshipNameEn": "Bagan",
     "townshipNameMm": "ပုဂံ",
     "longitude": "94.86257",
     "latitude": "21.13197"
@@ -2324,7 +2324,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D005",
     "townshipCode": "MMR010022",
-    "townshipNameEn": "Nyaung-U",
+    "townshipNameEn": "Ngathayauk",
     "townshipNameMm": "ငါ့သရောက်",
     "longitude": "95.13772",
     "latitude": "21.15058"
@@ -2424,7 +2424,7 @@
     "regionCode": "MMR010",
     "districtCode": "MMR010D002",
     "townshipCode": "MMR010012",
-    "townshipNameEn": "Thabeikkyin",
+    "townshipNameEn": "Takaung",
     "townshipNameMm": "တကောင်း",
     "longitude": "96.01367",
     "latitude": "23.50188"
@@ -2514,7 +2514,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D002",
     "townshipCode": "MMR011009",
-    "townshipNameEn": "Kyaikto",
+    "townshipNameEn": "Thein Za Yat",
     "townshipNameMm": "သိမ်ဇရပ်",
     "longitude": "96.884",
     "latitude": "17.5137"
@@ -2534,7 +2534,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D001",
     "townshipCode": "MMR011005",
-    "townshipNameEn": "Mudon",
+    "townshipNameEn": "Kamarwet",
     "townshipNameMm": "ကမာ၀က်",
     "longitude": "97.73403",
     "latitude": "16.1409"
@@ -2564,7 +2564,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D002",
     "townshipCode": "MMR011008",
-    "townshipNameEn": "Paung",
+    "townshipNameEn": "Zinkyaik",
     "townshipNameMm": "ဇင်းကျိုက်",
     "longitude": "97.42371",
     "latitude": "16.69655"
@@ -2574,7 +2574,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D001",
     "townshipCode": "MMR011004",
-    "townshipNameEn": "Thanbyuzayat",
+    "townshipNameEn": "Kyaikkhami",
     "townshipNameMm": "ကျိုက္ခမီ",
     "longitude": "97.5675",
     "latitude": "16.08"
@@ -2604,7 +2604,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D002",
     "townshipCode": "MMR011007",
-    "townshipNameEn": "Thaton",
+    "townshipNameEn": "Thuwunnawady",
     "townshipNameMm": "သုဝဏ္ဏဝတီ",
     "longitude": "97.30482",
     "latitude": "17.06022"
@@ -2614,7 +2614,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D001",
     "townshipCode": "MMR011006",
-    "townshipNameEn": "Ye",
+    "townshipNameEn": "Khawzar",
     "townshipNameMm": "ခေါဇာ",
     "longitude": "97.82935",
     "latitude": "15.03752"
@@ -2624,7 +2624,7 @@
     "regionCode": "MMR011",
     "districtCode": "MMR011D001",
     "townshipCode": "MMR011006",
-    "townshipNameEn": "Ye",
+    "townshipNameEn": "Lamaing",
     "townshipNameMm": "လမိုင်း",
     "longitude": "97.83215",
     "latitude": "15.50351"
@@ -2714,7 +2714,7 @@
     "regionCode": "MMR018",
     "districtCode": "MMR018D001",
     "townshipCode": "MMR018001",
-    "townshipNameEn": "Zay Yar Thi Ri",
+    "townshipNameEn": "Nay Pyi Taw",
     "townshipNameMm": "နေပြည်တော်",
     "longitude": "96.18566",
     "latitude": "19.80326"
@@ -2744,7 +2744,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D003",
     "townshipCode": "MMR012014",
-    "townshipNameEn": "Ann",
+    "townshipNameEn": "Tat Taung",
     "townshipNameMm": "တပ်တောင်",
     "longitude": "93.9358",
     "latitude": "19.5682"
@@ -2774,7 +2774,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D004",
     "townshipCode": "MMR012017",
-    "townshipNameEn": "Gwa",
+    "townshipNameEn": "Kyeintali",
     "townshipNameMm": "ကျိန္တလီ",
     "longitude": "94.49141",
     "latitude": "18.00712"
@@ -2794,7 +2794,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D003",
     "townshipCode": "MMR012011",
-    "townshipNameEn": "Kyaukpyu",
+    "townshipNameEn": "Sa Ne",
     "townshipNameMm": "စနဲ",
     "longitude": "93.7336",
     "latitude": "19.2166"
@@ -2814,7 +2814,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D002",
     "townshipCode": "MMR012009",
-    "townshipNameEn": "Maungdaw",
+    "townshipNameEn": "Kha Maung Seik",
     "townshipNameMm": "ခမောင်းဆိပ်",
     "longitude": "92.27141",
     "latitude": "21.26554"
@@ -2834,7 +2834,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D002",
     "townshipCode": "MMR012009",
-    "townshipNameEn": "Maungdaw",
+    "townshipNameEn": "Myin Hlut",
     "townshipNameMm": "မြင်းလွှတ်",
     "longitude": "92.50212",
     "latitude": "20.62786"
@@ -2844,7 +2844,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D002",
     "townshipCode": "MMR012009",
-    "townshipNameEn": "Maungdaw",
+    "townshipNameEn": "Taungpyoletwea",
     "townshipNameMm": "တောင်ပြိုလက်ဝဲ",
     "longitude": "92.20068",
     "latitude": "21.19991"
@@ -2884,7 +2884,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D005",
     "townshipCode": "MMR012006",
-    "townshipNameEn": "Myebon",
+    "townshipNameEn": "Kanhtauntkyi",
     "townshipNameMm": "ကမ်းထောင့်ကြီး",
     "longitude": "93.75902",
     "latitude": "19.85695"
@@ -2924,7 +2924,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D003",
     "townshipCode": "MMR012013",
-    "townshipNameEn": "Ramree",
+    "townshipNameEn": "Lay Taung",
     "townshipNameMm": "လေးတောင်",
     "longitude": "93.69485",
     "latitude": "19.03862"
@@ -2964,7 +2964,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D004",
     "townshipCode": "MMR012015",
-    "townshipNameEn": "Thandwe",
+    "townshipNameEn": "Ngapali",
     "townshipNameMm": "ငပလီ",
     "longitude": "94.3206",
     "latitude": "18.43755"
@@ -2984,7 +2984,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D004",
     "townshipCode": "MMR012016",
-    "townshipNameEn": "Toungup",
+    "townshipNameEn": "Ma-Ei",
     "townshipNameMm": "မအီ",
     "longitude": "94.13845",
     "latitude": "19.34234"
@@ -2994,7 +2994,7 @@
     "regionCode": "MMR012",
     "districtCode": "MMR012D004",
     "townshipCode": "MMR012016",
-    "townshipNameEn": "Toungup",
+    "townshipNameEn": "Tan Hlwe Ywar Ma",
     "townshipNameMm": "တန်းလွဲရွာမ",
     "longitude": "94.12645",
     "latitude": "18.99829"
@@ -3074,7 +3074,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005034",
-    "townshipNameEn": "Homalin",
+    "townshipNameEn": "Mo Waing Lut",
     "townshipNameMm": "မိုဝိုင်းလွတ်",
     "longitude": "94.9645",
     "latitude": "25.0834"
@@ -3084,7 +3084,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005034",
-    "townshipNameEn": "Homalin",
+    "townshipNameEn": "Shwe Pyi Aye",
     "townshipNameMm": "ရွှေပြည်အေး",
     "longitude": "94.73147",
     "latitude": "24.68344"
@@ -3104,7 +3104,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D004",
     "townshipCode": "MMR005021",
-    "townshipNameEn": "Indaw",
+    "townshipNameEn": "Maw Lu",
     "townshipNameMm": "မော်လူး",
     "longitude": "96.1796",
     "latitude": "24.4649"
@@ -3144,7 +3144,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D010",
     "townshipCode": "MMR005007",
-    "townshipNameEn": "Kanbalu",
+    "townshipNameEn": "Zee Kone",
     "townshipNameMm": "ဇီးကုန်း",
     "longitude": "95.5636",
     "latitude": "22.9311"
@@ -3214,7 +3214,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005036",
-    "townshipNameEn": "Lahe",
+    "townshipNameEn": "Thangpakwe",
     "townshipNameMm": "ထန်ပါခွေ",
     "longitude": "95.24148",
     "latitude": "25.96589"
@@ -3234,7 +3234,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005035",
-    "townshipNameEn": "Layshi",
+    "townshipNameEn": "Mowailut",
     "townshipNameMm": "မိုပိုင်းလွတ်",
     "longitude": "94.78748",
     "latitude": "25.04671"
@@ -3244,7 +3244,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005035",
-    "townshipNameEn": "Layshi",
+    "townshipNameEn": "Somra",
     "townshipNameMm": "ဆွမ္မရာ",
     "longitude": "94.68729",
     "latitude": "25.36455"
@@ -3304,7 +3304,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005037",
-    "townshipNameEn": "Nanyun",
+    "townshipNameEn": "Dohi",
     "townshipNameMm": "ဒုံဟီး",
     "longitude": "95.79165",
     "latitude": "26.7757"
@@ -3314,7 +3314,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005037",
-    "townshipNameEn": "Nanyun",
+    "townshipNameEn": "Namyung",
     "townshipNameMm": "နန်းယွန်း",
     "longitude": "96.16705",
     "latitude": "26.97979"
@@ -3324,7 +3324,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D008",
     "townshipCode": "MMR005037",
-    "townshipNameEn": "Nanyun",
+    "townshipNameEn": "Pansau",
     "townshipNameMm": "ပန်ဆောင်",
     "longitude": "96.16712",
     "latitude": "27.23683"
@@ -3374,7 +3374,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D001",
     "townshipCode": "MMR005001",
-    "townshipNameEn": "Sagaing",
+    "townshipNameEn": "Sar Taung",
     "townshipNameMm": "ဆားတောင်",
     "longitude": "95.7574",
     "latitude": "22.1639"
@@ -3394,7 +3394,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005004",
-    "townshipNameEn": "Shwebo",
+    "townshipNameEn": "Kyauk Myaung",
     "townshipNameMm": "",
     "longitude": "95.94495",
     "latitude": "22.59329"
@@ -3414,7 +3414,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D002",
     "townshipCode": "MMR005010",
-    "townshipNameEn": "Tabayin",
+    "townshipNameEn": "Saing Pyin",
     "townshipNameMm": "စိုင်ပြင်",
     "longitude": "95.2366",
     "latitude": "22.5561"
@@ -3434,7 +3434,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D006",
     "townshipCode": "MMR005030",
-    "townshipNameEn": "Tamu",
+    "townshipNameEn": "Khampat",
     "townshipNameMm": "ခါမ်းပါတ်",
     "longitude": "94.14575",
     "latitude": "23.77977"
@@ -3444,7 +3444,7 @@
     "regionCode": "MMR005",
     "districtCode": "MMR005D006",
     "townshipCode": "MMR005030",
-    "townshipNameEn": "Tamu",
+    "townshipNameEn": "Myothit",
     "townshipNameMm": "မြို့သစ်",
     "longitude": "94.51857",
     "latitude": "24.51539"
@@ -3594,7 +3594,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016006",
-    "townshipNameEn": "Monghsat",
+    "townshipNameEn": "Mongkhoke",
     "townshipNameMm": "မိုင်းခုတ်",
     "longitude": "99.4636",
     "latitude": "20.74048"
@@ -3634,7 +3634,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016007",
-    "townshipNameEn": "Mongping",
+    "townshipNameEn": "Tontar",
     "townshipNameMm": "တုံတာ",
     "longitude": "99.28781",
     "latitude": "21.33004"
@@ -3644,7 +3644,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016008",
-    "townshipNameEn": "Mongton",
+    "townshipNameEn": "Hmone Hta",
     "townshipNameMm": "မုံးထ",
     "longitude": "98.56708",
     "latitude": "19.7979"
@@ -3664,7 +3664,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "townshipCode": "MMR016008",
-    "townshipNameEn": "Mongton",
+    "townshipNameEn": "Ponparkyin",
     "townshipNameMm": "ပုံပါကျင်",
     "longitude": "98.9382",
     "latitude": "19.8892"
@@ -3674,7 +3674,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "townshipCode": "MMR016003",
-    "townshipNameEn": "Mongyang",
+    "townshipNameEn": "Mongpauk",
     "townshipNameMm": "မိုင်းပေါက်",
     "longitude": "99.3101",
     "latitude": "22.0082"
@@ -3704,7 +3704,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016011",
-    "townshipNameEn": "Mongyawng",
+    "townshipNameEn": "Mongyu",
     "townshipNameMm": "မိုင်းယု",
     "longitude": "100.55082",
     "latitude": "21.32976"
@@ -3724,7 +3724,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016009",
-    "townshipNameEn": "Tachileik",
+    "townshipNameEn": "Kenglat",
     "townshipNameMm": "ကျိုင်းလပ်",
     "longitude": "100.534",
     "latitude": "20.867"
@@ -3744,7 +3744,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "townshipCode": "MMR016009",
-    "townshipNameEn": "Tachileik",
+    "townshipNameEn": "Tarlay",
     "townshipNameMm": "တာလေ",
     "longitude": "100.09307",
     "latitude": "20.71262"
@@ -3784,7 +3784,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D006",
     "townshipCode": "MMR015021",
-    "townshipNameEn": "Hopang",
+    "townshipNameEn": "Namtit",
     "townshipNameMm": "နမ့်တစ်",
     "longitude": "98.86722",
     "latitude": "23.47583"
@@ -3794,7 +3794,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D006",
     "townshipCode": "MMR015021",
-    "townshipNameEn": "Hopang",
+    "townshipNameEn": "Pan Lon",
     "townshipNameMm": "ပန်လုံ",
     "longitude": "98.78571",
     "latitude": "23.25641"
@@ -3844,7 +3844,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D331",
     "townshipCode": "MMR015304",
-    "townshipNameEn": "Kawng Min Hsang",
+    "townshipNameEn": "Mong Maw",
     "townshipNameMm": "မိုင်းမော",
     "longitude": "98.96356",
     "latitude": "22.96912"
@@ -3864,7 +3864,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015023",
-    "townshipNameEn": "Konkyan",
+    "townshipNameEn": "Maw Hteik",
     "townshipNameMm": "",
     "longitude": "98.79679",
     "latitude": "24.09412"
@@ -3894,7 +3894,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015011",
-    "townshipNameEn": "Kutkai",
+    "townshipNameEn": "Tarmoenye",
     "townshipNameMm": "တာမိုးညဲ",
     "longitude": "98.09862",
     "latitude": "23.57597"
@@ -3914,7 +3914,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015012",
-    "townshipNameEn": "Kyaukme",
+    "townshipNameEn": "Monglon",
     "townshipNameMm": "မိုင်းလုံ",
     "longitude": "96.62431",
     "latitude": "22.7908"
@@ -3924,7 +3924,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D003",
     "townshipCode": "MMR015012",
-    "townshipNameEn": "Kyaukme",
+    "townshipNameEn": "Mongngawt",
     "townshipNameMm": "မိုင်းငေါ့",
     "longitude": "96.98402",
     "latitude": "22.77316"
@@ -3944,7 +3944,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "townshipCode": "MMR015022",
-    "townshipNameEn": "Laukkaing",
+    "townshipNameEn": "Chinshwehaw",
     "townshipNameMm": "ချင်းရွှေဟော်",
     "longitude": "98.82419",
     "latitude": "23.47557"
@@ -4064,7 +4064,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009",
-    "townshipNameEn": "Muse",
+    "townshipNameEn": "Manhlyoe (Manhero)",
     "townshipNameMm": "(မန်ဟျိုး) မန်ဟီးရိုး",
     "longitude": "97.80064",
     "latitude": "23.95176"
@@ -4074,7 +4074,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009",
-    "townshipNameEn": "Muse",
+    "townshipNameEn": "Monekoe",
     "townshipNameMm": "မုန်းကိုး",
     "longitude": "98.3031",
     "latitude": "24.0998"
@@ -4094,7 +4094,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D002",
     "townshipCode": "MMR015009",
-    "townshipNameEn": "Muse",
+    "townshipNameEn": "Pang Hseng (Kyu Koke)",
     "townshipNameMm": "ပန်ဆိုင်း (ကြူကုတ်)",
     "longitude": "98.06229",
     "latitude": "24.07548"
@@ -4194,7 +4194,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D332",
     "townshipCode": "MMR015314",
-    "townshipNameEn": "Nawng Hkit",
+    "townshipNameEn": "Wein Kawn",
     "townshipNameMm": "ဝိန်းကောင်",
     "longitude": "98.93896",
     "latitude": "22.30273"
@@ -4234,7 +4234,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR015D007",
     "townshipCode": "MMR015005",
-    "townshipNameEn": "Pangsang (Panghkam)",
+    "townshipNameEn": "Man Kan",
     "townshipNameMm": "မန်ကန်",
     "longitude": "98.59519",
     "latitude": "22.68954"
@@ -4314,7 +4314,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014005",
-    "townshipNameEn": "Kalaw",
+    "townshipNameEn": "Aungpan",
     "townshipNameMm": "အောင်ပန်း",
     "longitude": "96.63584",
     "latitude": "20.66122"
@@ -4324,7 +4324,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014005",
-    "townshipNameEn": "Kalaw",
+    "townshipNameEn": "He Hoe",
     "townshipNameMm": "ဟဲဟိုး",
     "longitude": "96.8239",
     "latitude": "20.7221"
@@ -4344,7 +4344,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014014",
-    "townshipNameEn": "Kunhing",
+    "townshipNameEn": "Kar Li",
     "townshipNameMm": "ကာလိ",
     "longitude": "98.53381",
     "latitude": "21.28872"
@@ -4374,7 +4374,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014015",
-    "townshipNameEn": "Kyethi",
+    "townshipNameEn": "Mongnawng",
     "townshipNameMm": "မိုင်းနောင်",
     "longitude": "98.123",
     "latitude": "21.645"
@@ -4394,7 +4394,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014018",
-    "townshipNameEn": "Langkho",
+    "townshipNameEn": "Homein",
     "townshipNameMm": "ဟိုမိန်း",
     "longitude": "97.979",
     "latitude": "19.769"
@@ -4414,7 +4414,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014008",
-    "townshipNameEn": "Lawksawk",
+    "townshipNameEn": "Intaw",
     "townshipNameMm": "အင်တော",
     "longitude": "96.92252",
     "latitude": "21.63124"
@@ -4444,7 +4444,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014011",
-    "townshipNameEn": "Loilen",
+    "townshipNameEn": "Pinlon",
     "townshipNameMm": "ပင်လုံ",
     "longitude": "97.532",
     "latitude": "20.991"
@@ -4474,7 +4474,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014017",
-    "townshipNameEn": "Monghsu",
+    "townshipNameEn": "Mongsan (Hmonesan)",
     "townshipNameMm": "မိုင်းစံ (မုန်းဆန်း)",
     "longitude": "98.36456",
     "latitude": "21.65989"
@@ -4494,7 +4494,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D003",
     "townshipCode": "MMR014019",
-    "townshipNameEn": "Mongnai",
+    "townshipNameEn": "Kengtawng",
     "townshipNameMm": "ကျိုင်းတောင်း",
     "longitude": "98.29333",
     "latitude": "20.75728"
@@ -4524,7 +4524,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D002",
     "townshipCode": "MMR014013",
-    "townshipNameEn": "Nansang",
+    "townshipNameEn": "Kho Lam",
     "townshipNameMm": "ခိုလမ်",
     "longitude": "98.10086",
     "latitude": "21.09887"
@@ -4544,7 +4544,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014002",
-    "townshipNameEn": "Nyaungshwe",
+    "townshipNameEn": "Nang Pang",
     "townshipNameMm": "နန်းပန်",
     "longitude": "96.90596",
     "latitude": "20.45493"
@@ -4584,7 +4584,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014009",
-    "townshipNameEn": "Pinlaung",
+    "townshipNameEn": "Naungtayar",
     "townshipNameMm": "နောင်တရား",
     "longitude": "96.75691",
     "latitude": "20.29326"
@@ -4594,7 +4594,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014009",
-    "townshipNameEn": "Pinlaung",
+    "townshipNameEn": "Pawng Lawng",
     "townshipNameMm": "ပေါင်းလောင်း",
     "longitude": "96.58254",
     "latitude": "19.98626"
@@ -4614,7 +4614,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001",
-    "townshipNameEn": "Taunggyi",
+    "townshipNameEn": "Ayetharyar",
     "townshipNameMm": "အေးသာယာ",
     "longitude": "96.99882",
     "latitude": "20.77475"
@@ -4624,7 +4624,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001",
-    "townshipNameEn": "Taunggyi",
+    "townshipNameEn": "Kyauktalonegyi",
     "townshipNameMm": "ကျောက်တလုံးကြီး",
     "longitude": "97.024",
     "latitude": "20.371"
@@ -4634,7 +4634,7 @@
     "regionCode": "MMR014",
     "districtCode": "MMR014D001",
     "townshipCode": "MMR014001",
-    "townshipNameEn": "Taunggyi",
+    "townshipNameEn": "Shwenyaung",
     "townshipNameMm": "ရွှေညောင်",
     "longitude": "96.93614",
     "latitude": "20.76015"
@@ -4674,7 +4674,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006010",
-    "townshipNameEn": "Bokpyin",
+    "townshipNameEn": "Karathuri",
     "townshipNameMm": "ကရသူရိ",
     "longitude": "98.75998",
     "latitude": "10.93336"
@@ -4684,7 +4684,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006010",
-    "townshipNameEn": "Bokpyin",
+    "townshipNameEn": "Pyigyimandaing",
     "townshipNameMm": "ပြည်ကြီးမဏ္ဍိုင်",
     "longitude": "99.00144",
     "latitude": "11.46842"
@@ -4704,7 +4704,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006001",
-    "townshipNameEn": "Dawei",
+    "townshipNameEn": "Myitta",
     "townshipNameMm": "မေတ္တာ",
     "longitude": "98.52017",
     "latitude": "14.16355"
@@ -4724,7 +4724,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D003",
     "townshipCode": "MMR006009",
-    "townshipNameEn": "Kawthoung",
+    "townshipNameEn": "Khamaukgyi",
     "townshipNameMm": "ခမောက်ကြီး",
     "longitude": "98.625",
     "latitude": "10.353"
@@ -4764,7 +4764,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006007",
-    "townshipNameEn": "Palaw",
+    "townshipNameEn": "Pala",
     "townshipNameMm": "ပလ",
     "longitude": "98.66188",
     "latitude": "12.84928"
@@ -4774,7 +4774,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006007",
-    "townshipNameEn": "Palaw",
+    "townshipNameEn": "Palauk",
     "townshipNameMm": "ပလောက်",
     "longitude": "98.62248",
     "latitude": "13.27223"
@@ -4794,7 +4794,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D002",
     "townshipCode": "MMR006008",
-    "townshipNameEn": "Tanintharyi",
+    "townshipNameEn": "Maw Taung",
     "townshipNameMm": "မောတောင်",
     "longitude": "99.6275",
     "latitude": "11.7952"
@@ -4824,7 +4824,7 @@
     "regionCode": "MMR006",
     "districtCode": "MMR006D001",
     "townshipCode": "MMR006004",
-    "townshipNameEn": "Yebyu",
+    "townshipNameEn": "Kaleinaung",
     "townshipNameMm": "ကလိန်အောင်",
     "longitude": "98.13849",
     "latitude": "14.6238"
@@ -5084,7 +5084,7 @@
     "regionCode": "MMR013",
     "districtCode": "MMR013D004",
     "townshipCode": "MMR013033",
-    "townshipNameEn": "Kyauktada",
+    "townshipNameEn": "Yangon City",
     "townshipNameMm": "ရန်ကုန်",
     "longitude": "96.16093",
     "latitude": "16.77819"
@@ -5104,7 +5104,7 @@
     "regionCode": "MMR013",
     "districtCode": "MMR013D003",
     "townshipCode": "MMR013024",
-    "townshipNameEn": "Kyauktan",
+    "townshipNameEn": "Tadar",
     "townshipNameMm": "တံတား",
     "longitude": "96.53949",
     "latitude": "16.64788"
@@ -5154,7 +5154,7 @@
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013002",
-    "townshipNameEn": "Mingaladon",
+    "townshipNameEn": "Htaukkyant",
     "townshipNameMm": "ထောက်ကြန့်",
     "longitude": "96.13231",
     "latitude": "17.04276"
@@ -5264,7 +5264,7 @@
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013005",
-    "townshipNameEn": "Taikkyi",
+    "townshipNameEn": "Ahpyauk",
     "townshipNameMm": "အဖျောက်",
     "longitude": "95.69338",
     "latitude": "17.38239"
@@ -5274,7 +5274,7 @@
     "regionCode": "MMR013",
     "districtCode": "MMR013D001",
     "townshipCode": "MMR013005",
-    "townshipNameEn": "Taikkyi",
+    "townshipNameEn": "Okekan",
     "townshipNameMm": "ဥက္ကံ",
     "longitude": "95.8607",
     "latitude": "17.49696"
