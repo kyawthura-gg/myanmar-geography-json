@@ -100,9 +100,3 @@ Here are some example data structures for regions, districts, townships, and com
 ## Credits
 
 - Thanks to [themimu.info](https://www.themimu.info/) for the data.
-
-## License
-
-This software is free to use for apps or libraries of any size. However, I ask that you don't re-sell it or represent it as yours. If you fork it and make it public, please give credit back to the original GitHub repository.
-
-Consider this the MIT license – just be considerate.
