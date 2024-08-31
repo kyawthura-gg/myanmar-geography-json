@@ -87,8 +87,8 @@ async function main() {
           ?.replace('Town', '')
           ?.trim(),
         townshipNameMm: parsedData['Town_Name_MMR']?.trim(),
-        longitude: parsedData['Longitude'],
-        latitude: parsedData['Latitude'],
+        longitude: Number(parsedData['Longitude']),
+        latitude: Number(parsedData['Latitude']),
       }
     })
     const json = JSON.stringify(townshipNewFormat, null, 2)
@@ -154,8 +154,8 @@ async function main() {
           ?.replace('Town', '')
           ?.trim(),
         townshipNameMm: parsedData['Town_Name_MMR']?.trim(),
-        longitude: parsedData['Longitude'],
-        latitude: parsedData['Latitude'],
+        latitude: Number(parsedData['Latitude']),
+        longitude: Number(parsedData['Longitude']),
       }
     })
     const json = JSON.stringify(geographyNewFormat, null, 2)
