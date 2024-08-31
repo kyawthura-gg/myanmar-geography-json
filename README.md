@@ -5,16 +5,15 @@
 <h1 align="center">Myanmar Geography JSON 🌏</h1>
 
 <p align="center">
-  This repository contains JSON files with detailed information about the regions, districts, and townships of Myanmar. The data includes geographical coordinates (latitude and longitude) and names in both English and Burmese. 🇲🇲
+  This repository contains JSON files with detailed information about the regions, districts, and townships of Myanmar. The data includes postal codes, geographical coordinates (latitude and longitude) and names in both English and Burmese 🇲🇲.
 </p>
 
 ### Features
 
-- 🗺️ **Regions Data**: Details about Myanmar’s regions.
-- 📍 **Districts Data**: Information about districts within each region.
-- 🏘️ **Townships Data**: Data for townships within each district.
-- 🌐 **Multi-language Support**: Names available in English and Burmese.
-- 🚀 **Easy to Use**: JSON format that’s simple to integrate into your projects.
+- 🏷️ **Postal Codes**: Includes postal codes.
+- 📍 **Geographical Coordinates**: Provides latitude and longitude.
+- 🧩 **Flexible Format**: Easy-to-use JSON format.
+- 🌐 **Multi-language Support**: Names in both English and Burmese.
 
 ## 📚 Documentation
 
@@ -43,10 +42,10 @@ Here are some example data structures for regions, districts, townships, and com
 
 ```json
 {
-  "id": 1,
-  "regionCode": "MMR001",
-  "regionNameEn": "Kachin",
-  "regionNameMm": "ကချင်ပြည်နယ်"
+  "id": 9,
+  "regionCode": "MMR010",
+  "regionNameEn": "Mandalay",
+  "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး"
 }
 ```
 
@@ -54,11 +53,11 @@ Here are some example data structures for regions, districts, townships, and com
 
 ```json
 {
-  "id": 1,
-  "regionCode": "MMR001",
-  "districtCode": "MMR001D001",
-  "districtNameEn": "Myitkyina",
-  "districtNameMm": "မြစ်ကြီးနားခရိုင်"
+  "id": 39,
+  "regionCode": "MMR010",
+  "districtCode": "MMR010D002",
+  "districtNameEn": "Pyinoolwin",
+  "districtNameMm": "ပြင်ဦးလွင်ခရိုင်"
 }
 ```
 
@@ -66,14 +65,15 @@ Here are some example data structures for regions, districts, townships, and com
 
 ```json
 {
-  "id": 1,
-  "regionCode": "MMR017",
-  "districtCode": "MMR017D006",
-  "townshipCode": "MMR017024",
-  "townshipNameEn": "Bogale",
-  "townshipNameMm": "ဘိုကလေး",
-  "longitude": "95.3968",
-  "latitude": "16.295"
+  "id": 223,
+  "regionCode": "MMR010",
+  "districtCode": "MMR010D002",
+  "townshipCode": "MMR010011701",
+  "townshipNameEn": "Mogoke",
+  "townshipNameMm": "မိုးကုတ်",
+  "longitude": "96.5054",
+  "latitude": "22.92139",
+  "postalCode": "05090"
 }
 ```
 
@@ -81,17 +81,18 @@ Here are some example data structures for regions, districts, townships, and com
 
 ```json
 {
-  "id": 1,
-  "regionCode": "MMR017",
-  "regionNameEn": "Ayeyarwady",
-  "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
-  "districtCode": "MMR017D006",
-  "districtNameEn": "Pyapon",
-  "districtNameMm": "ဖျာပုံခရိုင်",
-  "townshipCode": "MMR017024",
-  "townshipNameEn": "Bogale",
-  "townshipNameMm": "ဘိုကလေး",
-  "longitude": "95.3968",
-  "latitude": "16.295"
+ "id": 223,
+  "regionCode": "MMR010",
+  "regionNameEn": "Mandalay",
+  "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
+  "districtCode": "MMR010D002",
+  "districtNameEn": "Pyinoolwin",
+  "districtNameMm": "ပြင်ဦးလွင်ခရိုင်",
+  "townshipCode": "MMR010011701",
+  "townshipNameEn": "Mogoke",
+  "townshipNameMm": "မိုးကုတ်",
+  "longitude": "96.5054",
+  "latitude": "22.92139",
+  "postalCode": "05090"
 }
 ```
