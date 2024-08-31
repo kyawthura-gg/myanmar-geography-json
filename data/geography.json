@@ -11,7 +11,8 @@
     "townshipNameEn": "Bogale",
     "townshipNameMm": "ဘိုကလေး",
     "longitude": "95.3968",
-    "latitude": "16.295"
+    "latitude": "16.295",
+    "postalCode": "10230"
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     "townshipNameEn": "Danubyu",
     "townshipNameMm": "ဓနုဖြူ",
     "longitude": "95.59583",
-    "latitude": "17.25468"
+    "latitude": "17.25468",
+    "postalCode": "10150"
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
     "townshipNameEn": "Dedaye",
     "townshipNameMm": "ဒေးဒရဲ",
     "longitude": "95.88512",
-    "latitude": "16.40806"
+    "latitude": "16.40806",
+    "postalCode": "10260"
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     "townshipNameEn": "Einme",
     "townshipNameMm": "အိမ်မဲ",
     "longitude": "95.1805",
-    "latitude": "16.8962"
+    "latitude": "16.8962",
+    "postalCode": "10190"
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@
     "townshipNameEn": "Du Yar",
     "townshipNameMm": "ဒူးယား",
     "longitude": "95.4802",
-    "latitude": "17.5616"
+    "latitude": "17.5616",
+    "postalCode": "10690"
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
     "townshipNameEn": "Hinthada",
     "townshipNameMm": "ဟင်္သာတ",
     "longitude": "95.45818",
-    "latitude": "17.64958"
+    "latitude": "17.64958",
+    "postalCode": "10060"
   },
   {
     "id": 7,
@@ -95,7 +101,8 @@
     "townshipNameEn": "Ta Loke Htaw",
     "townshipNameMm": "တလုတ္ထော်",
     "longitude": "95.3046",
-    "latitude": "17.6419"
+    "latitude": "17.6419",
+    "postalCode": "10680"
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
     "townshipNameEn": "Htoogyi",
     "townshipNameMm": "ထူးကြီး",
     "longitude": "95.26073",
-    "latitude": "17.97132"
+    "latitude": "17.97132",
+    "postalCode": "10660"
   },
   {
     "id": 9,
@@ -123,7 +131,8 @@
     "townshipNameEn": "Ingapu",
     "townshipNameMm": "အင်္ဂပူ",
     "longitude": "95.26926",
-    "latitude": "17.80981"
+    "latitude": "17.80981",
+    "postalCode": "10050"
   },
   {
     "id": 10,
@@ -137,7 +146,8 @@
     "townshipNameEn": "Me Za Li Kone",
     "townshipNameMm": "မဲဇလီကုန်း",
     "longitude": "95.2288",
-    "latitude": "17.9009"
+    "latitude": "17.9009",
+    "postalCode": "10670"
   },
   {
     "id": 11,
@@ -151,7 +161,8 @@
     "townshipNameEn": "Kangyidaunt",
     "townshipNameMm": "ကန်ကြီးထောင့်",
     "longitude": "94.89476",
-    "latitude": "16.9329"
+    "latitude": "16.9329",
+    "postalCode": "10020"
   },
   {
     "id": 12,
@@ -165,7 +176,8 @@
     "townshipNameEn": "Kyaiklat",
     "townshipNameMm": "ကျိုက်လတ်",
     "longitude": "95.72614",
-    "latitude": "16.44431"
+    "latitude": "16.44431",
+    "postalCode": "10240"
   },
   {
     "id": 13,
@@ -179,7 +191,8 @@
     "townshipNameEn": "Batye",
     "townshipNameMm": "ဘက်ရဲ",
     "longitude": "95.14703",
-    "latitude": "18.30044"
+    "latitude": "18.30044",
+    "postalCode": "10630"
   },
   {
     "id": 14,
@@ -193,7 +206,8 @@
     "townshipNameEn": "Kyangin",
     "townshipNameMm": "ကြံခင်း",
     "longitude": "95.23914",
-    "latitude": "18.34035"
+    "latitude": "18.34035",
+    "postalCode": "10030"
   },
   {
     "id": 15,
@@ -207,7 +221,8 @@
     "townshipNameEn": "Kyaunggon",
     "townshipNameMm": "ကျောင်းကုန်း",
     "longitude": "95.1904",
-    "latitude": "17.10768"
+    "latitude": "17.10768",
+    "postalCode": "10100"
   },
   {
     "id": 16,
@@ -221,7 +236,8 @@
     "townshipNameEn": "Ahtaung",
     "townshipNameMm": "အထောင်",
     "longitude": "95.33365",
-    "latitude": "17.34855"
+    "latitude": "17.34855",
+    "postalCode": "10720"
   },
   {
     "id": 17,
@@ -235,7 +251,8 @@
     "townshipNameEn": "Kyonpyaw",
     "townshipNameMm": "ကျုံပျော်",
     "longitude": "95.2",
-    "latitude": "17.3"
+    "latitude": "17.3",
+    "postalCode": "10090"
   },
   {
     "id": 18,
@@ -249,7 +266,8 @@
     "townshipNameEn": "Hainggyikyun",
     "townshipNameMm": "ဟိုင်းကြီးကျွန်း",
     "longitude": "94.80943",
-    "latitude": "15.82677"
+    "latitude": "15.82677",
+    "postalCode": "10760"
   },
   {
     "id": 19,
@@ -263,7 +281,8 @@
     "townshipNameEn": "Labutta (3) Mile",
     "townshipNameMm": "လပွတ္တာ (၃) မိုင်",
     "longitude": "94.78124",
-    "latitude": "16.19983"
+    "latitude": "16.19983",
+    "postalCode": "10740"
   },
   {
     "id": 20,
@@ -277,7 +296,8 @@
     "townshipNameEn": "Labutta",
     "townshipNameMm": "လပွတ္တာ",
     "longitude": "94.75889",
-    "latitude": "16.14557"
+    "latitude": "16.14557",
+    "postalCode": "10120"
   },
   {
     "id": 21,
@@ -291,7 +311,8 @@
     "townshipNameEn": "Pyinsalu",
     "townshipNameMm": "ပြင်စလူ",
     "longitude": "94.80943",
-    "latitude": "15.82677"
+    "latitude": "15.82677",
+    "postalCode": "10730"
   },
   {
     "id": 22,
@@ -305,7 +326,8 @@
     "townshipNameEn": "Lemyethna",
     "townshipNameMm": "လေးမျက်နှာ",
     "longitude": "95.17454",
-    "latitude": "17.60038"
+    "latitude": "17.60038",
+    "postalCode": "10070"
   },
   {
     "id": 23,
@@ -319,7 +341,8 @@
     "townshipNameEn": "Maubin",
     "townshipNameMm": "မအူပင်",
     "longitude": "95.6494",
-    "latitude": "16.73023"
+    "latitude": "16.73023",
+    "postalCode": "10180"
   },
   {
     "id": 24,
@@ -333,7 +356,8 @@
     "townshipNameEn": "Mawlamyinegyun",
     "townshipNameMm": "မော်လမြိုင်ကျွန်း",
     "longitude": "95.26298",
-    "latitude": "16.37894"
+    "latitude": "16.37894",
+    "postalCode": "10220"
   },
   {
     "id": 25,
@@ -347,7 +371,8 @@
     "townshipNameEn": "In Pin",
     "townshipNameMm": "အင်ပင်",
     "longitude": "95.269",
-    "latitude": "18.0935"
+    "latitude": "18.0935",
+    "postalCode": "10650"
   },
   {
     "id": 26,
@@ -361,7 +386,8 @@
     "townshipNameEn": "Kanaung",
     "townshipNameMm": "ကနောင်",
     "longitude": "95.38137",
-    "latitude": "18.21566"
+    "latitude": "18.21566",
+    "postalCode": "10640"
   },
   {
     "id": 27,
@@ -375,7 +401,8 @@
     "townshipNameEn": "Myanaung",
     "townshipNameMm": "မြန်အောင်",
     "longitude": "95.31779",
-    "latitude": "18.28696"
+    "latitude": "18.28696",
+    "postalCode": "10040"
   },
   {
     "id": 28,
@@ -389,7 +416,8 @@
     "townshipNameEn": "Myaungmya",
     "townshipNameMm": "မြောင်းမြ",
     "longitude": "94.92977",
-    "latitude": "16.59926"
+    "latitude": "16.59926",
+    "postalCode": "10210"
   },
   {
     "id": 29,
@@ -403,7 +431,8 @@
     "townshipNameEn": "Hainggyikyun",
     "townshipNameMm": "ဟိုင်းကြီးကျွန်း",
     "longitude": "94.34411",
-    "latitude": "16.01602"
+    "latitude": "16.01602",
+    "postalCode": "10760"
   },
   {
     "id": 30,
@@ -417,7 +446,8 @@
     "townshipNameEn": "Ngapudaw",
     "townshipNameMm": "ငပုတော",
     "longitude": "94.69224",
-    "latitude": "16.5431"
+    "latitude": "16.5431",
+    "postalCode": "10130"
   },
   {
     "id": 31,
@@ -431,7 +461,8 @@
     "townshipNameEn": "Ngayokekaung",
     "townshipNameMm": "ငရုတ်ကောင်း",
     "longitude": "94.3019",
-    "latitude": "16.52089"
+    "latitude": "16.52089",
+    "postalCode": "10750"
   },
   {
     "id": 32,
@@ -445,7 +476,8 @@
     "townshipNameEn": "Nyaungdon",
     "townshipNameMm": "ညောင်တုန်း",
     "longitude": "95.63359",
-    "latitude": "17.04903"
+    "latitude": "17.04903",
+    "postalCode": "10160"
   },
   {
     "id": 33,
@@ -459,7 +491,8 @@
     "townshipNameEn": "Pantanaw",
     "townshipNameMm": "ပန်းတနော်",
     "longitude": "95.46595",
-    "latitude": "16.98212"
+    "latitude": "16.98212",
+    "postalCode": "10170"
   },
   {
     "id": 34,
@@ -473,7 +506,8 @@
     "townshipNameEn": "Chaung Thar",
     "townshipNameMm": "ချောင်းသာ",
     "longitude": "94.4447",
-    "latitude": "16.9597"
+    "latitude": "16.9597",
+    "postalCode": "10620"
   },
   {
     "id": 35,
@@ -487,7 +521,8 @@
     "townshipNameEn": "Ngwesaung",
     "townshipNameMm": "ငွေဆောင်",
     "longitude": "94.38711",
-    "latitude": "16.86379"
+    "latitude": "16.86379",
+    "postalCode": "10610"
   },
   {
     "id": 36,
@@ -501,7 +536,8 @@
     "townshipNameEn": "Pathein",
     "townshipNameMm": "ပုသိမ်",
     "longitude": "94.73303",
-    "latitude": "16.77924"
+    "latitude": "16.77924",
+    "postalCode": "10010"
   },
   {
     "id": 37,
@@ -515,7 +551,8 @@
     "townshipNameEn": "Shwethaungyan",
     "townshipNameMm": "ရွှေသောင်ယံ",
     "longitude": "94.46133",
-    "latitude": "17.07674"
+    "latitude": "17.07674",
+    "postalCode": "10600"
   },
   {
     "id": 38,
@@ -529,7 +566,8 @@
     "townshipNameEn": "Ahmar",
     "townshipNameMm": "အမာ",
     "longitude": "95.29017",
-    "latitude": "15.7994"
+    "latitude": "15.7994",
+    "postalCode": "10780"
   },
   {
     "id": 39,
@@ -543,7 +581,8 @@
     "townshipNameEn": "Pyapon",
     "townshipNameMm": "ဖျာပုံ",
     "longitude": "95.68019",
-    "latitude": "16.29161"
+    "latitude": "16.29161",
+    "postalCode": "10250"
   },
   {
     "id": 40,
@@ -557,7 +596,8 @@
     "townshipNameEn": "Thabaung",
     "townshipNameMm": "သာပေါင်း",
     "longitude": "94.80589",
-    "latitude": "17.04734"
+    "latitude": "17.04734",
+    "postalCode": "10110"
   },
   {
     "id": 41,
@@ -571,7 +611,8 @@
     "townshipNameEn": "Kyonmangae",
     "townshipNameMm": "ကျုံမငေး",
     "longitude": "95.1319",
-    "latitude": "16.43803"
+    "latitude": "16.43803",
+    "postalCode": "10770"
   },
   {
     "id": 42,
@@ -585,7 +626,8 @@
     "townshipNameEn": "Wakema",
     "townshipNameMm": "ဝါးခယ်မ",
     "longitude": "95.18041",
-    "latitude": "16.60383"
+    "latitude": "16.60383",
+    "postalCode": "10200"
   },
   {
     "id": 43,
@@ -599,7 +641,8 @@
     "townshipNameEn": "Ahthoke",
     "townshipNameMm": "အသုတ်",
     "longitude": "95.08331",
-    "latitude": "17.19974"
+    "latitude": "17.19974",
+    "postalCode": "10710"
   },
   {
     "id": 44,
@@ -613,7 +656,8 @@
     "townshipNameEn": "Ngathaingchaung",
     "townshipNameMm": "ငသိုင်းချောင်း",
     "longitude": "95.07731",
-    "latitude": "17.39927"
+    "latitude": "17.39927",
+    "postalCode": "10700"
   },
   {
     "id": 45,
@@ -627,7 +671,8 @@
     "townshipNameEn": "Yegyi",
     "townshipNameMm": "ရေကြည်",
     "longitude": "95.12067",
-    "latitude": "17.34456"
+    "latitude": "17.34456",
+    "postalCode": "10080"
   },
   {
     "id": 46,
@@ -641,7 +686,8 @@
     "townshipNameEn": "Zalun",
     "townshipNameMm": "ဇလွန်",
     "longitude": "95.55666",
-    "latitude": "17.4781"
+    "latitude": "17.4781",
+    "postalCode": "10140"
   },
   {
     "id": 47,
@@ -655,7 +701,8 @@
     "townshipNameEn": "Bago",
     "townshipNameMm": "ပဲခူး",
     "longitude": "96.48389",
-    "latitude": "17.33583"
+    "latitude": "17.33583",
+    "postalCode": "08010"
   },
   {
     "id": 48,
@@ -669,7 +716,8 @@
     "townshipNameEn": "Hpayargyi",
     "townshipNameMm": "ဘုရားကြီး",
     "longitude": "96.52654",
-    "latitude": "17.47538"
+    "latitude": "17.47538",
+    "postalCode": "08600"
   },
   {
     "id": 49,
@@ -683,7 +731,8 @@
     "townshipNameEn": "Inntakaw",
     "townshipNameMm": "အင်းတကော်",
     "longitude": "96.37637",
-    "latitude": "17.18087"
+    "latitude": "17.18087",
+    "postalCode": "08610"
   },
   {
     "id": 50,
@@ -697,7 +746,8 @@
     "townshipNameEn": "Daik-U",
     "townshipNameMm": "ဒိုက်ဦး",
     "longitude": "96.66969",
-    "latitude": "17.78967"
+    "latitude": "17.78967",
+    "postalCode": "08060"
   },
   {
     "id": 51,
@@ -711,7 +761,8 @@
     "townshipNameEn": "Htantabin",
     "townshipNameMm": "ထန်းတပင်",
     "longitude": "96.48376",
-    "latitude": "18.8433"
+    "latitude": "18.8433",
+    "postalCode": "08130"
   },
   {
     "id": 52,
@@ -725,7 +776,8 @@
     "townshipNameEn": "Kawa",
     "townshipNameMm": "ကဝ",
     "longitude": "96.46632",
-    "latitude": "17.08967"
+    "latitude": "17.08967",
+    "postalCode": "08090"
   },
   {
     "id": 53,
@@ -739,7 +791,8 @@
     "townshipNameEn": "Thetkala",
     "townshipNameMm": "သက္ကလ",
     "longitude": "96.59657",
-    "latitude": "17.02939"
+    "latitude": "17.02939",
+    "postalCode": "08670"
   },
   {
     "id": 54,
@@ -753,7 +806,8 @@
     "townshipNameEn": "Kyaukkyi",
     "townshipNameMm": "ကျောက်ကြီး",
     "longitude": "96.76862",
-    "latitude": "18.32764"
+    "latitude": "18.32764",
+    "postalCode": "08040"
   },
   {
     "id": 55,
@@ -767,7 +821,8 @@
     "townshipNameEn": "Hpa Do",
     "townshipNameMm": "ဖဒို",
     "longitude": "96.5549",
-    "latitude": "18.0377"
+    "latitude": "18.0377",
+    "postalCode": "08630"
   },
   {
     "id": 56,
@@ -781,7 +836,8 @@
     "townshipNameEn": "Kyauktaga",
     "townshipNameMm": "ကျောက်တံခါး",
     "longitude": "96.61391",
-    "latitude": "18.15867"
+    "latitude": "18.15867",
+    "postalCode": "08020"
   },
   {
     "id": 57,
@@ -795,7 +851,8 @@
     "townshipNameEn": "Penwegon",
     "townshipNameMm": "ပဲနွယ်ကုန်း",
     "longitude": "96.56886",
-    "latitude": "18.22271"
+    "latitude": "18.22271",
+    "postalCode": "08620"
   },
   {
     "id": 58,
@@ -809,7 +866,8 @@
     "townshipNameEn": "Madauk",
     "townshipNameMm": "မဒေါက်",
     "longitude": "96.84535",
-    "latitude": "17.91491"
+    "latitude": "17.91491",
+    "postalCode": "08640"
   },
   {
     "id": 59,
@@ -823,7 +881,8 @@
     "townshipNameEn": "Nyaunglebin",
     "townshipNameMm": "ညောင်လေးပင်",
     "longitude": "96.72151",
-    "latitude": "17.95323"
+    "latitude": "17.95323",
+    "postalCode": "08030"
   },
   {
     "id": 60,
@@ -837,7 +896,8 @@
     "townshipNameEn": "Peinzalok",
     "townshipNameMm": "ပိန်းဇလုပ်",
     "longitude": "96.66836",
-    "latitude": "18.0699"
+    "latitude": "18.0699",
+    "postalCode": "08660"
   },
   {
     "id": 61,
@@ -851,7 +911,8 @@
     "townshipNameEn": "Pyuntasa",
     "townshipNameMm": "ပြွန်တန်ဆာ",
     "longitude": "96.71597",
-    "latitude": "17.87517"
+    "latitude": "17.87517",
+    "postalCode": "08650"
   },
   {
     "id": 62,
@@ -865,7 +926,8 @@
     "townshipNameEn": "Kywe Pwe",
     "townshipNameMm": "ကျွဲပွဲ",
     "longitude": "96.4099",
-    "latitude": "18.7"
+    "latitude": "18.7",
+    "postalCode": "08720"
   },
   {
     "id": 63,
@@ -879,7 +941,8 @@
     "townshipNameEn": "Oktwin",
     "townshipNameMm": "အုတ်တွင်း",
     "longitude": "96.41363",
-    "latitude": "18.83293"
+    "latitude": "18.83293",
+    "postalCode": "08120"
   },
   {
     "id": 64,
@@ -893,7 +956,8 @@
     "townshipNameEn": "Kanyutkwin",
     "townshipNameMm": "ကညွတ်ကွင်း",
     "longitude": "96.49218",
-    "latitude": "18.3404"
+    "latitude": "18.3404",
+    "postalCode": "08730"
   },
   {
     "id": 65,
@@ -907,7 +971,8 @@
     "townshipNameEn": "Phyu",
     "townshipNameMm": "ဖြူး",
     "longitude": "96.43572",
-    "latitude": "18.48438"
+    "latitude": "18.48438",
+    "postalCode": "08140"
   },
   {
     "id": 66,
@@ -921,7 +986,8 @@
     "townshipNameEn": "Zayyawadi",
     "townshipNameMm": "ဇေယျ၀တီ",
     "longitude": "96.43084",
-    "latitude": "18.54097"
+    "latitude": "18.54097",
+    "postalCode": "08740"
   },
   {
     "id": 67,
@@ -935,7 +1001,8 @@
     "townshipNameEn": "Shwegyin",
     "townshipNameMm": "ရွှေကျင်",
     "longitude": "96.87767",
-    "latitude": "17.92304"
+    "latitude": "17.92304",
+    "postalCode": "08050"
   },
   {
     "id": 68,
@@ -949,7 +1016,8 @@
     "townshipNameEn": "Kaytumati",
     "townshipNameMm": "ကေတုမတီ",
     "longitude": "96.40357",
-    "latitude": "19.01432"
+    "latitude": "19.01432",
+    "postalCode": "08680"
   },
   {
     "id": 69,
@@ -963,7 +1031,8 @@
     "townshipNameEn": "Taungoo",
     "townshipNameMm": "တောင်ငူ",
     "longitude": "96.43314",
-    "latitude": "18.93953"
+    "latitude": "18.93953",
+    "postalCode": "08100"
   },
   {
     "id": 70,
@@ -977,7 +1046,8 @@
     "townshipNameEn": "Thanatpin",
     "townshipNameMm": "သနပ်ပင်",
     "longitude": "96.57664",
-    "latitude": "17.28903"
+    "latitude": "17.28903",
+    "postalCode": "08080"
   },
   {
     "id": 71,
@@ -991,7 +1061,8 @@
     "townshipNameEn": "Waw",
     "townshipNameMm": "ဝေါ",
     "longitude": "96.68234",
-    "latitude": "17.4836"
+    "latitude": "17.4836",
+    "postalCode": "08070"
   },
   {
     "id": 72,
@@ -1005,7 +1076,8 @@
     "townshipNameEn": "Hswar",
     "townshipNameMm": "ဆွာ",
     "longitude": "96.29072",
-    "latitude": "19.26498"
+    "latitude": "19.26498",
+    "postalCode": "08690"
   },
   {
     "id": 73,
@@ -1019,7 +1091,8 @@
     "townshipNameEn": "Myo Hla",
     "townshipNameMm": "မြို့လှ",
     "longitude": "96.26628",
-    "latitude": "19.40442"
+    "latitude": "19.40442",
+    "postalCode": "08710"
   },
   {
     "id": 74,
@@ -1033,7 +1106,8 @@
     "townshipNameEn": "Yae Ni",
     "townshipNameMm": "ရေနီ",
     "longitude": "96.26804",
-    "latitude": "19.47438"
+    "latitude": "19.47438",
+    "postalCode": "08700"
   },
   {
     "id": 75,
@@ -1047,7 +1121,8 @@
     "townshipNameEn": "Yedashe",
     "townshipNameMm": "ရေတာရှည်",
     "longitude": "96.34234",
-    "latitude": "19.15693"
+    "latitude": "19.15693",
+    "postalCode": "08110"
   },
   {
     "id": 76,
@@ -1061,7 +1136,8 @@
     "townshipNameEn": "Gyobingauk",
     "townshipNameMm": "ကြို့ပင်ကောက်",
     "longitude": "95.65259",
-    "latitude": "18.22989"
+    "latitude": "18.22989",
+    "postalCode": "18140"
   },
   {
     "id": 77,
@@ -1075,7 +1151,8 @@
     "townshipNameEn": "Letpadan",
     "townshipNameMm": "လက်ပံတန်း",
     "longitude": "95.74529",
-    "latitude": "17.779"
+    "latitude": "17.779",
+    "postalCode": "18080"
   },
   {
     "id": 78,
@@ -1089,7 +1166,8 @@
     "townshipNameEn": "Minhla",
     "townshipNameMm": "မင်းလှ",
     "longitude": "95.70905",
-    "latitude": "17.97389"
+    "latitude": "17.97389",
+    "postalCode": "18090"
   },
   {
     "id": 79,
@@ -1103,7 +1181,8 @@
     "townshipNameEn": "Sit Kwin",
     "townshipNameMm": "စစ်ကွင်း",
     "longitude": "95.7232",
-    "latitude": "17.8941"
+    "latitude": "17.8941",
+    "postalCode": "18660"
   },
   {
     "id": 80,
@@ -1117,7 +1196,8 @@
     "townshipNameEn": "Monyo",
     "townshipNameMm": "မိုးညို",
     "longitude": "95.51185",
-    "latitude": "18.02719"
+    "latitude": "18.02719",
+    "postalCode": "18130"
   },
   {
     "id": 81,
@@ -1131,7 +1211,8 @@
     "townshipNameEn": "Nattalin",
     "townshipNameMm": "နတ်တလင်း",
     "longitude": "95.54731",
-    "latitude": "18.42753"
+    "latitude": "18.42753",
+    "postalCode": "18120"
   },
   {
     "id": 82,
@@ -1145,7 +1226,8 @@
     "townshipNameEn": "Tar Pun",
     "townshipNameMm": "တာပွန်",
     "longitude": "95.4549",
-    "latitude": "18.361"
+    "latitude": "18.361",
+    "postalCode": "18680"
   },
   {
     "id": 83,
@@ -1159,7 +1241,8 @@
     "townshipNameEn": "Oe Thei Kone",
     "townshipNameMm": "အိုးသည်ကုန်း",
     "longitude": "95.6935",
-    "latitude": "18.0432"
+    "latitude": "18.0432",
+    "postalCode": "18670"
   },
   {
     "id": 84,
@@ -1173,7 +1256,8 @@
     "townshipNameEn": "Okpho",
     "townshipNameMm": "အုတ်ဖို",
     "longitude": "95.67177",
-    "latitude": "18.13022"
+    "latitude": "18.13022",
+    "postalCode": "18100"
   },
   {
     "id": 85,
@@ -1187,7 +1271,8 @@
     "townshipNameEn": "Oakshitpin",
     "townshipNameMm": "ဥရှစ်ပင်",
     "longitude": "95.01383",
-    "latitude": "18.68519"
+    "latitude": "18.68519",
+    "postalCode": "18610"
   },
   {
     "id": 86,
@@ -1201,7 +1286,8 @@
     "townshipNameEn": "Padaung",
     "townshipNameMm": "ပန်းတောင်း",
     "longitude": "95.15353",
-    "latitude": "18.71797"
+    "latitude": "18.71797",
+    "postalCode": "18030"
   },
   {
     "id": 87,
@@ -1215,7 +1301,8 @@
     "townshipNameEn": "Paukkhaung",
     "townshipNameMm": "ပေါက်ခေါင်း",
     "longitude": "95.54819",
-    "latitude": "18.9028"
+    "latitude": "18.9028",
+    "postalCode": "18020"
   },
   {
     "id": 88,
@@ -1229,7 +1316,8 @@
     "townshipNameEn": "Paungde",
     "townshipNameMm": "ပေါင်းတည်",
     "longitude": "95.50721",
-    "latitude": "18.48947"
+    "latitude": "18.48947",
+    "postalCode": "18040"
   },
   {
     "id": 89,
@@ -1243,7 +1331,8 @@
     "townshipNameEn": "Paungdale",
     "townshipNameMm": "ပေါင်းတလည်",
     "longitude": "95.38459",
-    "latitude": "18.84968"
+    "latitude": "18.84968",
+    "postalCode": "18600"
   },
   {
     "id": 90,
@@ -1257,7 +1346,8 @@
     "townshipNameEn": "Pyay",
     "townshipNameMm": "ပြည်",
     "longitude": "95.22103",
-    "latitude": "18.82151"
+    "latitude": "18.82151",
+    "postalCode": "18010"
   },
   {
     "id": 91,
@@ -1271,7 +1361,8 @@
     "townshipNameEn": "Shwedaung",
     "townshipNameMm": "ရွှေတောင်",
     "longitude": "95.21404",
-    "latitude": "18.7051"
+    "latitude": "18.7051",
+    "postalCode": "18060"
   },
   {
     "id": 92,
@@ -1285,7 +1376,8 @@
     "townshipNameEn": "Thayarwady",
     "townshipNameMm": "သာယာဝတီ",
     "longitude": "95.78629",
-    "latitude": "17.65441"
+    "latitude": "17.65441",
+    "postalCode": "18070"
   },
   {
     "id": 93,
@@ -1299,7 +1391,8 @@
     "townshipNameEn": "Thonse",
     "townshipNameMm": "သုံးဆယ်",
     "longitude": "95.78985",
-    "latitude": "17.62988"
+    "latitude": "17.62988",
+    "postalCode": "18650"
   },
   {
     "id": 94,
@@ -1313,7 +1406,8 @@
     "townshipNameEn": "Inn Ma",
     "townshipNameMm": "အင်းမ",
     "longitude": "95.34904",
-    "latitude": "18.52806"
+    "latitude": "18.52806",
+    "postalCode": "18630"
   },
   {
     "id": 95,
@@ -1327,7 +1421,8 @@
     "townshipNameEn": "Puteekone",
     "townshipNameMm": "ပုတီးကုန်း",
     "longitude": "95.45645",
-    "latitude": "18.57236"
+    "latitude": "18.57236",
+    "postalCode": "18620"
   },
   {
     "id": 96,
@@ -1341,7 +1436,8 @@
     "townshipNameEn": "Sin Mee Swea",
     "townshipNameMm": "ဆင်မြီးဆွဲ",
     "longitude": "95.3594",
-    "latitude": "18.7369"
+    "latitude": "18.7369",
+    "postalCode": "18640"
   },
   {
     "id": 97,
@@ -1355,7 +1451,8 @@
     "townshipNameEn": "Thegon",
     "townshipNameMm": "သဲကုန်း",
     "longitude": "95.41721",
-    "latitude": "18.64698"
+    "latitude": "18.64698",
+    "postalCode": "18050"
   },
   {
     "id": 98,
@@ -1369,7 +1466,8 @@
     "townshipNameEn": "Zigon",
     "townshipNameMm": "ဇီးကုန်း",
     "longitude": "95.62304",
-    "latitude": "18.33846"
+    "latitude": "18.33846",
+    "postalCode": "18110"
   },
   {
     "id": 99,
@@ -1383,7 +1481,8 @@
     "townshipNameEn": "Falam",
     "townshipNameMm": "ဖလမ်း",
     "longitude": "93.68034",
-    "latitude": "22.91105"
+    "latitude": "22.91105",
+    "postalCode": "03030"
   },
   {
     "id": 100,
@@ -1397,7 +1496,8 @@
     "townshipNameEn": "Rihkhawdar",
     "townshipNameMm": "ရိခေါ်ဒါရ်",
     "longitude": "93.38869",
-    "latitude": "23.36097"
+    "latitude": "23.36097",
+    "postalCode": "03620"
   },
   {
     "id": 101,
@@ -1411,7 +1511,8 @@
     "townshipNameEn": "Webula",
     "townshipNameMm": "ဝေဘူလ",
     "longitude": "93.9133",
-    "latitude": "23.0168"
+    "latitude": "23.0168",
+    "postalCode": "03630"
   },
   {
     "id": 102,
@@ -1425,7 +1526,8 @@
     "townshipNameEn": "Hakha",
     "townshipNameMm": "ဟားခါး",
     "longitude": "93.60483",
-    "latitude": "22.64011"
+    "latitude": "22.64011",
+    "postalCode": "03010"
   },
   {
     "id": 103,
@@ -1439,7 +1541,8 @@
     "townshipNameEn": "Surkhua",
     "townshipNameMm": "ဆူရ်ခွား",
     "longitude": "93.63416",
-    "latitude": "22.25553"
+    "latitude": "22.25553",
+    "postalCode": "03600"
   },
   {
     "id": 104,
@@ -1453,7 +1556,8 @@
     "townshipNameEn": "Kanpetlet",
     "townshipNameMm": "ကန်ပက်လက်",
     "longitude": "94.05666",
-    "latitude": "21.19337"
+    "latitude": "21.19337",
+    "postalCode": "03080"
   },
   {
     "id": 105,
@@ -1467,7 +1571,8 @@
     "townshipNameEn": "Kyin Dway",
     "townshipNameMm": "ကျင်ဒွေး",
     "longitude": "93.8382",
-    "latitude": "20.973"
+    "latitude": "20.973",
+    "postalCode": "03690"
   },
   {
     "id": 106,
@@ -1481,7 +1586,8 @@
     "townshipNameEn": "Lalengpi",
     "townshipNameMm": "လိုင်လင်းပီ",
     "longitude": "93.1143",
-    "latitude": "21.9592"
+    "latitude": "21.9592",
+    "postalCode": "03670"
   },
   {
     "id": 107,
@@ -1495,7 +1601,8 @@
     "townshipNameEn": "Matupi",
     "townshipNameMm": "မတူပီ",
     "longitude": "93.44086",
-    "latitude": "21.60475"
+    "latitude": "21.60475",
+    "postalCode": "03060"
   },
   {
     "id": 108,
@@ -1509,7 +1616,8 @@
     "townshipNameEn": "Rezua",
     "townshipNameMm": "ရေဇွာ",
     "longitude": "93.40857",
-    "latitude": "22.05289"
+    "latitude": "22.05289",
+    "postalCode": "03660"
   },
   {
     "id": 109,
@@ -1523,7 +1631,8 @@
     "townshipNameEn": "Mindat",
     "townshipNameMm": "မင်းတပ်",
     "longitude": "93.97365",
-    "latitude": "21.37176"
+    "latitude": "21.37176",
+    "postalCode": "03070"
   },
   {
     "id": 110,
@@ -1537,7 +1646,8 @@
     "townshipNameEn": "M'kuiimnu",
     "townshipNameMm": "မကွီအိမ်နူး",
     "longitude": "93.5945",
-    "latitude": "21.1727"
+    "latitude": "21.1727",
+    "postalCode": "03680"
   },
   {
     "id": 111,
@@ -1551,7 +1661,8 @@
     "townshipNameEn": "Paletwa",
     "townshipNameMm": "ပလက်ဝ",
     "longitude": "92.85461",
-    "latitude": "21.30441"
+    "latitude": "21.30441",
+    "postalCode": "03090"
   },
   {
     "id": 112,
@@ -1565,7 +1676,8 @@
     "townshipNameEn": "Samee",
     "townshipNameMm": "ဆမီး",
     "longitude": "93.09649",
-    "latitude": "21.29333"
+    "latitude": "21.29333",
+    "postalCode": "03700"
   },
   {
     "id": 113,
@@ -1579,7 +1691,8 @@
     "townshipNameEn": "Khaikam",
     "townshipNameMm": "ခိုင်ကမ်း",
     "longitude": "93.9551",
-    "latitude": "23.2175"
+    "latitude": "23.2175",
+    "postalCode": "03640"
   },
   {
     "id": 114,
@@ -1593,7 +1706,8 @@
     "townshipNameEn": "Tedim",
     "townshipNameMm": "တီးတိန်",
     "longitude": "93.65619",
-    "latitude": "23.37058"
+    "latitude": "23.37058",
+    "postalCode": "03040"
   },
   {
     "id": 115,
@@ -1607,7 +1721,8 @@
     "townshipNameEn": "Hnaring",
     "townshipNameMm": "နှာဟရိန်",
     "longitude": "93.4361",
-    "latitude": "22.1898"
+    "latitude": "22.1898",
+    "postalCode": "03610"
   },
   {
     "id": 116,
@@ -1621,7 +1736,8 @@
     "townshipNameEn": "Thantlang",
     "townshipNameMm": "ထန်တလန်",
     "longitude": "93.4278",
-    "latitude": "22.69843"
+    "latitude": "22.69843",
+    "postalCode": "03020"
   },
   {
     "id": 117,
@@ -1635,7 +1751,8 @@
     "townshipNameEn": "Cikha",
     "townshipNameMm": "ကျီခါး",
     "longitude": "93.53347",
-    "latitude": "23.88976"
+    "latitude": "23.88976",
+    "postalCode": "03650"
   },
   {
     "id": 118,
@@ -1649,7 +1766,8 @@
     "townshipNameEn": "Tonzang",
     "townshipNameMm": "တွန်းဇန်",
     "longitude": "93.69175",
-    "latitude": "23.60306"
+    "latitude": "23.60306",
+    "postalCode": "03050"
   },
   {
     "id": 119,
@@ -1663,7 +1781,8 @@
     "townshipNameEn": "Bhamo",
     "townshipNameMm": "ဗန်းမော်",
     "longitude": "97.23441",
-    "latitude": "24.25493"
+    "latitude": "24.25493",
+    "postalCode": "01130"
   },
   {
     "id": 120,
@@ -1677,7 +1796,8 @@
     "townshipNameEn": "Chipwi",
     "townshipNameMm": "ချီဖွေ",
     "longitude": "98.12976",
-    "latitude": "25.88635"
+    "latitude": "25.88635",
+    "postalCode": "01070"
   },
   {
     "id": 121,
@@ -1691,7 +1811,8 @@
     "townshipNameEn": "Pang War",
     "townshipNameMm": "ပန်ဝါ",
     "longitude": "98.37863",
-    "latitude": "25.59866"
+    "latitude": "25.59866",
+    "postalCode": "01620"
   },
   {
     "id": 122,
@@ -1705,7 +1826,8 @@
     "townshipNameEn": "Hpakant",
     "townshipNameMm": "ဖားကန့်",
     "longitude": "96.31212",
-    "latitude": "25.6128"
+    "latitude": "25.6128",
+    "postalCode": "01160"
   },
   {
     "id": 123,
@@ -1719,7 +1841,8 @@
     "townshipNameEn": "Kamaing",
     "townshipNameMm": "ကာမိုင်း",
     "longitude": "96.71153",
-    "latitude": "25.5226"
+    "latitude": "25.5226",
+    "postalCode": "01740"
   },
   {
     "id": 124,
@@ -1733,7 +1856,8 @@
     "townshipNameEn": "Injangyang",
     "townshipNameMm": "အင်ဂျန်းယန်",
     "longitude": "97.72671",
-    "latitude": "25.82991"
+    "latitude": "25.82991",
+    "postalCode": "01020"
   },
   {
     "id": 125,
@@ -1747,7 +1871,8 @@
     "townshipNameEn": "Khaunglanhpu",
     "townshipNameMm": "ခေါင်လန်ဖူး",
     "longitude": "98.36034",
-    "latitude": "27.06043"
+    "latitude": "27.06043",
+    "postalCode": "01180"
   },
   {
     "id": 126,
@@ -1761,7 +1886,8 @@
     "townshipNameEn": "Machanbaw",
     "townshipNameMm": "မချမ်းဘော",
     "longitude": "97.58937",
-    "latitude": "27.28395"
+    "latitude": "27.28395",
+    "postalCode": "01040"
   },
   {
     "id": 127,
@@ -1775,7 +1901,8 @@
     "townshipNameEn": "Mansi",
     "townshipNameMm": "မံစီ",
     "longitude": "97.29311",
-    "latitude": "24.11962"
+    "latitude": "24.11962",
+    "postalCode": "01140"
   },
   {
     "id": 128,
@@ -1789,7 +1916,8 @@
     "townshipNameEn": "Mogaung",
     "townshipNameMm": "မိုးကောင်း",
     "longitude": "96.94038",
-    "latitude": "25.30274"
+    "latitude": "25.30274",
+    "postalCode": "01100"
   },
   {
     "id": 129,
@@ -1803,7 +1931,8 @@
     "townshipNameEn": "Nammatee",
     "townshipNameMm": "နမ္မတီး",
     "longitude": "97.00896",
-    "latitude": "25.37835"
+    "latitude": "25.37835",
+    "postalCode": "01660"
   },
   {
     "id": 130,
@@ -1817,7 +1946,8 @@
     "townshipNameEn": "Hopin",
     "townshipNameMm": "ဟိုပင်",
     "longitude": "96.53019",
-    "latitude": "24.99183"
+    "latitude": "24.99183",
+    "postalCode": "01670"
   },
   {
     "id": 131,
@@ -1831,7 +1961,8 @@
     "townshipNameEn": "Inn Taw Gyi",
     "townshipNameMm": "အင်းတော်ကြီး",
     "longitude": "96.2876",
-    "latitude": "25.0929"
+    "latitude": "25.0929",
+    "postalCode": "01680"
   },
   {
     "id": 132,
@@ -1845,7 +1976,8 @@
     "townshipNameEn": "Mohnyin",
     "townshipNameMm": "မိုးညှင်း",
     "longitude": "96.36493",
-    "latitude": "24.77711"
+    "latitude": "24.77711",
+    "postalCode": "01110"
   },
   {
     "id": 133,
@@ -1859,7 +1991,8 @@
     "townshipNameEn": "Nam Mar",
     "townshipNameMm": "နန်းမား",
     "longitude": "96.43625",
-    "latitude": "24.87399"
+    "latitude": "24.87399",
+    "postalCode": "01700"
   },
   {
     "id": 134,
@@ -1873,7 +2006,8 @@
     "townshipNameEn": "Nam Mun",
     "townshipNameMm": "နန့်မွန်း",
     "longitude": "96.3548",
-    "latitude": "25.0047"
+    "latitude": "25.0047",
+    "postalCode": "01690"
   },
   {
     "id": 135,
@@ -1887,7 +2021,8 @@
     "townshipNameEn": "Dawthponeyan",
     "townshipNameMm": "ဒေါ့ဖုန်းယန်",
     "longitude": "97.46127",
-    "latitude": "24.61398"
+    "latitude": "24.61398",
+    "postalCode": "01730"
   },
   {
     "id": 136,
@@ -1901,7 +2036,8 @@
     "townshipNameEn": "Lwegel",
     "townshipNameMm": "လွယ်ဂျယ်",
     "longitude": "97.72077",
-    "latitude": "24.19932"
+    "latitude": "24.19932",
+    "postalCode": "01720"
   },
   {
     "id": 137,
@@ -1915,7 +2051,8 @@
     "townshipNameEn": "Momauk",
     "townshipNameMm": "မိုးမောက်",
     "longitude": "97.34653",
-    "latitude": "24.25095"
+    "latitude": "24.25095",
+    "postalCode": "01150"
   },
   {
     "id": 138,
@@ -1929,7 +2066,8 @@
     "townshipNameEn": "Myitkyina",
     "townshipNameMm": "မြစ်ကြီးနား",
     "longitude": "97.39036",
-    "latitude": "25.38749"
+    "latitude": "25.38749",
+    "postalCode": "01010"
   },
   {
     "id": 139,
@@ -1943,7 +2081,8 @@
     "townshipNameEn": "Sinbo",
     "townshipNameMm": "ဆင်ဘို",
     "longitude": "97.03917",
-    "latitude": "24.77923"
+    "latitude": "24.77923",
+    "postalCode": "01600"
   },
   {
     "id": 140,
@@ -1957,7 +2096,8 @@
     "townshipNameEn": "Nawngmun",
     "townshipNameMm": "နောင်မွန်း",
     "longitude": "97.81785",
-    "latitude": "27.50532"
+    "latitude": "27.50532",
+    "postalCode": "01030"
   },
   {
     "id": 141,
@@ -1971,7 +2111,8 @@
     "townshipNameEn": "Pannandin",
     "townshipNameMm": "ပန်နန်းဒင်",
     "longitude": "97.87662",
-    "latitude": "27.7281"
+    "latitude": "27.7281",
+    "postalCode": "01610"
   },
   {
     "id": 142,
@@ -1985,7 +2126,8 @@
     "townshipNameEn": "Puta-O",
     "townshipNameMm": "ပူတာအို",
     "longitude": "97.4159",
-    "latitude": "27.29934"
+    "latitude": "27.29934",
+    "postalCode": "01050"
   },
   {
     "id": 143,
@@ -1999,7 +2141,8 @@
     "townshipNameEn": "Myo Hla",
     "townshipNameMm": "မြို့လှ",
     "longitude": "96.65522",
-    "latitude": "24.47856"
+    "latitude": "24.47856",
+    "postalCode": "08710"
   },
   {
     "id": 144,
@@ -2013,7 +2156,8 @@
     "townshipNameEn": "Shwegu",
     "townshipNameMm": "ရွှေကူ",
     "longitude": "96.80606",
-    "latitude": "24.20695"
+    "latitude": "24.20695",
+    "postalCode": "01120"
   },
   {
     "id": 145,
@@ -2027,7 +2171,8 @@
     "townshipNameEn": "Sumprabum",
     "townshipNameMm": "ဆွမ်ပရာဘွမ်",
     "longitude": "97.5677",
-    "latitude": "26.54373"
+    "latitude": "26.54373",
+    "postalCode": "01060"
   },
   {
     "id": 146,
@@ -2041,7 +2186,8 @@
     "townshipNameEn": "Shin Bway Yang",
     "townshipNameMm": "ရှင်ဗွေယန်",
     "longitude": "96.2094",
-    "latitude": "26.69478"
+    "latitude": "26.69478",
+    "postalCode": "01650"
   },
   {
     "id": 147,
@@ -2055,7 +2201,8 @@
     "townshipNameEn": "Tanai",
     "townshipNameMm": "တနိုင်း",
     "longitude": "96.71655",
-    "latitude": "26.35797"
+    "latitude": "26.35797",
+    "postalCode": "01090"
   },
   {
     "id": 148,
@@ -2069,7 +2216,8 @@
     "townshipNameEn": "Tsawlaw",
     "townshipNameMm": "ဆော့လော်",
     "longitude": "98.27049",
-    "latitude": "26.15419"
+    "latitude": "26.15419",
+    "postalCode": "01170"
   },
   {
     "id": 149,
@@ -2083,7 +2231,8 @@
     "townshipNameEn": "Kan Paik Ti",
     "townshipNameMm": "ကန်ပိုက်တီ",
     "longitude": "98.11739",
-    "latitude": "25.40319"
+    "latitude": "25.40319",
+    "postalCode": "01640"
   },
   {
     "id": 150,
@@ -2097,7 +2246,8 @@
     "townshipNameEn": "Sadung",
     "townshipNameMm": "ဆဒုံး",
     "longitude": "97.89996",
-    "latitude": "25.39709"
+    "latitude": "25.39709",
+    "postalCode": "01630"
   },
   {
     "id": 151,
@@ -2111,7 +2261,8 @@
     "townshipNameEn": "Waingmaw",
     "townshipNameMm": "ဝိုင်းမော်",
     "longitude": "97.44281",
-    "latitude": "25.35099"
+    "latitude": "25.35099",
+    "postalCode": "01080"
   },
   {
     "id": 152,
@@ -2125,7 +2276,8 @@
     "townshipNameEn": "Bawlake",
     "townshipNameMm": "ဘောလခဲ",
     "longitude": "97.34284",
-    "latitude": "19.17256"
+    "latitude": "19.17256",
+    "postalCode": "09040"
   },
   {
     "id": 153,
@@ -2139,7 +2291,8 @@
     "townshipNameEn": "Ywarthit",
     "townshipNameMm": "ရွာသစ်",
     "longitude": "97.4995",
-    "latitude": "19.16673"
+    "latitude": "19.16673",
+    "postalCode": "09620"
   },
   {
     "id": 154,
@@ -2153,7 +2306,8 @@
     "townshipNameEn": "Demoso",
     "townshipNameMm": "ဒီးမော့ဆို",
     "longitude": "97.15881",
-    "latitude": "19.53832"
+    "latitude": "19.53832",
+    "postalCode": "09020"
   },
   {
     "id": 155,
@@ -2167,7 +2321,8 @@
     "townshipNameEn": "Nan Mei Khon",
     "townshipNameMm": "နန်းမယ်ခုံ",
     "longitude": "97.1091",
-    "latitude": "19.6696"
+    "latitude": "19.6696",
+    "postalCode": "09610"
   },
   {
     "id": 156,
@@ -2181,7 +2336,8 @@
     "townshipNameEn": "Hpasawng",
     "townshipNameMm": "ဖားဆောင်း",
     "longitude": "97.31592",
-    "latitude": "18.87063"
+    "latitude": "18.87063",
+    "postalCode": "09050"
   },
   {
     "id": 157,
@@ -2195,7 +2351,8 @@
     "townshipNameEn": "Hpruso",
     "townshipNameMm": "ဖရူဆို",
     "longitude": "97.12799",
-    "latitude": "19.41387"
+    "latitude": "19.41387",
+    "postalCode": "09030"
   },
   {
     "id": 158,
@@ -2209,7 +2366,8 @@
     "townshipNameEn": "Loikaw",
     "townshipNameMm": "လွိုင်ကော်",
     "longitude": "97.20993",
-    "latitude": "19.67424"
+    "latitude": "19.67424",
+    "postalCode": "09010"
   },
   {
     "id": 159,
@@ -2223,7 +2381,8 @@
     "townshipNameEn": "Loilen Lay",
     "townshipNameMm": "လွိုင်လင်လေး",
     "longitude": "97.2318",
-    "latitude": "19.8777"
+    "latitude": "19.8777",
+    "postalCode": "09600"
   },
   {
     "id": 160,
@@ -2237,7 +2396,8 @@
     "townshipNameEn": "Mese",
     "townshipNameMm": "မယ်စဲ",
     "longitude": "97.66277",
-    "latitude": "18.67246"
+    "latitude": "18.67246",
+    "postalCode": "09060"
   },
   {
     "id": 161,
@@ -2251,7 +2411,8 @@
     "townshipNameEn": "Shadaw",
     "townshipNameMm": "ရှားတော",
     "longitude": "97.52073",
-    "latitude": "19.63174"
+    "latitude": "19.63174",
+    "postalCode": "09070"
   },
   {
     "id": 162,
@@ -2265,7 +2426,8 @@
     "townshipNameEn": "Hlaingbwe",
     "townshipNameMm": "လှိုင်းဘွဲ့",
     "longitude": "97.81871",
-    "latitude": "17.12574"
+    "latitude": "17.12574",
+    "postalCode": "13040"
   },
   {
     "id": 163,
@@ -2279,7 +2441,8 @@
     "townshipNameEn": "Paingkyon",
     "townshipNameMm": "ပိုင်ကျုံ",
     "longitude": "97.98597",
-    "latitude": "17.0217"
+    "latitude": "17.0217",
+    "postalCode": "13640"
   },
   {
     "id": 164,
@@ -2293,7 +2456,8 @@
     "townshipNameEn": "Shan Ywar Thit",
     "townshipNameMm": "ရှမ်းရွာသစ်",
     "longitude": "97.88778",
-    "latitude": "17.42438"
+    "latitude": "17.42438",
+    "postalCode": "13650"
   },
   {
     "id": 165,
@@ -2307,7 +2471,8 @@
     "townshipNameEn": "Hpa-An",
     "townshipNameMm": "ဘားအံ",
     "longitude": "97.63691",
-    "latitude": "16.88076"
+    "latitude": "16.88076",
+    "postalCode": "13010"
   },
   {
     "id": 166,
@@ -2321,7 +2486,8 @@
     "townshipNameEn": "Hpapun",
     "townshipNameMm": "ဖာပွန်",
     "longitude": "97.44321",
-    "latitude": "18.06306"
+    "latitude": "18.06306",
+    "postalCode": "13030"
   },
   {
     "id": 167,
@@ -2335,7 +2501,8 @@
     "townshipNameEn": "Kamarmaung",
     "townshipNameMm": "ကမမောင်း",
     "longitude": "97.6529",
-    "latitude": "17.34688"
+    "latitude": "17.34688",
+    "postalCode": "13630"
   },
   {
     "id": 168,
@@ -2349,7 +2516,8 @@
     "townshipNameEn": "Kawkareik",
     "townshipNameMm": "ကော့ကရိတ်",
     "longitude": "98.23996",
-    "latitude": "16.55553"
+    "latitude": "16.55553",
+    "postalCode": "13060"
   },
   {
     "id": 169,
@@ -2363,7 +2531,8 @@
     "townshipNameEn": "Kyondoe",
     "townshipNameMm": "ကျုံဒိုး",
     "longitude": "98.04353",
-    "latitude": "16.59446"
+    "latitude": "16.59446",
+    "postalCode": "13680"
   },
   {
     "id": 170,
@@ -2377,7 +2546,8 @@
     "townshipNameEn": "Hpayarthonesu",
     "townshipNameMm": "ဘုရားသုံးဆူ",
     "longitude": "98.37808",
-    "latitude": "15.30444"
+    "latitude": "15.30444",
+    "postalCode": "13690"
   },
   {
     "id": 171,
@@ -2391,7 +2561,8 @@
     "townshipNameEn": "Kyaikdon",
     "townshipNameMm": "ကျိုက်ဒုံ",
     "longitude": "98.39268",
-    "latitude": "16.00253"
+    "latitude": "16.00253",
+    "postalCode": "13700"
   },
   {
     "id": 172,
@@ -2405,7 +2576,8 @@
     "townshipNameEn": "Kyainseikgyi",
     "townshipNameMm": "ကြာအင်းဆိပ်ကြီး",
     "longitude": "98.12322",
-    "latitude": "16.04079"
+    "latitude": "16.04079",
+    "postalCode": "13070"
   },
   {
     "id": 173,
@@ -2419,7 +2591,8 @@
     "townshipNameEn": "Myawaddy",
     "townshipNameMm": "မြဝတီ",
     "longitude": "98.51304",
-    "latitude": "16.68868"
+    "latitude": "16.68868",
+    "postalCode": "13050"
   },
   {
     "id": 174,
@@ -2433,7 +2606,8 @@
     "townshipNameEn": "Su Ka Li",
     "townshipNameMm": "စုကလိ",
     "longitude": "98.59621",
-    "latitude": "16.15439"
+    "latitude": "16.15439",
+    "postalCode": "13660"
   },
   {
     "id": 175,
@@ -2447,7 +2621,8 @@
     "townshipNameEn": "Waw Lay Myaing (Waw Lay)",
     "townshipNameMm": "",
     "longitude": "98.71324",
-    "latitude": "16.29392"
+    "latitude": "16.29392",
+    "postalCode": "13670"
   },
   {
     "id": 176,
@@ -2461,7 +2636,8 @@
     "townshipNameEn": "Baw Ga Li",
     "townshipNameMm": "ဘောဂလိ",
     "longitude": "96.78565",
-    "latitude": "18.91451"
+    "latitude": "18.91451",
+    "postalCode": "13620"
   },
   {
     "id": 177,
@@ -2475,7 +2651,8 @@
     "townshipNameEn": "Leik Tho",
     "townshipNameMm": "လိပ်သို",
     "longitude": "96.58097",
-    "latitude": "19.22235"
+    "latitude": "19.22235",
+    "postalCode": "13610"
   },
   {
     "id": 178,
@@ -2489,7 +2666,8 @@
     "townshipNameEn": "Thandaung",
     "townshipNameMm": "သံတောင်",
     "longitude": "96.58266",
-    "latitude": "19.02175"
+    "latitude": "19.02175",
+    "postalCode": "13600"
   },
   {
     "id": 179,
@@ -2503,7 +2681,8 @@
     "townshipNameEn": "Thandaunggyi",
     "townshipNameMm": "သံတောင်ကြီး",
     "longitude": "96.67547",
-    "latitude": "19.07339"
+    "latitude": "19.07339",
+    "postalCode": "13020"
   },
   {
     "id": 180,
@@ -2517,7 +2696,8 @@
     "townshipNameEn": "Aunglan",
     "townshipNameMm": "အောင်လံ",
     "longitude": "95.21684",
-    "latitude": "19.35855"
+    "latitude": "19.35855",
+    "postalCode": "04150"
   },
   {
     "id": 181,
@@ -2531,7 +2711,8 @@
     "townshipNameEn": "Chauk",
     "townshipNameMm": "ချောက်",
     "longitude": "94.81829",
-    "latitude": "20.89098"
+    "latitude": "20.89098",
+    "postalCode": "04170"
   },
   {
     "id": 182,
@@ -2545,7 +2726,8 @@
     "townshipNameEn": "Sa Lay",
     "townshipNameMm": "စလေ",
     "longitude": "94.7424",
-    "latitude": "20.8338"
+    "latitude": "20.8338",
+    "postalCode": "04620"
   },
   {
     "id": 183,
@@ -2559,7 +2741,8 @@
     "townshipNameEn": "Gangaw",
     "townshipNameMm": "ဂန့်ဂေါ",
     "longitude": "94.13582",
-    "latitude": "22.17421"
+    "latitude": "22.17421",
+    "postalCode": "04210"
   },
   {
     "id": 184,
@@ -2573,7 +2756,8 @@
     "townshipNameEn": "Kyaw",
     "townshipNameMm": "ကျော",
     "longitude": "94.35789",
-    "latitude": "21.92737"
+    "latitude": "21.92737",
+    "postalCode": "04650"
   },
   {
     "id": 185,
@@ -2587,7 +2771,8 @@
     "townshipNameEn": "Kamma",
     "townshipNameMm": "ကံမ",
     "longitude": "95.09594",
-    "latitude": "19.02897"
+    "latitude": "19.02897",
+    "postalCode": "04110"
   },
   {
     "id": 186,
@@ -2601,7 +2786,8 @@
     "townshipNameEn": "Magway",
     "townshipNameMm": "မကွေး",
     "longitude": "94.92696",
-    "latitude": "20.14027"
+    "latitude": "20.14027",
+    "postalCode": "04010"
   },
   {
     "id": 187,
@@ -2615,7 +2801,8 @@
     "townshipNameEn": "Minbu",
     "townshipNameMm": "မင်းဘူး",
     "longitude": "94.87518",
-    "latitude": "20.17161"
+    "latitude": "20.17161",
+    "postalCode": "04020"
   },
   {
     "id": 188,
@@ -2629,7 +2816,8 @@
     "townshipNameEn": "Saku",
     "townshipNameMm": "စကု",
     "longitude": "94.76831",
-    "latitude": "20.22609"
+    "latitude": "20.22609",
+    "postalCode": "04600"
   },
   {
     "id": 189,
@@ -2643,7 +2831,8 @@
     "townshipNameEn": "Mindon",
     "townshipNameMm": "မင်းတုန်း",
     "longitude": "94.73233",
-    "latitude": "19.35131"
+    "latitude": "19.35131",
+    "postalCode": "04100"
   },
   {
     "id": 190,
@@ -2657,7 +2846,8 @@
     "townshipNameEn": "Minhla",
     "townshipNameMm": "မင်းလှ",
     "longitude": "95.0367",
-    "latitude": "19.96559"
+    "latitude": "19.96559",
+    "postalCode": "18090"
   },
   {
     "id": 191,
@@ -2671,7 +2861,8 @@
     "townshipNameEn": "Myaing",
     "townshipNameMm": "မြိုင်",
     "longitude": "94.85432",
-    "latitude": "21.61256"
+    "latitude": "21.61256",
+    "postalCode": "04190"
   },
   {
     "id": 192,
@@ -2685,7 +2876,8 @@
     "townshipNameEn": "Myothit",
     "townshipNameMm": "မြို့သစ်",
     "longitude": "95.44692",
-    "latitude": "20.19919"
+    "latitude": "20.19919",
+    "postalCode": "04130"
   },
   {
     "id": 193,
@@ -2699,7 +2891,8 @@
     "townshipNameEn": "Natmauk",
     "townshipNameMm": "နတ်မောက်",
     "longitude": "95.39966",
-    "latitude": "20.35339"
+    "latitude": "20.35339",
+    "postalCode": "04120"
   },
   {
     "id": 194,
@@ -2713,7 +2906,8 @@
     "townshipNameEn": "Ngape",
     "townshipNameMm": "ငဖဲ",
     "longitude": "94.46767",
-    "latitude": "20.07538"
+    "latitude": "20.07538",
+    "postalCode": "04060"
   },
   {
     "id": 195,
@@ -2727,7 +2921,8 @@
     "townshipNameEn": "Kamma",
     "townshipNameMm": "ကမ္မ",
     "longitude": "94.81558",
-    "latitude": "21.38358"
+    "latitude": "21.38358",
+    "postalCode": "04110"
   },
   {
     "id": 196,
@@ -2741,7 +2936,8 @@
     "townshipNameEn": "Myit Chay",
     "townshipNameMm": "မြစ်ခြေ",
     "longitude": "94.8511",
-    "latitude": "21.2454"
+    "latitude": "21.2454",
+    "postalCode": "04640"
   },
   {
     "id": 197,
@@ -2755,7 +2951,8 @@
     "townshipNameEn": "Pakokku",
     "townshipNameMm": "ပခုက္ကူ",
     "longitude": "95.08227",
-    "latitude": "21.335"
+    "latitude": "21.335",
+    "postalCode": "04200"
   },
   {
     "id": 198,
@@ -2769,7 +2966,8 @@
     "townshipNameEn": "Pauk",
     "townshipNameMm": "ပေါက်",
     "longitude": "94.47374",
-    "latitude": "21.45215"
+    "latitude": "21.45215",
+    "postalCode": "04230"
   },
   {
     "id": 199,
@@ -2783,7 +2981,8 @@
     "townshipNameEn": "Pwintbyu",
     "townshipNameMm": "ပွင့်ဖြူ",
     "longitude": "94.66933",
-    "latitude": "20.36334"
+    "latitude": "20.36334",
+    "postalCode": "04030"
   },
   {
     "id": 200,
@@ -2797,7 +2996,8 @@
     "townshipNameEn": "Salin",
     "townshipNameMm": "စလင်း",
     "longitude": "94.65936",
-    "latitude": "20.5772"
+    "latitude": "20.5772",
+    "postalCode": "04040"
   },
   {
     "id": 201,
@@ -2811,7 +3011,8 @@
     "townshipNameEn": "Sinphyukyun",
     "townshipNameMm": "ဆင်ဖြူကျွန်း",
     "longitude": "94.6929",
-    "latitude": "20.6642"
+    "latitude": "20.6642",
+    "postalCode": "04610"
   },
   {
     "id": 202,
@@ -2825,7 +3026,8 @@
     "townshipNameEn": "Kyaukhtu",
     "townshipNameMm": "ကျောက်ထု",
     "longitude": "94.136",
-    "latitude": "21.406"
+    "latitude": "21.406",
+    "postalCode": "04660"
   },
   {
     "id": 203,
@@ -2839,7 +3041,8 @@
     "townshipNameEn": "Saw",
     "townshipNameMm": "ဆော",
     "longitude": "94.15466",
-    "latitude": "21.15224"
+    "latitude": "21.15224",
+    "postalCode": "04240"
   },
   {
     "id": 204,
@@ -2853,7 +3056,8 @@
     "townshipNameEn": "Seikphyu",
     "townshipNameMm": "ဆိပ်ဖြူ",
     "longitude": "94.79243",
-    "latitude": "20.90651"
+    "latitude": "20.90651",
+    "postalCode": "04250"
   },
   {
     "id": 205,
@@ -2867,7 +3071,8 @@
     "townshipNameEn": "Sidoktaya",
     "townshipNameMm": "စေတုတ္ထရာ",
     "longitude": "94.24559",
-    "latitude": "20.4466"
+    "latitude": "20.4466",
+    "postalCode": "04050"
   },
   {
     "id": 206,
@@ -2881,7 +3086,8 @@
     "townshipNameEn": "Sinbaungwe",
     "townshipNameMm": "ဆင်ပေါင်ဝဲ",
     "longitude": "95.16186",
-    "latitude": "19.72292"
+    "latitude": "19.72292",
+    "postalCode": "04080"
   },
   {
     "id": 207,
@@ -2895,7 +3101,8 @@
     "townshipNameEn": "Taungdwingyi",
     "townshipNameMm": "တောင်တွင်းကြီး",
     "longitude": "95.54614",
-    "latitude": "20.00187"
+    "latitude": "20.00187",
+    "postalCode": "04140"
   },
   {
     "id": 208,
@@ -2909,7 +3116,8 @@
     "townshipNameEn": "Thayet",
     "townshipNameMm": "သရက်",
     "longitude": "95.17716",
-    "latitude": "19.3215"
+    "latitude": "19.3215",
+    "postalCode": "04090"
   },
   {
     "id": 209,
@@ -2923,7 +3131,8 @@
     "townshipNameEn": "Tilin",
     "townshipNameMm": "ထီးလင်း",
     "longitude": "94.09278",
-    "latitude": "21.69636"
+    "latitude": "21.69636",
+    "postalCode": "04220"
   },
   {
     "id": 210,
@@ -2937,7 +3146,8 @@
     "townshipNameEn": "Yenangyaung",
     "townshipNameMm": "ရေနံချောင်း",
     "longitude": "94.8731",
-    "latitude": "20.45837"
+    "latitude": "20.45837",
+    "postalCode": "04160"
   },
   {
     "id": 211,
@@ -2951,7 +3161,8 @@
     "townshipNameEn": "Yesagyo",
     "townshipNameMm": "ရေစကြို",
     "longitude": "95.2453",
-    "latitude": "21.63388"
+    "latitude": "21.63388",
+    "postalCode": "04180"
   },
   {
     "id": 212,
@@ -2965,7 +3176,8 @@
     "townshipNameEn": "Amarapura",
     "townshipNameMm": "အမရပူရ",
     "longitude": "96.04948",
-    "latitude": "21.90314"
+    "latitude": "21.90314",
+    "postalCode": "05060"
   },
   {
     "id": 213,
@@ -2979,7 +3191,8 @@
     "townshipNameEn": "Myitnge",
     "townshipNameMm": "မြစ်ငယ်",
     "longitude": "96.06856",
-    "latitude": "21.85418"
+    "latitude": "21.85418",
+    "postalCode": "05600"
   },
   {
     "id": 214,
@@ -2993,7 +3206,8 @@
     "townshipNameEn": "Aungmyaythazan",
     "townshipNameMm": "အောင်မြေသာဇံ",
     "longitude": "96.09686",
-    "latitude": "21.99321"
+    "latitude": "21.99321",
+    "postalCode": "05010"
   },
   {
     "id": 215,
@@ -3007,7 +3221,8 @@
     "townshipNameEn": "Chanayethazan",
     "townshipNameMm": "ချမ်းအေးသာဇံ",
     "longitude": "96.0946",
-    "latitude": "21.97535"
+    "latitude": "21.97535",
+    "postalCode": "05020"
   },
   {
     "id": 216,
@@ -3021,7 +3236,8 @@
     "townshipNameEn": "Chanmyathazi",
     "townshipNameMm": "ချမ်းမြသာစည်",
     "longitude": "96.09584",
-    "latitude": "21.9394"
+    "latitude": "21.9394",
+    "postalCode": "05040"
   },
   {
     "id": 217,
@@ -3035,7 +3251,8 @@
     "townshipNameEn": "Kyaukpadaung",
     "townshipNameMm": "ကျောက်ပန်းတောင်း",
     "longitude": "95.13218",
-    "latitude": "20.84248"
+    "latitude": "20.84248",
+    "postalCode": "05240"
   },
   {
     "id": 218,
@@ -3049,7 +3266,8 @@
     "townshipNameEn": "Kyaukse",
     "townshipNameMm": "ကျောက်ဆည်",
     "longitude": "96.13033",
-    "latitude": "21.61325"
+    "latitude": "21.61325",
+    "postalCode": "05150"
   },
   {
     "id": 219,
@@ -3063,7 +3281,8 @@
     "townshipNameEn": "Madaya",
     "townshipNameMm": "မတ္တရာ",
     "longitude": "96.10639",
-    "latitude": "22.21036"
+    "latitude": "22.21036",
+    "postalCode": "05120"
   },
   {
     "id": 220,
@@ -3077,7 +3296,8 @@
     "townshipNameEn": "Mahaaungmyay",
     "townshipNameMm": "မဟာအောင်မြေ",
     "longitude": "96.0946",
-    "latitude": "21.97535"
+    "latitude": "21.97535",
+    "postalCode": "05030"
   },
   {
     "id": 221,
@@ -3091,7 +3311,8 @@
     "townshipNameEn": "Mahlaing",
     "townshipNameMm": "မလှိုင်",
     "longitude": "95.64698",
-    "latitude": "21.09867"
+    "latitude": "21.09867",
+    "postalCode": "05200"
   },
   {
     "id": 222,
@@ -3105,7 +3326,8 @@
     "townshipNameEn": "Meiktila",
     "townshipNameMm": "မိတ္ထီလာ",
     "longitude": "95.86311",
-    "latitude": "20.88189"
+    "latitude": "20.88189",
+    "postalCode": "05180"
   },
   {
     "id": 223,
@@ -3119,7 +3341,8 @@
     "townshipNameEn": "Mogoke",
     "townshipNameMm": "မိုးကုတ်",
     "longitude": "96.5054",
-    "latitude": "22.92139"
+    "latitude": "22.92139",
+    "postalCode": "05090"
   },
   {
     "id": 224,
@@ -3133,7 +3356,8 @@
     "townshipNameEn": "Myingyan",
     "townshipNameMm": "မြင်းခြံ",
     "longitude": "95.39179",
-    "latitude": "21.45745"
+    "latitude": "21.45745",
+    "postalCode": "05250"
   },
   {
     "id": 225,
@@ -3147,7 +3371,8 @@
     "townshipNameEn": "Si Mee Khon",
     "townshipNameMm": "ဆီမီးခုံ",
     "longitude": "95.4221",
-    "latitude": "21.735"
+    "latitude": "21.735",
+    "postalCode": "05650"
   },
   {
     "id": 226,
@@ -3161,7 +3386,8 @@
     "townshipNameEn": "Ku Me",
     "townshipNameMm": "ကူမဲ",
     "longitude": "96.1603",
-    "latitude": "21.3583"
+    "latitude": "21.3583",
+    "postalCode": "05620"
   },
   {
     "id": 227,
@@ -3175,7 +3401,8 @@
     "townshipNameEn": "Myittha",
     "townshipNameMm": "မြစ်သား",
     "longitude": "96.13086",
-    "latitude": "21.42427"
+    "latitude": "21.42427",
+    "postalCode": "05160"
   },
   {
     "id": 228,
@@ -3189,7 +3416,8 @@
     "townshipNameEn": "Natogyi",
     "townshipNameMm": "နွားထိုးကြီး",
     "longitude": "95.6545",
-    "latitude": "21.4237"
+    "latitude": "21.4237",
+    "postalCode": "05260"
   },
   {
     "id": 229,
@@ -3203,7 +3431,8 @@
     "townshipNameEn": "Ngazun",
     "townshipNameMm": "ငါန်းဇွန်",
     "longitude": "95.68723",
-    "latitude": "21.89846"
+    "latitude": "21.89846",
+    "postalCode": "05280"
   },
   {
     "id": 230,
@@ -3217,7 +3446,8 @@
     "townshipNameEn": "Bagan",
     "townshipNameMm": "ပုဂံ",
     "longitude": "94.86257",
-    "latitude": "21.13197"
+    "latitude": "21.13197",
+    "postalCode": "05630"
   },
   {
     "id": 231,
@@ -3231,7 +3461,8 @@
     "townshipNameEn": "Ngathayauk",
     "townshipNameMm": "ငါ့သရောက်",
     "longitude": "95.13772",
-    "latitude": "21.15058"
+    "latitude": "21.15058",
+    "postalCode": "05640"
   },
   {
     "id": 232,
@@ -3245,7 +3476,8 @@
     "townshipNameEn": "Nyaung-U",
     "townshipNameMm": "ညောင်ဦး",
     "longitude": "94.91011",
-    "latitude": "21.19543"
+    "latitude": "21.19543",
+    "postalCode": "05230"
   },
   {
     "id": 233,
@@ -3259,7 +3491,8 @@
     "townshipNameEn": "Patheingyi",
     "townshipNameMm": "ပုသိမ်ကြီး",
     "longitude": "96.16465",
-    "latitude": "22.00399"
+    "latitude": "22.00399",
+    "postalCode": "05070"
   },
   {
     "id": 234,
@@ -3273,7 +3506,8 @@
     "townshipNameEn": "Pyawbwe",
     "townshipNameMm": "ပျော်ဘွယ်",
     "longitude": "96.05094",
-    "latitude": "20.59472"
+    "latitude": "20.59472",
+    "postalCode": "05210"
   },
   {
     "id": 235,
@@ -3287,7 +3521,8 @@
     "townshipNameEn": "Pyigyitagon",
     "townshipNameMm": "ပြည်ကြီးတံခွန်",
     "longitude": "96.10418",
-    "latitude": "21.90196"
+    "latitude": "21.90196",
+    "postalCode": "05050"
   },
   {
     "id": 236,
@@ -3301,7 +3536,8 @@
     "townshipNameEn": "Pyinoolwin",
     "townshipNameMm": "ပြင်ဦးလွင်",
     "longitude": "96.45634",
-    "latitude": "22.01397"
+    "latitude": "22.01397",
+    "postalCode": "05080"
   },
   {
     "id": 237,
@@ -3315,7 +3551,8 @@
     "townshipNameEn": "Singu",
     "townshipNameMm": "စဉ့်ကူး",
     "longitude": "95.99655",
-    "latitude": "22.54838"
+    "latitude": "22.54838",
+    "postalCode": "05110"
   },
   {
     "id": 238,
@@ -3329,7 +3566,8 @@
     "townshipNameEn": "Sintgaing",
     "townshipNameMm": "စဉ့်ကိုင်",
     "longitude": "96.10611",
-    "latitude": "21.73114"
+    "latitude": "21.73114",
+    "postalCode": "05140"
   },
   {
     "id": 239,
@@ -3343,7 +3581,8 @@
     "townshipNameEn": "Tada-U",
     "townshipNameMm": "တံတားဦး",
     "longitude": "95.97069",
-    "latitude": "21.8151"
+    "latitude": "21.8151",
+    "postalCode": "05130"
   },
   {
     "id": 240,
@@ -3357,7 +3596,8 @@
     "townshipNameEn": "Taungtha",
     "townshipNameMm": "တောင်သာ",
     "longitude": "95.44541",
-    "latitude": "21.27603"
+    "latitude": "21.27603",
+    "postalCode": "05270"
   },
   {
     "id": 241,
@@ -3371,7 +3611,8 @@
     "townshipNameEn": "Takaung",
     "townshipNameMm": "တကောင်း",
     "longitude": "96.01367",
-    "latitude": "23.50188"
+    "latitude": "23.50188",
+    "postalCode": "05610"
   },
   {
     "id": 242,
@@ -3385,7 +3626,8 @@
     "townshipNameEn": "Thabeikkyin",
     "townshipNameMm": "သပိတ်ကျင်း",
     "longitude": "95.97525",
-    "latitude": "22.88593"
+    "latitude": "22.88593",
+    "postalCode": "05100"
   },
   {
     "id": 243,
@@ -3399,7 +3641,8 @@
     "townshipNameEn": "Thazi",
     "townshipNameMm": "သာစည်",
     "longitude": "96.05838",
-    "latitude": "20.85019"
+    "latitude": "20.85019",
+    "postalCode": "05190"
   },
   {
     "id": 244,
@@ -3413,7 +3656,8 @@
     "townshipNameEn": "Wundwin",
     "townshipNameMm": "ဝမ်းတွင်း",
     "longitude": "96.03001",
-    "latitude": "21.09691"
+    "latitude": "21.09691",
+    "postalCode": "05170"
   },
   {
     "id": 245,
@@ -3427,7 +3671,8 @@
     "townshipNameEn": "Yamethin",
     "townshipNameMm": "ရမည်းသင်း",
     "longitude": "96.13747",
-    "latitude": "20.4305"
+    "latitude": "20.4305",
+    "postalCode": "05220"
   },
   {
     "id": 246,
@@ -3441,7 +3686,8 @@
     "townshipNameEn": "Bilin",
     "townshipNameMm": "ဘီးလင်း",
     "longitude": "97.23931",
-    "latitude": "17.21987"
+    "latitude": "17.21987",
+    "postalCode": "12030"
   },
   {
     "id": 247,
@@ -3455,7 +3701,8 @@
     "townshipNameEn": "Chaungzon",
     "townshipNameMm": "ချောင်းဆုံ",
     "longitude": "97.55048",
-    "latitude": "16.35125"
+    "latitude": "16.35125",
+    "postalCode": "12060"
   },
   {
     "id": 248,
@@ -3469,7 +3716,8 @@
     "townshipNameEn": "Kyaikmaraw",
     "townshipNameMm": "ကျိုက်မရော",
     "longitude": "97.72411",
-    "latitude": "16.37045"
+    "latitude": "16.37045",
+    "postalCode": "12070"
   },
   {
     "id": 249,
@@ -3483,7 +3731,8 @@
     "townshipNameEn": "Kyaikto",
     "townshipNameMm": "ကျိုက်ထို",
     "longitude": "97.01989",
-    "latitude": "17.31156"
+    "latitude": "17.31156",
+    "postalCode": "12020"
   },
   {
     "id": 250,
@@ -3497,7 +3746,8 @@
     "townshipNameEn": "Thein Za Yat",
     "townshipNameMm": "သိမ်ဇရပ်",
     "longitude": "96.884",
-    "latitude": "17.5137"
+    "latitude": "17.5137",
+    "postalCode": "12600"
   },
   {
     "id": 251,
@@ -3511,7 +3761,8 @@
     "townshipNameEn": "Mawlamyine",
     "townshipNameMm": "မော်လမြိုင်",
     "longitude": "97.62593",
-    "latitude": "16.48459"
+    "latitude": "16.48459",
+    "postalCode": "12010"
   },
   {
     "id": 252,
@@ -3525,7 +3776,8 @@
     "townshipNameEn": "Kamarwet",
     "townshipNameMm": "ကမာ၀က်",
     "longitude": "97.73403",
-    "latitude": "16.1409"
+    "latitude": "16.1409",
+    "postalCode": "12630"
   },
   {
     "id": 253,
@@ -3539,7 +3791,8 @@
     "townshipNameEn": "Mudon",
     "townshipNameMm": "မုဒုံ",
     "longitude": "97.72478",
-    "latitude": "16.25812"
+    "latitude": "16.25812",
+    "postalCode": "12080"
   },
   {
     "id": 254,
@@ -3553,7 +3806,8 @@
     "townshipNameEn": "Paung",
     "townshipNameMm": "ပေါင်",
     "longitude": "97.45672",
-    "latitude": "16.61679"
+    "latitude": "16.61679",
+    "postalCode": "12050"
   },
   {
     "id": 255,
@@ -3567,7 +3821,8 @@
     "townshipNameEn": "Zinkyaik",
     "townshipNameMm": "ဇင်းကျိုက်",
     "longitude": "97.42371",
-    "latitude": "16.69655"
+    "latitude": "16.69655",
+    "postalCode": "12620"
   },
   {
     "id": 256,
@@ -3581,7 +3836,8 @@
     "townshipNameEn": "Kyaikkhami",
     "townshipNameMm": "ကျိုက္ခမီ",
     "longitude": "97.5675",
-    "latitude": "16.08"
+    "latitude": "16.08",
+    "postalCode": "12640"
   },
   {
     "id": 257,
@@ -3595,7 +3851,8 @@
     "townshipNameEn": "Thanbyuzayat",
     "townshipNameMm": "သံဖြူဇရပ်",
     "longitude": "97.7333",
-    "latitude": "15.9667"
+    "latitude": "15.9667",
+    "postalCode": "12090"
   },
   {
     "id": 258,
@@ -3609,7 +3866,8 @@
     "townshipNameEn": "Thaton",
     "townshipNameMm": "သထုံ",
     "longitude": "97.3678",
-    "latitude": "16.9197"
+    "latitude": "16.9197",
+    "postalCode": "12040"
   },
   {
     "id": 259,
@@ -3623,7 +3881,8 @@
     "townshipNameEn": "Thuwunnawady",
     "townshipNameMm": "သုဝဏ္ဏဝတီ",
     "longitude": "97.30482",
-    "latitude": "17.06022"
+    "latitude": "17.06022",
+    "postalCode": "12610"
   },
   {
     "id": 260,
@@ -3637,7 +3896,8 @@
     "townshipNameEn": "Khawzar",
     "townshipNameMm": "ခေါဇာ",
     "longitude": "97.82935",
-    "latitude": "15.03752"
+    "latitude": "15.03752",
+    "postalCode": "12660"
   },
   {
     "id": 261,
@@ -3651,7 +3911,8 @@
     "townshipNameEn": "Lamaing",
     "townshipNameMm": "လမိုင်း",
     "longitude": "97.83215",
-    "latitude": "15.50351"
+    "latitude": "15.50351",
+    "postalCode": "12650"
   },
   {
     "id": 262,
@@ -3665,7 +3926,8 @@
     "townshipNameEn": "Ye",
     "townshipNameMm": "ရေး",
     "longitude": "97.84935",
-    "latitude": "15.24539"
+    "latitude": "15.24539",
+    "postalCode": "12100"
   },
   {
     "id": 263,
@@ -3679,7 +3941,8 @@
     "townshipNameEn": "Det Khi Na Thi Ri",
     "townshipNameMm": "ဒက္ခိဏသီရိ",
     "longitude": "96.0905",
-    "latitude": "19.70026"
+    "latitude": "19.70026",
+    "postalCode": "15060"
   },
   {
     "id": 264,
@@ -3693,7 +3956,8 @@
     "townshipNameEn": "Lewe",
     "townshipNameMm": "လယ်ဝေး",
     "longitude": "96.11007",
-    "latitude": "19.63467"
+    "latitude": "19.63467",
+    "postalCode": "15040"
   },
   {
     "id": 265,
@@ -3707,7 +3971,8 @@
     "townshipNameEn": "Oke Ta Ra Thi Ri",
     "townshipNameMm": "ဥတ္တရသီရိ",
     "longitude": "96.043",
-    "latitude": "19.891"
+    "latitude": "19.891",
+    "postalCode": "15080"
   },
   {
     "id": 266,
@@ -3721,7 +3986,8 @@
     "townshipNameEn": "Poke Ba Thi Ri",
     "townshipNameMm": "ပုဗ္ဗသီရိ",
     "longitude": "96.18252",
-    "latitude": "19.84383"
+    "latitude": "19.84383",
+    "postalCode": "15070"
   },
   {
     "id": 267,
@@ -3735,7 +4001,8 @@
     "townshipNameEn": "Pyinmana",
     "townshipNameMm": "ပျဉ်းမနား",
     "longitude": "96.20895",
-    "latitude": "19.7361"
+    "latitude": "19.7361",
+    "postalCode": "15020"
   },
   {
     "id": 268,
@@ -3749,7 +4016,8 @@
     "townshipNameEn": "Tatkon",
     "townshipNameMm": "တပ်ကုန်း",
     "longitude": "96.20297",
-    "latitude": "20.13041"
+    "latitude": "20.13041",
+    "postalCode": "15030"
   },
   {
     "id": 269,
@@ -3763,7 +4031,8 @@
     "townshipNameEn": "Za Bu Thi Ri",
     "townshipNameMm": "ဇမ္ဗူသီရိ",
     "longitude": "96.07261",
-    "latitude": "19.76867"
+    "latitude": "19.76867",
+    "postalCode": "15010"
   },
   {
     "id": 270,
@@ -3777,7 +4046,8 @@
     "townshipNameEn": "Zay Yar Thi Ri",
     "townshipNameMm": "ဇေယျာသီရိ",
     "longitude": "96.309",
-    "latitude": "19.862"
+    "latitude": "19.862",
+    "postalCode": "15050"
   },
   {
     "id": 271,
@@ -3791,7 +4061,8 @@
     "townshipNameEn": "Ann",
     "townshipNameMm": "အမ်း",
     "longitude": "94.04791",
-    "latitude": "19.79537"
+    "latitude": "19.79537",
+    "postalCode": "07150"
   },
   {
     "id": 272,
@@ -3805,7 +4076,8 @@
     "townshipNameEn": "Tat Taung",
     "townshipNameMm": "တပ်တောင်",
     "longitude": "93.9358",
-    "latitude": "19.5682"
+    "latitude": "19.5682",
+    "postalCode": "07660"
   },
   {
     "id": 273,
@@ -3819,7 +4091,8 @@
     "townshipNameEn": "Buthidaung",
     "townshipNameMm": "ဘူးသီးတောင်",
     "longitude": "92.525",
-    "latitude": "20.87498"
+    "latitude": "20.87498",
+    "postalCode": "07030"
   },
   {
     "id": 274,
@@ -3833,7 +4106,8 @@
     "townshipNameEn": "Gwa",
     "townshipNameMm": "ဂွ",
     "longitude": "94.57996",
-    "latitude": "17.59369"
+    "latitude": "17.59369",
+    "postalCode": "07070"
   },
   {
     "id": 275,
@@ -3847,7 +4121,8 @@
     "townshipNameEn": "Kyeintali",
     "townshipNameMm": "ကျိန္တလီ",
     "longitude": "94.49141",
-    "latitude": "18.00712"
+    "latitude": "18.00712",
+    "postalCode": "07700"
   },
   {
     "id": 276,
@@ -3861,7 +4136,8 @@
     "townshipNameEn": "Kyaukpyu",
     "townshipNameMm": "ကျောက်ဖြူ",
     "longitude": "93.5544",
-    "latitude": "19.4239"
+    "latitude": "19.4239",
+    "postalCode": "07120"
   },
   {
     "id": 277,
@@ -3875,7 +4151,8 @@
     "townshipNameEn": "Sa Ne",
     "townshipNameMm": "စနဲ",
     "longitude": "93.7336",
-    "latitude": "19.2166"
+    "latitude": "19.2166",
+    "postalCode": "07640"
   },
   {
     "id": 278,
@@ -3889,7 +4166,8 @@
     "townshipNameEn": "Kyauktaw",
     "townshipNameMm": "ကျောက်တော်",
     "longitude": "92.97282",
-    "latitude": "20.84396"
+    "latitude": "20.84396",
+    "postalCode": "07060"
   },
   {
     "id": 279,
@@ -3903,7 +4181,8 @@
     "townshipNameEn": "Kha Maung Seik",
     "townshipNameMm": "ခမောင်းဆိပ်",
     "longitude": "92.27141",
-    "latitude": "21.26554"
+    "latitude": "21.26554",
+    "postalCode": "07610"
   },
   {
     "id": 280,
@@ -3917,7 +4196,8 @@
     "townshipNameEn": "Maungdaw",
     "townshipNameMm": "မောင်တော",
     "longitude": "92.36776",
-    "latitude": "20.81897"
+    "latitude": "20.81897",
+    "postalCode": "07020"
   },
   {
     "id": 281,
@@ -3931,7 +4211,8 @@
     "townshipNameEn": "Myin Hlut",
     "townshipNameMm": "မြင်းလွှတ်",
     "longitude": "92.50212",
-    "latitude": "20.62786"
+    "latitude": "20.62786",
+    "postalCode": "07620"
   },
   {
     "id": 282,
@@ -3945,7 +4226,8 @@
     "townshipNameEn": "Taungpyoletwea",
     "townshipNameMm": "တောင်ပြိုလက်ဝဲ",
     "longitude": "92.20068",
-    "latitude": "21.19991"
+    "latitude": "21.19991",
+    "postalCode": "07600"
   },
   {
     "id": 283,
@@ -3959,7 +4241,8 @@
     "townshipNameEn": "Minbya",
     "townshipNameMm": "မင်းပြား",
     "longitude": "93.27269",
-    "latitude": "20.36452"
+    "latitude": "20.36452",
+    "postalCode": "07090"
   },
   {
     "id": 284,
@@ -3973,7 +4256,8 @@
     "townshipNameEn": "Mrauk-U",
     "townshipNameMm": "မြောက်ဦး",
     "longitude": "93.18844",
-    "latitude": "20.59185"
+    "latitude": "20.59185",
+    "postalCode": "07100"
   },
   {
     "id": 285,
@@ -3987,7 +4271,8 @@
     "townshipNameEn": "Munaung",
     "townshipNameMm": "မာန်အောင်",
     "longitude": "93.7215",
-    "latitude": "18.85506"
+    "latitude": "18.85506",
+    "postalCode": "07140"
   },
   {
     "id": 286,
@@ -4001,7 +4286,8 @@
     "townshipNameEn": "Kanhtauntkyi",
     "townshipNameMm": "ကမ်းထောင့်ကြီး",
     "longitude": "93.75902",
-    "latitude": "19.85695"
+    "latitude": "19.85695",
+    "postalCode": "07630"
   },
   {
     "id": 287,
@@ -4015,7 +4301,8 @@
     "townshipNameEn": "Myebon",
     "townshipNameMm": "မြေပုံ",
     "longitude": "93.37376",
-    "latitude": "20.04676"
+    "latitude": "20.04676",
+    "postalCode": "07110"
   },
   {
     "id": 288,
@@ -4029,7 +4316,8 @@
     "townshipNameEn": "Pauktaw",
     "townshipNameMm": "ပေါက်တော",
     "longitude": "93.06817",
-    "latitude": "20.18098"
+    "latitude": "20.18098",
+    "postalCode": "07080"
   },
   {
     "id": 289,
@@ -4043,7 +4331,8 @@
     "townshipNameEn": "Ponnagyun",
     "townshipNameMm": "ပုဏ္ဏားကျွန်း",
     "longitude": "93.0043",
-    "latitude": "20.33199"
+    "latitude": "20.33199",
+    "postalCode": "07050"
   },
   {
     "id": 290,
@@ -4057,7 +4346,8 @@
     "townshipNameEn": "Lay Taung",
     "townshipNameMm": "လေးတောင်",
     "longitude": "93.69485",
-    "latitude": "19.03862"
+    "latitude": "19.03862",
+    "postalCode": "07650"
   },
   {
     "id": 291,
@@ -4071,7 +4361,8 @@
     "townshipNameEn": "Ramree",
     "townshipNameMm": "ရမ်းဗြဲ",
     "longitude": "93.85886",
-    "latitude": "19.08769"
+    "latitude": "19.08769",
+    "postalCode": "07130"
   },
   {
     "id": 292,
@@ -4085,7 +4376,8 @@
     "townshipNameEn": "Rathedaung",
     "townshipNameMm": "ရသေ့တောင်",
     "longitude": "92.75606",
-    "latitude": "20.48215"
+    "latitude": "20.48215",
+    "postalCode": "07040"
   },
   {
     "id": 293,
@@ -4099,7 +4391,8 @@
     "townshipNameEn": "Sittwe",
     "townshipNameMm": "စစ်တွေ",
     "longitude": "92.88551",
-    "latitude": "20.13727"
+    "latitude": "20.13727",
+    "postalCode": "07010"
   },
   {
     "id": 294,
@@ -4113,7 +4406,8 @@
     "townshipNameEn": "Ngapali",
     "townshipNameMm": "ငပလီ",
     "longitude": "94.3206",
-    "latitude": "18.43755"
+    "latitude": "18.43755",
+    "postalCode": "07690"
   },
   {
     "id": 295,
@@ -4127,7 +4421,8 @@
     "townshipNameEn": "Thandwe",
     "townshipNameMm": "သံတွဲ",
     "longitude": "94.3677",
-    "latitude": "18.4662"
+    "latitude": "18.4662",
+    "postalCode": "07170"
   },
   {
     "id": 296,
@@ -4141,7 +4436,8 @@
     "townshipNameEn": "Ma-Ei",
     "townshipNameMm": "မအီ",
     "longitude": "94.13845",
-    "latitude": "19.34234"
+    "latitude": "19.34234",
+    "postalCode": "07670"
   },
   {
     "id": 297,
@@ -4155,7 +4451,8 @@
     "townshipNameEn": "Tan Hlwe Ywar Ma",
     "townshipNameMm": "တန်းလွဲရွာမ",
     "longitude": "94.12645",
-    "latitude": "18.99829"
+    "latitude": "18.99829",
+    "postalCode": "07680"
   },
   {
     "id": 298,
@@ -4169,7 +4466,8 @@
     "townshipNameEn": "Toungup",
     "townshipNameMm": "တောင်ကုတ်",
     "longitude": "94.23972",
-    "latitude": "18.85353"
+    "latitude": "18.85353",
+    "postalCode": "07160"
   },
   {
     "id": 299,
@@ -4183,7 +4481,8 @@
     "townshipNameEn": "Ayadaw",
     "townshipNameMm": "အရာတော်",
     "longitude": "95.45068",
-    "latitude": "22.28525"
+    "latitude": "22.28525",
+    "postalCode": "02290"
   },
   {
     "id": 300,
@@ -4197,7 +4496,8 @@
     "townshipNameEn": "Banmauk",
     "townshipNameMm": "ဗန်းမောက်",
     "longitude": "95.85767",
-    "latitude": "24.39986"
+    "latitude": "24.39986",
+    "postalCode": "02130"
   },
   {
     "id": 301,
@@ -4211,7 +4511,8 @@
     "townshipNameEn": "Budalin",
     "townshipNameMm": "ဘုတလင်",
     "longitude": "95.14857",
-    "latitude": "22.38918"
+    "latitude": "22.38918",
+    "postalCode": "02270"
   },
   {
     "id": 302,
@@ -4225,7 +4526,8 @@
     "townshipNameEn": "Chaung-U",
     "townshipNameMm": "ချောင်းဦး",
     "longitude": "95.27363",
-    "latitude": "21.95693"
+    "latitude": "21.95693",
+    "postalCode": "02330"
   },
   {
     "id": 303,
@@ -4239,7 +4541,8 @@
     "townshipNameEn": "Hkamti",
     "townshipNameMm": "ခန္တီး",
     "longitude": "95.69547",
-    "latitude": "25.99243"
+    "latitude": "25.99243",
+    "postalCode": "02030"
   },
   {
     "id": 304,
@@ -4253,7 +4556,8 @@
     "townshipNameEn": "Homalin",
     "townshipNameMm": "ဟုမ္မလင်း",
     "longitude": "94.91088",
-    "latitude": "24.8644"
+    "latitude": "24.8644",
+    "postalCode": "02050"
   },
   {
     "id": 305,
@@ -4267,7 +4571,8 @@
     "townshipNameEn": "Shwe Pyi Aye",
     "townshipNameMm": "ရွှေပြည်အေး",
     "longitude": "94.73147",
-    "latitude": "24.68344"
+    "latitude": "24.68344",
+    "postalCode": "02650"
   },
   {
     "id": 306,
@@ -4281,7 +4586,8 @@
     "townshipNameEn": "Indaw",
     "townshipNameMm": "အင်းတော်",
     "longitude": "96.14167",
-    "latitude": "24.22252"
+    "latitude": "24.22252",
+    "postalCode": "02140"
   },
   {
     "id": 307,
@@ -4295,7 +4601,8 @@
     "townshipNameEn": "Maw Lu",
     "townshipNameMm": "မော်လူး",
     "longitude": "96.1796",
-    "latitude": "24.4649"
+    "latitude": "24.4649",
+    "postalCode": "02680"
   },
   {
     "id": 308,
@@ -4309,7 +4616,8 @@
     "townshipNameEn": "Kale",
     "townshipNameMm": "ကလေး",
     "longitude": "94.02977",
-    "latitude": "23.1933"
+    "latitude": "23.1933",
+    "postalCode": "02090"
   },
   {
     "id": 309,
@@ -4323,7 +4631,8 @@
     "townshipNameEn": "Kalewa",
     "townshipNameMm": "ကလေးဝ",
     "longitude": "94.30036",
-    "latitude": "23.1998"
+    "latitude": "23.1998",
+    "postalCode": "02100"
   },
   {
     "id": 310,
@@ -4337,7 +4646,8 @@
     "townshipNameEn": "Kanbalu",
     "townshipNameMm": "ကန့်ဘလူ",
     "longitude": "95.51886",
-    "latitude": "23.20305"
+    "latitude": "23.20305",
+    "postalCode": "02210"
   },
   {
     "id": 311,
@@ -4351,7 +4661,8 @@
     "townshipNameEn": "Zee Kone",
     "townshipNameMm": "ဇီးကုန်း",
     "longitude": "95.5636",
-    "latitude": "22.9311"
+    "latitude": "22.9311",
+    "postalCode": "02690"
   },
   {
     "id": 312,
@@ -4365,7 +4676,8 @@
     "townshipNameEn": "Kani",
     "townshipNameMm": "ကနီ",
     "longitude": "94.84847",
-    "latitude": "22.43291"
+    "latitude": "22.43291",
+    "postalCode": "02120"
   },
   {
     "id": 313,
@@ -4379,7 +4691,8 @@
     "townshipNameEn": "Katha",
     "townshipNameMm": "ကသာ",
     "longitude": "96.33167",
-    "latitude": "24.18163"
+    "latitude": "24.18163",
+    "postalCode": "02150"
   },
   {
     "id": 314,
@@ -4393,7 +4706,8 @@
     "townshipNameEn": "Kawlin",
     "townshipNameMm": "ကောလင်း",
     "longitude": "95.68339",
-    "latitude": "23.79026"
+    "latitude": "23.79026",
+    "postalCode": "02180"
   },
   {
     "id": 315,
@@ -4407,7 +4721,8 @@
     "townshipNameEn": "Khin-U",
     "townshipNameMm": "ခင်ဦး",
     "longitude": "95.62149",
-    "latitude": "22.77016"
+    "latitude": "22.77016",
+    "postalCode": "02230"
   },
   {
     "id": 316,
@@ -4421,7 +4736,8 @@
     "townshipNameEn": "Kyunhla",
     "townshipNameMm": "ကျွန်းလှ",
     "longitude": "95.5321",
-    "latitude": "23.31964"
+    "latitude": "23.31964",
+    "postalCode": "02200"
   },
   {
     "id": 317,
@@ -4435,7 +4751,8 @@
     "townshipNameEn": "Mawlaik",
     "townshipNameMm": "မော်လိုက်",
     "longitude": "94.41201",
-    "latitude": "23.63512"
+    "latitude": "23.63512",
+    "postalCode": "02080"
   },
   {
     "id": 318,
@@ -4449,7 +4766,8 @@
     "townshipNameEn": "Mingin",
     "townshipNameMm": "မင်းကင်း",
     "longitude": "94.4942",
-    "latitude": "22.87781"
+    "latitude": "22.87781",
+    "postalCode": "02110"
   },
   {
     "id": 319,
@@ -4463,7 +4781,8 @@
     "townshipNameEn": "Monywa",
     "townshipNameMm": "မုံရွာ",
     "longitude": "95.13963",
-    "latitude": "22.12168"
+    "latitude": "22.12168",
+    "postalCode": "02300"
   },
   {
     "id": 320,
@@ -4477,7 +4796,8 @@
     "townshipNameEn": "Myaung",
     "townshipNameMm": "မြောင်",
     "longitude": "95.42425",
-    "latitude": "21.83164"
+    "latitude": "21.83164",
+    "postalCode": "02360"
   },
   {
     "id": 321,
@@ -4491,7 +4811,8 @@
     "townshipNameEn": "Myinmu",
     "townshipNameMm": "မြင်းမူ",
     "longitude": "95.57157",
-    "latitude": "21.92681"
+    "latitude": "21.92681",
+    "postalCode": "02340"
   },
   {
     "id": 322,
@@ -4505,7 +4826,8 @@
     "townshipNameEn": "Pale",
     "townshipNameMm": "ပုလဲ",
     "longitude": "94.87486",
-    "latitude": "21.93415"
+    "latitude": "21.93415",
+    "postalCode": "02350"
   },
   {
     "id": 323,
@@ -4519,7 +4841,8 @@
     "townshipNameEn": "Paungbyin",
     "townshipNameMm": "ဖောင်းပြင်",
     "longitude": "94.81686",
-    "latitude": "24.26768"
+    "latitude": "24.26768",
+    "postalCode": "02060"
   },
   {
     "id": 324,
@@ -4533,7 +4856,8 @@
     "townshipNameEn": "Pinlebu",
     "townshipNameMm": "ပင်လည်ဘူး",
     "longitude": "95.37026",
-    "latitude": "24.08089"
+    "latitude": "24.08089",
+    "postalCode": "02160"
   },
   {
     "id": 325,
@@ -4547,7 +4871,8 @@
     "townshipNameEn": "Sagaing",
     "townshipNameMm": "စစ်ကိုင်း",
     "longitude": "95.96231",
-    "latitude": "21.88008"
+    "latitude": "21.88008",
+    "postalCode": "02370"
   },
   {
     "id": 326,
@@ -4561,7 +4886,8 @@
     "townshipNameEn": "Sar Taung",
     "townshipNameMm": "ဆားတောင်",
     "longitude": "95.7574",
-    "latitude": "22.1639"
+    "latitude": "22.1639",
+    "postalCode": "02720"
   },
   {
     "id": 327,
@@ -4575,7 +4901,8 @@
     "townshipNameEn": "Salingyi",
     "townshipNameMm": "ဆားလင်းကြီး",
     "longitude": "95.08269",
-    "latitude": "21.97363"
+    "latitude": "21.97363",
+    "postalCode": "02320"
   },
   {
     "id": 328,
@@ -4589,7 +4916,8 @@
     "townshipNameEn": "Kyauk Myaung",
     "townshipNameMm": "",
     "longitude": "95.94495",
-    "latitude": "22.59329"
+    "latitude": "22.59329",
+    "postalCode": "02710"
   },
   {
     "id": 329,
@@ -4603,7 +4931,8 @@
     "townshipNameEn": "Shwebo",
     "townshipNameMm": "ရွှေဘို",
     "longitude": "95.69849",
-    "latitude": "22.56996"
+    "latitude": "22.56996",
+    "postalCode": "02260"
   },
   {
     "id": 330,
@@ -4617,7 +4946,8 @@
     "townshipNameEn": "Saing Pyin",
     "townshipNameMm": "စိုင်ပြင်",
     "longitude": "95.2366",
-    "latitude": "22.5561"
+    "latitude": "22.5561",
+    "postalCode": "02700"
   },
   {
     "id": 331,
@@ -4631,7 +4961,8 @@
     "townshipNameEn": "Tabayin",
     "townshipNameMm": "ဒီပဲယင်း",
     "longitude": "95.32121",
-    "latitude": "22.68529"
+    "latitude": "22.68529",
+    "postalCode": "02250"
   },
   {
     "id": 332,
@@ -4645,7 +4976,8 @@
     "townshipNameEn": "Khampat",
     "townshipNameMm": "ခါမ်းပါတ်",
     "longitude": "94.14575",
-    "latitude": "23.77977"
+    "latitude": "23.77977",
+    "postalCode": "02670"
   },
   {
     "id": 333,
@@ -4659,7 +4991,8 @@
     "townshipNameEn": "Myothit",
     "townshipNameMm": "မြို့သစ်",
     "longitude": "94.51857",
-    "latitude": "24.51539"
+    "latitude": "24.51539",
+    "postalCode": "04130"
   },
   {
     "id": 334,
@@ -4673,7 +5006,8 @@
     "townshipNameEn": "Tamu",
     "townshipNameMm": "တမူး",
     "longitude": "94.31534",
-    "latitude": "24.21149"
+    "latitude": "24.21149",
+    "postalCode": "02070"
   },
   {
     "id": 335,
@@ -4687,7 +5021,8 @@
     "townshipNameEn": "Taze",
     "townshipNameMm": "တန့်ဆည်",
     "longitude": "95.37361",
-    "latitude": "22.94407"
+    "latitude": "22.94407",
+    "postalCode": "02220"
   },
   {
     "id": 336,
@@ -4701,7 +5036,8 @@
     "townshipNameEn": "Tigyaing",
     "townshipNameMm": "ထီးချိုင့်",
     "longitude": "96.14833",
-    "latitude": "23.75452"
+    "latitude": "23.75452",
+    "postalCode": "02190"
   },
   {
     "id": 337,
@@ -4715,7 +5051,8 @@
     "townshipNameEn": "Wetlet",
     "townshipNameMm": "ဝက်လက်",
     "longitude": "95.78812",
-    "latitude": "22.36715"
+    "latitude": "22.36715",
+    "postalCode": "02280"
   },
   {
     "id": 338,
@@ -4729,7 +5066,8 @@
     "townshipNameEn": "Wuntho",
     "townshipNameMm": "ဝန်းသို",
     "longitude": "95.68193",
-    "latitude": "23.89924"
+    "latitude": "23.89924",
+    "postalCode": "02170"
   },
   {
     "id": 339,
@@ -4743,7 +5081,8 @@
     "townshipNameEn": "Ye-U",
     "townshipNameMm": "ရေဦး",
     "longitude": "95.43049",
-    "latitude": "22.76914"
+    "latitude": "22.76914",
+    "postalCode": "02240"
   },
   {
     "id": 340,
@@ -4757,7 +5096,8 @@
     "townshipNameEn": "Yinmarbin",
     "townshipNameMm": "ယင်းမာပင်",
     "longitude": "94.90014",
-    "latitude": "22.07779"
+    "latitude": "22.07779",
+    "postalCode": "02310"
   },
   {
     "id": 341,
@@ -4771,7 +5111,8 @@
     "townshipNameEn": "Kengtung",
     "townshipNameMm": "ကျိုင်းတုံ",
     "longitude": "99.6036",
-    "latitude": "21.29189"
+    "latitude": "21.29189",
+    "postalCode": "17010"
   },
   {
     "id": 342,
@@ -4785,7 +5126,8 @@
     "townshipNameEn": "Monghpyak",
     "townshipNameMm": "မိုင်းဖြတ်",
     "longitude": "99.92333",
-    "latitude": "20.87804"
+    "latitude": "20.87804",
+    "postalCode": "17090"
   },
   {
     "id": 343,
@@ -4799,7 +5141,8 @@
     "townshipNameEn": "Monghsat",
     "townshipNameMm": "မိုင်းဆတ်",
     "longitude": "99.24724",
-    "latitude": "20.50544"
+    "latitude": "20.50544",
+    "postalCode": "17050"
   },
   {
     "id": 344,
@@ -4813,7 +5156,8 @@
     "townshipNameEn": "Mongkhoke",
     "townshipNameMm": "မိုင်းခုတ်",
     "longitude": "99.4636",
-    "latitude": "20.74048"
+    "latitude": "20.74048",
+    "postalCode": "17600"
   },
   {
     "id": 345,
@@ -4827,7 +5171,8 @@
     "townshipNameEn": "Mongkhet",
     "townshipNameMm": "မိုင်းခတ်",
     "longitude": "99.46377",
-    "latitude": "21.7499"
+    "latitude": "21.7499",
+    "postalCode": "17020"
   },
   {
     "id": 346,
@@ -4841,7 +5186,8 @@
     "townshipNameEn": "Mongla",
     "townshipNameMm": "မိုင်းလား",
     "longitude": "100.01867",
-    "latitude": "21.6729"
+    "latitude": "21.6729",
+    "postalCode": "17040"
   },
   {
     "id": 347,
@@ -4855,7 +5201,8 @@
     "townshipNameEn": "Mongping",
     "townshipNameMm": "မိုင်းပျဉ်း",
     "longitude": "99.026",
-    "latitude": "21.3502"
+    "latitude": "21.3502",
+    "postalCode": "17060"
   },
   {
     "id": 348,
@@ -4869,7 +5216,8 @@
     "townshipNameEn": "Tontar",
     "townshipNameMm": "တုံတာ",
     "longitude": "99.28781",
-    "latitude": "21.33004"
+    "latitude": "21.33004",
+    "postalCode": "17610"
   },
   {
     "id": 349,
@@ -4883,7 +5231,8 @@
     "townshipNameEn": "Hmone Hta",
     "townshipNameMm": "မုံးထ",
     "longitude": "98.56708",
-    "latitude": "19.7979"
+    "latitude": "19.7979",
+    "postalCode": "17630"
   },
   {
     "id": 350,
@@ -4897,7 +5246,8 @@
     "townshipNameEn": "Mongton",
     "townshipNameMm": "မိုင်းတုံ",
     "longitude": "98.90008",
-    "latitude": "20.30351"
+    "latitude": "20.30351",
+    "postalCode": "17070"
   },
   {
     "id": 351,
@@ -4911,7 +5261,8 @@
     "townshipNameEn": "Ponparkyin",
     "townshipNameMm": "ပုံပါကျင်",
     "longitude": "98.9382",
-    "latitude": "19.8892"
+    "latitude": "19.8892",
+    "postalCode": "17620"
   },
   {
     "id": 352,
@@ -4925,7 +5276,8 @@
     "townshipNameEn": "Mongyang",
     "townshipNameMm": "မိုင်းယန်း",
     "longitude": "99.68711",
-    "latitude": "21.84235"
+    "latitude": "21.84235",
+    "postalCode": "17030"
   },
   {
     "id": 353,
@@ -4939,7 +5291,8 @@
     "townshipNameEn": "Mongyawng",
     "townshipNameMm": "မိုင်းယောင်း",
     "longitude": "100.3579",
-    "latitude": "21.1807"
+    "latitude": "21.1807",
+    "postalCode": "17100"
   },
   {
     "id": 354,
@@ -4953,7 +5306,8 @@
     "townshipNameEn": "Mongyu",
     "townshipNameMm": "မိုင်းယု",
     "longitude": "100.55082",
-    "latitude": "21.32976"
+    "latitude": "21.32976",
+    "postalCode": "17660"
   },
   {
     "id": 355,
@@ -4967,7 +5321,8 @@
     "townshipNameEn": "Kenglat",
     "townshipNameMm": "ကျိုင်းလပ်",
     "longitude": "100.534",
-    "latitude": "20.867"
+    "latitude": "20.867",
+    "postalCode": "17640"
   },
   {
     "id": 356,
@@ -4981,7 +5336,8 @@
     "townshipNameEn": "Tachileik",
     "townshipNameMm": "တာချီလိတ်",
     "longitude": "99.88403",
-    "latitude": "20.45304"
+    "latitude": "20.45304",
+    "postalCode": "17080"
   },
   {
     "id": 357,
@@ -4995,7 +5351,8 @@
     "townshipNameEn": "Tarlay",
     "townshipNameMm": "တာလေ",
     "longitude": "100.09307",
-    "latitude": "20.71262"
+    "latitude": "20.71262",
+    "postalCode": "17650"
   },
   {
     "id": 358,
@@ -5009,7 +5366,8 @@
     "townshipNameEn": "Hopang",
     "townshipNameMm": "ဟိုပန်",
     "longitude": "98.75029",
-    "latitude": "23.42544"
+    "latitude": "23.42544",
+    "postalCode": "16210"
   },
   {
     "id": 359,
@@ -5023,7 +5381,8 @@
     "townshipNameEn": "Pan Lon",
     "townshipNameMm": "ပန်လုံ",
     "longitude": "98.78571",
-    "latitude": "23.25641"
+    "latitude": "23.25641",
+    "postalCode": "16680"
   },
   {
     "id": 360,
@@ -5037,7 +5396,8 @@
     "townshipNameEn": "Hseni",
     "townshipNameMm": "သိန္နီ",
     "longitude": "97.9736",
-    "latitude": "23.3072"
+    "latitude": "23.3072",
+    "postalCode": "16020"
   },
   {
     "id": 361,
@@ -5051,7 +5411,8 @@
     "townshipNameEn": "Hsipaw",
     "townshipNameMm": "သီပေါ",
     "longitude": "97.2981",
-    "latitude": "22.61894"
+    "latitude": "22.61894",
+    "postalCode": "16140"
   },
   {
     "id": 362,
@@ -5065,7 +5426,8 @@
     "townshipNameEn": "Konkyan",
     "townshipNameMm": "ကုန်းကြမ်း",
     "longitude": "98.53934",
-    "latitude": "23.82946"
+    "latitude": "23.82946",
+    "postalCode": "16230"
   },
   {
     "id": 363,
@@ -5079,7 +5441,8 @@
     "townshipNameEn": "Maw Hteik",
     "townshipNameMm": "",
     "longitude": "98.79679",
-    "latitude": "24.09412"
+    "latitude": "24.09412",
+    "postalCode": "16700"
   },
   {
     "id": 364,
@@ -5093,7 +5456,8 @@
     "townshipNameEn": "Kunlong",
     "townshipNameMm": "ကွမ်းလုံ",
     "longitude": "98.65053",
-    "latitude": "23.41645"
+    "latitude": "23.41645",
+    "postalCode": "16200"
   },
   {
     "id": 365,
@@ -5107,7 +5471,8 @@
     "townshipNameEn": "Kutkai",
     "townshipNameMm": "ကွတ်ခိုင်",
     "longitude": "97.94341",
-    "latitude": "23.45921"
+    "latitude": "23.45921",
+    "postalCode": "16110"
   },
   {
     "id": 366,
@@ -5121,7 +5486,8 @@
     "townshipNameEn": "Tarmoenye",
     "townshipNameMm": "တာမိုးညဲ",
     "longitude": "98.09862",
-    "latitude": "23.57597"
+    "latitude": "23.57597",
+    "postalCode": "16640"
   },
   {
     "id": 367,
@@ -5135,7 +5501,8 @@
     "townshipNameEn": "Kyaukme",
     "townshipNameMm": "ကျောက်မဲ",
     "longitude": "97.03671",
-    "latitude": "22.54172"
+    "latitude": "22.54172",
+    "postalCode": "16120"
   },
   {
     "id": 368,
@@ -5149,7 +5516,8 @@
     "townshipNameEn": "Monglon",
     "townshipNameMm": "မိုင်းလုံ",
     "longitude": "96.62431",
-    "latitude": "22.7908"
+    "latitude": "22.7908",
+    "postalCode": "16660"
   },
   {
     "id": 369,
@@ -5163,7 +5531,8 @@
     "townshipNameEn": "Mongngawt",
     "townshipNameMm": "မိုင်းငေါ့",
     "longitude": "96.98402",
-    "latitude": "22.77316"
+    "latitude": "22.77316",
+    "postalCode": "16650"
   },
   {
     "id": 370,
@@ -5177,7 +5546,8 @@
     "townshipNameEn": "Lashio",
     "townshipNameMm": "လားရှိုး",
     "longitude": "97.74747",
-    "latitude": "22.95277"
+    "latitude": "22.95277",
+    "postalCode": "16010"
   },
   {
     "id": 371,
@@ -5191,7 +5561,8 @@
     "townshipNameEn": "Chinshwehaw",
     "townshipNameMm": "ချင်းရွှေဟော်",
     "longitude": "98.82419",
-    "latitude": "23.47557"
+    "latitude": "23.47557",
+    "postalCode": "16690"
   },
   {
     "id": 372,
@@ -5205,7 +5576,8 @@
     "townshipNameEn": "Laukkaing",
     "townshipNameMm": "လောက်ကိုင်",
     "longitude": "98.76408",
-    "latitude": "23.69163"
+    "latitude": "23.69163",
+    "postalCode": "16220"
   },
   {
     "id": 373,
@@ -5219,7 +5591,8 @@
     "townshipNameEn": "Mabein",
     "townshipNameMm": "မဘိမ်း",
     "longitude": "96.6292",
-    "latitude": "23.47292"
+    "latitude": "23.47292",
+    "postalCode": "16180"
   },
   {
     "id": 374,
@@ -5233,7 +5606,8 @@
     "townshipNameEn": "Manton",
     "townshipNameMm": "မန်တုံ",
     "longitude": "97.12222",
-    "latitude": "23.24648"
+    "latitude": "23.24648",
+    "postalCode": "16190"
   },
   {
     "id": 375,
@@ -5247,7 +5621,8 @@
     "townshipNameEn": "Matman",
     "townshipNameMm": "မက်မန်း",
     "longitude": "98.87088",
-    "latitude": "21.95417"
+    "latitude": "21.95417",
+    "postalCode": "16240"
   },
   {
     "id": 376,
@@ -5261,7 +5636,8 @@
     "townshipNameEn": "Mongmit",
     "townshipNameMm": "မိုးမိတ်",
     "longitude": "96.66999",
-    "latitude": "23.11422"
+    "latitude": "23.11422",
+    "postalCode": "16170"
   },
   {
     "id": 377,
@@ -5275,7 +5651,8 @@
     "townshipNameEn": "Mongyai",
     "townshipNameMm": "မိုင်းရယ်",
     "longitude": "98.039",
-    "latitude": "22.42762"
+    "latitude": "22.42762",
+    "postalCode": "16030"
   },
   {
     "id": 378,
@@ -5289,7 +5666,8 @@
     "townshipNameEn": "Manhlyoe (Manhero)",
     "townshipNameMm": "(မန်ဟျိုး) မန်ဟီးရိုး",
     "longitude": "97.80064",
-    "latitude": "23.95176"
+    "latitude": "23.95176",
+    "postalCode": "16620"
   },
   {
     "id": 379,
@@ -5303,7 +5681,8 @@
     "townshipNameEn": "Monekoe",
     "townshipNameMm": "မုန်းကိုး",
     "longitude": "98.3031",
-    "latitude": "24.0998"
+    "latitude": "24.0998",
+    "postalCode": "16610"
   },
   {
     "id": 380,
@@ -5317,7 +5696,8 @@
     "townshipNameEn": "Muse",
     "townshipNameMm": "မူဆယ်",
     "longitude": "97.90165",
-    "latitude": "23.98989"
+    "latitude": "23.98989",
+    "postalCode": "16090"
   },
   {
     "id": 381,
@@ -5331,7 +5711,8 @@
     "townshipNameEn": "Pang Hseng (Kyu Koke)",
     "townshipNameMm": "ပန်ဆိုင်း (ကြူကုတ်)",
     "longitude": "98.06229",
-    "latitude": "24.07548"
+    "latitude": "24.07548",
+    "postalCode": "16630"
   },
   {
     "id": 382,
@@ -5345,7 +5726,8 @@
     "townshipNameEn": "Nam Tit",
     "townshipNameMm": "နမ့်တစ်",
     "longitude": "98.86718",
-    "latitude": "23.47584"
+    "latitude": "23.47584",
+    "postalCode": "16670"
   },
   {
     "id": 383,
@@ -5359,7 +5741,8 @@
     "townshipNameEn": "Namhkan",
     "townshipNameMm": "နမ့်ခမ်း",
     "longitude": "97.6818",
-    "latitude": "23.837"
+    "latitude": "23.837",
+    "postalCode": "16100"
   },
   {
     "id": 384,
@@ -5373,7 +5756,8 @@
     "townshipNameEn": "Namhsan",
     "townshipNameMm": "နမ့်ဆန်",
     "longitude": "97.16126",
-    "latitude": "22.96407"
+    "latitude": "22.96407",
+    "postalCode": "16160"
   },
   {
     "id": 385,
@@ -5387,7 +5771,8 @@
     "townshipNameEn": "Namtu",
     "townshipNameMm": "နမ္မတူ",
     "longitude": "97.40049",
-    "latitude": "23.09361"
+    "latitude": "23.09361",
+    "postalCode": "16150"
   },
   {
     "id": 386,
@@ -5401,7 +5786,8 @@
     "townshipNameEn": "Nawnghkio",
     "townshipNameMm": "နောင်ချို",
     "longitude": "96.79895",
-    "latitude": "22.33003"
+    "latitude": "22.33003",
+    "postalCode": "16130"
   },
   {
     "id": 387,
@@ -5415,7 +5801,8 @@
     "townshipNameEn": "Man Kan",
     "townshipNameMm": "မန်ကန်",
     "longitude": "98.59519",
-    "latitude": "22.68954"
+    "latitude": "22.68954",
+    "postalCode": "16600"
   },
   {
     "id": 388,
@@ -5429,7 +5816,8 @@
     "townshipNameEn": "Pangsang (Panghkam)",
     "townshipNameMm": "ပန်ဆန်း (ပန်ခမ်း)",
     "longitude": "99.17044",
-    "latitude": "22.17594"
+    "latitude": "22.17594",
+    "postalCode": "16050"
   },
   {
     "id": 389,
@@ -5443,7 +5831,8 @@
     "townshipNameEn": "Tangyan",
     "townshipNameMm": "တန့်ယန်း",
     "longitude": "98.3968",
-    "latitude": "22.4981"
+    "latitude": "22.4981",
+    "postalCode": "16040"
   },
   {
     "id": 390,
@@ -5457,7 +5846,8 @@
     "townshipNameEn": "Hopong",
     "townshipNameMm": "ဟိုပုံး",
     "longitude": "97.17024",
-    "latitude": "20.79743"
+    "latitude": "20.79743",
+    "postalCode": "06090"
   },
   {
     "id": 391,
@@ -5471,7 +5861,8 @@
     "townshipNameEn": "Hsihseng",
     "townshipNameMm": "ဆီဆိုင်",
     "longitude": "97.2519",
-    "latitude": "20.16227"
+    "latitude": "20.16227",
+    "postalCode": "06100"
   },
   {
     "id": 392,
@@ -5485,7 +5876,8 @@
     "townshipNameEn": "Aungpan",
     "townshipNameMm": "အောင်ပန်း",
     "longitude": "96.63584",
-    "latitude": "20.66122"
+    "latitude": "20.66122",
+    "postalCode": "06630"
   },
   {
     "id": 393,
@@ -5499,7 +5891,8 @@
     "townshipNameEn": "He Hoe",
     "townshipNameMm": "ဟဲဟိုး",
     "longitude": "96.8239",
-    "latitude": "20.7221"
+    "latitude": "20.7221",
+    "postalCode": "06640"
   },
   {
     "id": 394,
@@ -5513,7 +5906,8 @@
     "townshipNameEn": "Kalaw",
     "townshipNameMm": "ကလော",
     "longitude": "96.55864",
-    "latitude": "20.62418"
+    "latitude": "20.62418",
+    "postalCode": "06020"
   },
   {
     "id": 395,
@@ -5527,7 +5921,8 @@
     "townshipNameEn": "Kar Li",
     "townshipNameMm": "ကာလိ",
     "longitude": "98.53381",
-    "latitude": "21.28872"
+    "latitude": "21.28872",
+    "postalCode": "06740"
   },
   {
     "id": 396,
@@ -5541,7 +5936,8 @@
     "townshipNameEn": "Kunhing",
     "townshipNameMm": "ကွန်ဟိန်း",
     "longitude": "98.424",
-    "latitude": "21.301"
+    "latitude": "21.301",
+    "postalCode": "06210"
   },
   {
     "id": 397,
@@ -5555,7 +5951,8 @@
     "townshipNameEn": "Kyethi",
     "townshipNameMm": "ကျေးသီး",
     "longitude": "97.81933",
-    "latitude": "21.92515"
+    "latitude": "21.92515",
+    "postalCode": "06150"
   },
   {
     "id": 398,
@@ -5569,7 +5966,8 @@
     "townshipNameEn": "Mongnawng",
     "townshipNameMm": "မိုင်းနောင်",
     "longitude": "98.123",
-    "latitude": "21.645"
+    "latitude": "21.645",
+    "postalCode": "06700"
   },
   {
     "id": 399,
@@ -5583,7 +5981,8 @@
     "townshipNameEn": "Laihka",
     "townshipNameMm": "လဲချား",
     "longitude": "97.66509",
-    "latitude": "21.27024"
+    "latitude": "21.27024",
+    "postalCode": "06120"
   },
   {
     "id": 400,
@@ -5597,7 +5996,8 @@
     "townshipNameEn": "Homein",
     "townshipNameMm": "ဟိုမိန်း",
     "longitude": "97.979",
-    "latitude": "19.769"
+    "latitude": "19.769",
+    "postalCode": "06730"
   },
   {
     "id": 401,
@@ -5611,7 +6011,8 @@
     "townshipNameEn": "Langkho",
     "townshipNameMm": "လင်းခေး",
     "longitude": "98.00371",
-    "latitude": "20.34222"
+    "latitude": "20.34222",
+    "postalCode": "06190"
   },
   {
     "id": 402,
@@ -5625,7 +6026,8 @@
     "townshipNameEn": "Intaw",
     "townshipNameMm": "အင်တော",
     "longitude": "96.92252",
-    "latitude": "21.63124"
+    "latitude": "21.63124",
+    "postalCode": "06670"
   },
   {
     "id": 403,
@@ -5639,7 +6041,8 @@
     "townshipNameEn": "Lawksawk",
     "townshipNameMm": "ရပ်စောက်",
     "longitude": "96.86518",
-    "latitude": "21.24664"
+    "latitude": "21.24664",
+    "postalCode": "06070"
   },
   {
     "id": 404,
@@ -5653,7 +6056,8 @@
     "townshipNameEn": "Loilen",
     "townshipNameMm": "လွိုင်လင်",
     "longitude": "97.56581",
-    "latitude": "20.92536"
+    "latitude": "20.92536",
+    "postalCode": "06110"
   },
   {
     "id": 405,
@@ -5667,7 +6071,8 @@
     "townshipNameEn": "Pinlon",
     "townshipNameMm": "ပင်လုံ",
     "longitude": "97.532",
-    "latitude": "20.991"
+    "latitude": "20.991",
+    "postalCode": "06680"
   },
   {
     "id": 406,
@@ -5681,7 +6086,8 @@
     "townshipNameEn": "Mawkmai",
     "townshipNameMm": "မောက်မယ်",
     "longitude": "97.72369",
-    "latitude": "20.2305"
+    "latitude": "20.2305",
+    "postalCode": "06180"
   },
   {
     "id": 407,
@@ -5695,7 +6101,8 @@
     "townshipNameEn": "Monghsu",
     "townshipNameMm": "မိုင်းရှူး",
     "longitude": "98.36044",
-    "latitude": "21.90513"
+    "latitude": "21.90513",
+    "postalCode": "06140"
   },
   {
     "id": 408,
@@ -5709,7 +6116,8 @@
     "townshipNameEn": "Mongsan (Hmonesan)",
     "townshipNameMm": "မိုင်းစံ (မုန်းဆန်း)",
     "longitude": "98.36456",
-    "latitude": "21.65989"
+    "latitude": "21.65989",
+    "postalCode": "06690"
   },
   {
     "id": 409,
@@ -5723,7 +6131,8 @@
     "townshipNameEn": "Mongkaing",
     "townshipNameMm": "မိုင်းကိုင်",
     "longitude": "97.52699",
-    "latitude": "21.61149"
+    "latitude": "21.61149",
+    "postalCode": "06130"
   },
   {
     "id": 410,
@@ -5737,7 +6146,8 @@
     "townshipNameEn": "Kengtawng",
     "townshipNameMm": "ကျိုင်းတောင်း",
     "longitude": "98.29333",
-    "latitude": "20.75728"
+    "latitude": "20.75728",
+    "postalCode": "06720"
   },
   {
     "id": 411,
@@ -5751,7 +6161,8 @@
     "townshipNameEn": "Mongnai",
     "townshipNameMm": "မိုးနဲ",
     "longitude": "97.8712",
-    "latitude": "20.5136"
+    "latitude": "20.5136",
+    "postalCode": "06170"
   },
   {
     "id": 412,
@@ -5765,7 +6176,8 @@
     "townshipNameEn": "Mongpan",
     "townshipNameMm": "မိုင်းပန်",
     "longitude": "98.3541",
-    "latitude": "20.3188"
+    "latitude": "20.3188",
+    "postalCode": "06200"
   },
   {
     "id": 413,
@@ -5779,7 +6191,8 @@
     "townshipNameEn": "Kho Lam",
     "townshipNameMm": "ခိုလမ်",
     "longitude": "98.10086",
-    "latitude": "21.09887"
+    "latitude": "21.09887",
+    "postalCode": "06710"
   },
   {
     "id": 414,
@@ -5793,7 +6206,8 @@
     "townshipNameEn": "Nansang",
     "townshipNameMm": "နမ့်စန်",
     "longitude": "97.72022",
-    "latitude": "20.88912"
+    "latitude": "20.88912",
+    "postalCode": "06160"
   },
   {
     "id": 415,
@@ -5807,7 +6221,8 @@
     "townshipNameEn": "Nang Pang",
     "townshipNameMm": "နန်းပန်",
     "longitude": "96.90596",
-    "latitude": "20.45493"
+    "latitude": "20.45493",
+    "postalCode": "06750"
   },
   {
     "id": 416,
@@ -5821,7 +6236,8 @@
     "townshipNameEn": "Nyaungshwe",
     "townshipNameMm": "ညောင်ရွှေ",
     "longitude": "96.93206",
-    "latitude": "20.65957"
+    "latitude": "20.65957",
+    "postalCode": "06080"
   },
   {
     "id": 417,
@@ -5835,7 +6251,8 @@
     "townshipNameEn": "Pekon",
     "townshipNameMm": "ဖယ်ခုံ",
     "longitude": "97.00831",
-    "latitude": "19.86348"
+    "latitude": "19.86348",
+    "postalCode": "06060"
   },
   {
     "id": 418,
@@ -5849,7 +6266,8 @@
     "townshipNameEn": "Pindaya",
     "townshipNameMm": "ပင်းတယ",
     "longitude": "96.66279",
-    "latitude": "20.94158"
+    "latitude": "20.94158",
+    "postalCode": "06030"
   },
   {
     "id": 419,
@@ -5863,7 +6281,8 @@
     "townshipNameEn": "Naungtayar",
     "townshipNameMm": "နောင်တရား",
     "longitude": "96.75691",
-    "latitude": "20.29326"
+    "latitude": "20.29326",
+    "postalCode": "06650"
   },
   {
     "id": 420,
@@ -5877,7 +6296,8 @@
     "townshipNameEn": "Pawng Lawng",
     "townshipNameMm": "ပေါင်းလောင်း",
     "longitude": "96.58254",
-    "latitude": "19.98626"
+    "latitude": "19.98626",
+    "postalCode": "06660"
   },
   {
     "id": 421,
@@ -5891,7 +6311,8 @@
     "townshipNameEn": "Pinlaung",
     "townshipNameMm": "ပင်လောင်း",
     "longitude": "96.78219",
-    "latitude": "20.12439"
+    "latitude": "20.12439",
+    "postalCode": "06050"
   },
   {
     "id": 422,
@@ -5905,7 +6326,8 @@
     "townshipNameEn": "Ayetharyar",
     "townshipNameMm": "အေးသာယာ",
     "longitude": "96.99882",
-    "latitude": "20.77475"
+    "latitude": "20.77475",
+    "postalCode": "06610"
   },
   {
     "id": 423,
@@ -5919,7 +6341,8 @@
     "townshipNameEn": "Kyauktalonegyi",
     "townshipNameMm": "ကျောက်တလုံးကြီး",
     "longitude": "97.024",
-    "latitude": "20.371"
+    "latitude": "20.371",
+    "postalCode": "06620"
   },
   {
     "id": 424,
@@ -5933,7 +6356,8 @@
     "townshipNameEn": "Shwenyaung",
     "townshipNameMm": "ရွှေညောင်",
     "longitude": "96.93614",
-    "latitude": "20.76015"
+    "latitude": "20.76015",
+    "postalCode": "06600"
   },
   {
     "id": 425,
@@ -5947,7 +6371,8 @@
     "townshipNameEn": "Taunggyi",
     "townshipNameMm": "တောင်ကြီး",
     "longitude": "97.03598",
-    "latitude": "20.77477"
+    "latitude": "20.77477",
+    "postalCode": "06010"
   },
   {
     "id": 426,
@@ -5961,7 +6386,8 @@
     "townshipNameEn": "Ywangan",
     "townshipNameMm": "ရွာငံ",
     "longitude": "96.44229",
-    "latitude": "21.16282"
+    "latitude": "21.16282",
+    "postalCode": "06040"
   },
   {
     "id": 427,
@@ -5975,7 +6401,8 @@
     "townshipNameEn": "Bokpyin",
     "townshipNameMm": "ဘုတ်ပြင်း",
     "longitude": "98.75909",
-    "latitude": "11.26504"
+    "latitude": "11.26504",
+    "postalCode": "14080"
   },
   {
     "id": 428,
@@ -5989,7 +6416,8 @@
     "townshipNameEn": "Karathuri",
     "townshipNameMm": "ကရသူရိ",
     "longitude": "98.75998",
-    "latitude": "10.93336"
+    "latitude": "10.93336",
+    "postalCode": "14660"
   },
   {
     "id": 429,
@@ -6003,7 +6431,8 @@
     "townshipNameEn": "Pyigyimandaing",
     "townshipNameMm": "ပြည်ကြီးမဏ္ဍိုင်",
     "longitude": "99.00144",
-    "latitude": "11.46842"
+    "latitude": "11.46842",
+    "postalCode": "14650"
   },
   {
     "id": 430,
@@ -6017,7 +6446,8 @@
     "townshipNameEn": "Dawei",
     "townshipNameMm": "ထားဝယ်",
     "longitude": "98.19636",
-    "latitude": "14.07753"
+    "latitude": "14.07753",
+    "postalCode": "14010"
   },
   {
     "id": 431,
@@ -6031,7 +6461,8 @@
     "townshipNameEn": "Myitta",
     "townshipNameMm": "မေတ္တာ",
     "longitude": "98.52017",
-    "latitude": "14.16355"
+    "latitude": "14.16355",
+    "postalCode": "14600"
   },
   {
     "id": 432,
@@ -6045,7 +6476,8 @@
     "townshipNameEn": "Kawthoung",
     "townshipNameMm": "ကော့သောင်း",
     "longitude": "98.54995",
-    "latitude": "9.98261"
+    "latitude": "9.98261",
+    "postalCode": "14090"
   },
   {
     "id": 433,
@@ -6059,7 +6491,8 @@
     "townshipNameEn": "Khamaukgyi",
     "townshipNameMm": "ခမောက်ကြီး",
     "longitude": "98.625",
-    "latitude": "10.353"
+    "latitude": "10.353",
+    "postalCode": "14670"
   },
   {
     "id": 434,
@@ -6073,7 +6506,8 @@
     "townshipNameEn": "Kyunsu",
     "townshipNameMm": "ကျွန်းစု",
     "longitude": "98.45443",
-    "latitude": "12.47386"
+    "latitude": "12.47386",
+    "postalCode": "14100"
   },
   {
     "id": 435,
@@ -6087,7 +6521,8 @@
     "townshipNameEn": "Launglon",
     "townshipNameMm": "လောင်းလုံး",
     "longitude": "98.11963",
-    "latitude": "13.97522"
+    "latitude": "13.97522",
+    "postalCode": "14040"
   },
   {
     "id": 436,
@@ -6101,7 +6536,8 @@
     "townshipNameEn": "Myeik",
     "townshipNameMm": "မြိတ်",
     "longitude": "98.60978",
-    "latitude": "12.44112"
+    "latitude": "12.44112",
+    "postalCode": "14050"
   },
   {
     "id": 437,
@@ -6115,7 +6551,8 @@
     "townshipNameEn": "Pala",
     "townshipNameMm": "ပလ",
     "longitude": "98.66188",
-    "latitude": "12.84928"
+    "latitude": "12.84928",
+    "postalCode": "14630"
   },
   {
     "id": 438,
@@ -6129,7 +6566,8 @@
     "townshipNameEn": "Palauk",
     "townshipNameMm": "ပလောက်",
     "longitude": "98.62248",
-    "latitude": "13.27223"
+    "latitude": "13.27223",
+    "postalCode": "14620"
   },
   {
     "id": 439,
@@ -6143,7 +6581,8 @@
     "townshipNameEn": "Palaw",
     "townshipNameMm": "ပုလော",
     "longitude": "98.64579",
-    "latitude": "12.97531"
+    "latitude": "12.97531",
+    "postalCode": "14060"
   },
   {
     "id": 440,
@@ -6157,7 +6596,8 @@
     "townshipNameEn": "Maw Taung",
     "townshipNameMm": "မောတောင်",
     "longitude": "99.6275",
-    "latitude": "11.7952"
+    "latitude": "11.7952",
+    "postalCode": "14640"
   },
   {
     "id": 441,
@@ -6171,7 +6611,8 @@
     "townshipNameEn": "Tanintharyi",
     "townshipNameMm": "တနင်္သာရီ",
     "longitude": "99.01278",
-    "latitude": "12.08941"
+    "latitude": "12.08941",
+    "postalCode": "14070"
   },
   {
     "id": 442,
@@ -6185,7 +6626,8 @@
     "townshipNameEn": "Thayetchaung",
     "townshipNameMm": "သရက်ချောင်း",
     "longitude": "98.26252",
-    "latitude": "13.8687"
+    "latitude": "13.8687",
+    "postalCode": "14030"
   },
   {
     "id": 443,
@@ -6199,7 +6641,8 @@
     "townshipNameEn": "Kaleinaung",
     "townshipNameMm": "ကလိန်အောင်",
     "longitude": "98.13849",
-    "latitude": "14.6238"
+    "latitude": "14.6238",
+    "postalCode": "14610"
   },
   {
     "id": 444,
@@ -6213,7 +6656,8 @@
     "townshipNameEn": "Yebyu",
     "townshipNameMm": "ရေဖြူ",
     "longitude": "98.20291",
-    "latitude": "14.24591"
+    "latitude": "14.24591",
+    "postalCode": "14020"
   },
   {
     "id": 445,
@@ -6227,7 +6671,8 @@
     "townshipNameEn": "Ahlone",
     "townshipNameMm": "အလုံ",
     "longitude": "96.12786",
-    "latitude": "16.7824"
+    "latitude": "16.7824",
+    "postalCode": "11120"
   },
   {
     "id": 446,
@@ -6241,7 +6686,8 @@
     "townshipNameEn": "Bahan",
     "townshipNameMm": "ဗဟန်း",
     "longitude": "96.15611",
-    "latitude": "16.81543"
+    "latitude": "16.81543",
+    "postalCode": "11200"
   },
   {
     "id": 447,
@@ -6255,7 +6701,8 @@
     "townshipNameEn": "Botahtaung",
     "townshipNameMm": "ဗိုလ်တထောင်",
     "longitude": "96.16971",
-    "latitude": "16.77197"
+    "latitude": "16.77197",
+    "postalCode": "11160"
   },
   {
     "id": 448,
@@ -6269,7 +6716,8 @@
     "townshipNameEn": "Cocokyun",
     "townshipNameMm": "ကိုကိုးကျွန်း",
     "longitude": "93.36821",
-    "latitude": "14.13443"
+    "latitude": "14.13443",
+    "postalCode": "11280"
   },
   {
     "id": 449,
@@ -6283,7 +6731,8 @@
     "townshipNameEn": "Dagon",
     "townshipNameMm": "ဒဂုံ",
     "longitude": "96.1469",
-    "latitude": "16.79495"
+    "latitude": "16.79495",
+    "postalCode": "11190"
   },
   {
     "id": 450,
@@ -6297,7 +6746,8 @@
     "townshipNameEn": "Dagon Myothit (East)",
     "townshipNameMm": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း)",
     "longitude": "96.21323",
-    "latitude": "16.91281"
+    "latitude": "16.91281",
+    "postalCode": "11450"
   },
   {
     "id": 451,
@@ -6311,7 +6761,8 @@
     "townshipNameEn": "Dagon Myothit (North)",
     "townshipNameMm": "ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
     "longitude": "96.19079",
-    "latitude": "16.87774"
+    "latitude": "16.87774",
+    "postalCode": "11420"
   },
   {
     "id": 452,
@@ -6325,7 +6776,8 @@
     "townshipNameEn": "Dagon Myothit (Seikkan)",
     "townshipNameMm": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
     "longitude": "96.27256",
-    "latitude": "16.84049"
+    "latitude": "16.84049",
+    "postalCode": "11440"
   },
   {
     "id": 453,
@@ -6339,7 +6791,8 @@
     "townshipNameEn": "Dagon Myothit (South)",
     "townshipNameMm": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
     "longitude": "96.22582",
-    "latitude": "16.84016"
+    "latitude": "16.84016",
+    "postalCode": "11430"
   },
   {
     "id": 454,
@@ -6353,7 +6806,8 @@
     "townshipNameEn": "Dala",
     "townshipNameMm": "ဒလ",
     "longitude": "96.143",
-    "latitude": "16.75855"
+    "latitude": "16.75855",
+    "postalCode": "11260"
   },
   {
     "id": 455,
@@ -6367,7 +6821,8 @@
     "townshipNameEn": "Dawbon",
     "townshipNameMm": "ဒေါပုံ",
     "longitude": "96.18435",
-    "latitude": "16.78192"
+    "latitude": "16.78192",
+    "postalCode": "11240"
   },
   {
     "id": 456,
@@ -6381,7 +6836,8 @@
     "townshipNameEn": "Hlaing",
     "townshipNameMm": "လှိုင်",
     "longitude": "96.12523",
-    "latitude": "16.84793"
+    "latitude": "16.84793",
+    "postalCode": "11050"
   },
   {
     "id": 457,
@@ -6395,7 +6851,8 @@
     "townshipNameEn": "Hlaingtharya (East)",
     "townshipNameMm": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
     "longitude": "96.06893",
-    "latitude": "16.85402,"
+    "latitude": "16.85402,",
+    "postalCode": "11400"
   },
   {
     "id": 458,
@@ -6409,7 +6866,8 @@
     "townshipNameEn": "Hlaingtharya (West)",
     "townshipNameMm": "လှိုင်သာယာ (အနောက်ပိုင်း)",
     "longitude": "96.06893",
-    "latitude": "16.85402,"
+    "latitude": "16.85402,",
+    "postalCode": "11410"
   },
   {
     "id": 459,
@@ -6423,7 +6881,8 @@
     "townshipNameEn": "Hlegu",
     "townshipNameMm": "လှည်းကူး",
     "longitude": "96.22745",
-    "latitude": "17.09875"
+    "latitude": "17.09875",
+    "postalCode": "11370"
   },
   {
     "id": 460,
@@ -6437,7 +6896,8 @@
     "townshipNameEn": "Hmawbi",
     "townshipNameMm": "မှော်ဘီ",
     "longitude": "96.0418",
-    "latitude": "17.09987"
+    "latitude": "17.09987",
+    "postalCode": "11360"
   },
   {
     "id": 461,
@@ -6451,7 +6911,8 @@
     "townshipNameEn": "Htantabin",
     "townshipNameMm": "ထန်းတပင်",
     "longitude": "95.9827",
-    "latitude": "17.0174"
+    "latitude": "17.0174",
+    "postalCode": "08130"
   },
   {
     "id": 462,
@@ -6465,7 +6926,8 @@
     "townshipNameEn": "Insein",
     "townshipNameMm": "အင်းစိန်",
     "longitude": "96.09596",
-    "latitude": "16.90177"
+    "latitude": "16.90177",
+    "postalCode": "11010"
   },
   {
     "id": 463,
@@ -6479,7 +6941,8 @@
     "townshipNameEn": "Kamayut",
     "townshipNameMm": "ကမာရွတ်",
     "longitude": "96.13244",
-    "latitude": "16.82768"
+    "latitude": "16.82768",
+    "postalCode": "11040"
   },
   {
     "id": 464,
@@ -6493,7 +6956,8 @@
     "townshipNameEn": "Kawhmu",
     "townshipNameMm": "ကော့မှူး",
     "longitude": "96.06195",
-    "latitude": "16.54616"
+    "latitude": "16.54616",
+    "postalCode": "11350"
   },
   {
     "id": 465,
@@ -6507,7 +6971,8 @@
     "townshipNameEn": "Kayan",
     "townshipNameMm": "ခရမ်း",
     "longitude": "96.5605",
-    "latitude": "16.90544"
+    "latitude": "16.90544",
+    "postalCode": "11320"
   },
   {
     "id": 466,
@@ -6521,7 +6986,8 @@
     "townshipNameEn": "Kungyangon",
     "townshipNameMm": "ကွမ်းခြံကုန်း",
     "longitude": "96.0119",
-    "latitude": "16.4394"
+    "latitude": "16.4394",
+    "postalCode": "11340"
   },
   {
     "id": 467,
@@ -6535,7 +7001,8 @@
     "townshipNameEn": "Kyauktada",
     "townshipNameMm": "ကျောက်တံတား",
     "longitude": "96.16164",
-    "latitude": "16.77426"
+    "latitude": "16.77426",
+    "postalCode": "11180"
   },
   {
     "id": 468,
@@ -6549,7 +7016,8 @@
     "townshipNameEn": "Kyauktan",
     "townshipNameMm": "ကျောက်တန်း",
     "longitude": "96.32351",
-    "latitude": "16.63393"
+    "latitude": "16.63393",
+    "postalCode": "11300"
   },
   {
     "id": 469,
@@ -6563,7 +7031,8 @@
     "townshipNameEn": "Tadar",
     "townshipNameMm": "တံတား",
     "longitude": "96.53949",
-    "latitude": "16.64788"
+    "latitude": "16.64788",
+    "postalCode": "11610"
   },
   {
     "id": 470,
@@ -6577,7 +7046,8 @@
     "townshipNameEn": "Kyeemyindaing",
     "townshipNameMm": "ကြည့်မြင်တိုင်",
     "longitude": "96.12188",
-    "latitude": "16.81457"
+    "latitude": "16.81457",
+    "postalCode": "11100"
   },
   {
     "id": 471,
@@ -6591,7 +7061,8 @@
     "townshipNameEn": "Lanmadaw",
     "townshipNameMm": "လမ်းမတော်",
     "longitude": "96.14234",
-    "latitude": "16.77991"
+    "latitude": "16.77991",
+    "postalCode": "11130"
   },
   {
     "id": 472,
@@ -6605,7 +7076,8 @@
     "townshipNameEn": "Latha",
     "townshipNameMm": "လသာ",
     "longitude": "96.15053",
-    "latitude": "16.77712"
+    "latitude": "16.77712",
+    "postalCode": "11150"
   },
   {
     "id": 473,
@@ -6619,7 +7091,8 @@
     "townshipNameEn": "Mayangone",
     "townshipNameMm": "မရမ်းကုန်း",
     "longitude": "96.14261",
-    "latitude": "16.86619"
+    "latitude": "16.86619",
+    "postalCode": "11060"
   },
   {
     "id": 474,
@@ -6633,7 +7106,8 @@
     "townshipNameEn": "Htaukkyant",
     "townshipNameMm": "ထောက်ကြန့်",
     "longitude": "96.13231",
-    "latitude": "17.04276"
+    "latitude": "17.04276",
+    "postalCode": "11600"
   },
   {
     "id": 475,
@@ -6647,7 +7121,8 @@
     "townshipNameEn": "Mingaladon",
     "townshipNameMm": "မင်္ဂလာဒုံ",
     "longitude": "96.12795",
-    "latitude": "16.94914"
+    "latitude": "16.94914",
+    "postalCode": "11020"
   },
   {
     "id": 476,
@@ -6661,7 +7136,8 @@
     "townshipNameEn": "Mingalartaungnyunt",
     "townshipNameMm": "မင်္ဂလာတောင်ညွန့်",
     "longitude": "96.16786",
-    "latitude": "16.78891"
+    "latitude": "16.78891",
+    "postalCode": "11220"
   },
   {
     "id": 477,
@@ -6675,7 +7151,8 @@
     "townshipNameEn": "North Okkalapa",
     "townshipNameMm": "မြောက်ဥက္ကလာပ",
     "longitude": "96.16303",
-    "latitude": "16.91878"
+    "latitude": "16.91878",
+    "postalCode": "11030"
   },
   {
     "id": 478,
@@ -6689,7 +7166,8 @@
     "townshipNameEn": "Pabedan",
     "townshipNameMm": "ပန်းဘဲတန်း",
     "longitude": "96.15601",
-    "latitude": "16.77698"
+    "latitude": "16.77698",
+    "postalCode": "11140"
   },
   {
     "id": 479,
@@ -6703,7 +7181,8 @@
     "townshipNameEn": "Pazundaung",
     "townshipNameMm": "ပုဇွန်တောင်",
     "longitude": "96.17439",
-    "latitude": "16.77965"
+    "latitude": "16.77965",
+    "postalCode": "11170"
   },
   {
     "id": 480,
@@ -6717,7 +7196,8 @@
     "townshipNameEn": "Sanchaung",
     "townshipNameMm": "စမ်းချောင်း",
     "longitude": "96.13729",
-    "latitude": "16.80381"
+    "latitude": "16.80381",
+    "postalCode": "11110"
   },
   {
     "id": 481,
@@ -6731,7 +7211,8 @@
     "townshipNameEn": "Seikgyikanaungto",
     "townshipNameMm": "ဆိပ်ကြီး/ခနောင်တို",
     "longitude": "96.11637",
-    "latitude": "16.75779"
+    "latitude": "16.75779",
+    "postalCode": "11270"
   },
   {
     "id": 482,
@@ -6745,7 +7226,8 @@
     "townshipNameEn": "Seikkan",
     "townshipNameMm": "ဆိပ်ကမ်း",
     "longitude": "96.15505",
-    "latitude": "16.7704"
+    "latitude": "16.7704",
+    "postalCode": "11440"
   },
   {
     "id": 483,
@@ -6759,7 +7241,8 @@
     "townshipNameEn": "Shwepyithar",
     "townshipNameMm": "ရွှေပြည်သာ",
     "longitude": "96.08329",
-    "latitude": "16.95504"
+    "latitude": "16.95504",
+    "postalCode": "11250"
   },
   {
     "id": 484,
@@ -6773,7 +7256,8 @@
     "townshipNameEn": "South Okkalapa",
     "townshipNameMm": "တောင်ဥက္ကလာပ",
     "longitude": "96.17986",
-    "latitude": "16.84625"
+    "latitude": "16.84625",
+    "postalCode": "11090"
   },
   {
     "id": 485,
@@ -6787,7 +7271,8 @@
     "townshipNameEn": "Ahpyauk",
     "townshipNameMm": "အဖျောက်",
     "longitude": "95.69338",
-    "latitude": "17.38239"
+    "latitude": "17.38239",
+    "postalCode": "11630"
   },
   {
     "id": 486,
@@ -6801,7 +7286,8 @@
     "townshipNameEn": "Okekan",
     "townshipNameMm": "ဥက္ကံ",
     "longitude": "95.8607",
-    "latitude": "17.49696"
+    "latitude": "17.49696",
+    "postalCode": "11620"
   },
   {
     "id": 487,
@@ -6815,7 +7301,8 @@
     "townshipNameEn": "Taikkyi",
     "townshipNameMm": "တိုက်ကြီး",
     "longitude": "95.96344",
-    "latitude": "17.31263"
+    "latitude": "17.31263",
+    "postalCode": "11380"
   },
   {
     "id": 488,
@@ -6829,7 +7316,8 @@
     "townshipNameEn": "Tamwe",
     "townshipNameMm": "တာမွေ",
     "longitude": "96.17646",
-    "latitude": "16.81018"
+    "latitude": "16.81018",
+    "postalCode": "11210"
   },
   {
     "id": 489,
@@ -6843,7 +7331,8 @@
     "townshipNameEn": "Thaketa",
     "townshipNameMm": "သာကေတ",
     "longitude": "96.20296",
-    "latitude": "16.79301"
+    "latitude": "16.79301",
+    "postalCode": "11230"
   },
   {
     "id": 490,
@@ -6857,7 +7346,8 @@
     "townshipNameEn": "Thanlyin",
     "townshipNameMm": "သန်လျင်",
     "longitude": "96.25184",
-    "latitude": "16.76378"
+    "latitude": "16.76378",
+    "postalCode": "11290"
   },
   {
     "id": 491,
@@ -6871,7 +7361,8 @@
     "townshipNameEn": "Thingangyun",
     "townshipNameMm": "သင်္ဃန်းကျွန်း",
     "longitude": "96.19323",
-    "latitude": "16.83101"
+    "latitude": "16.83101",
+    "postalCode": "11070"
   },
   {
     "id": 492,
@@ -6885,7 +7376,8 @@
     "townshipNameEn": "Thongwa",
     "townshipNameMm": "သုံးခွ",
     "longitude": "96.52309",
-    "latitude": "16.7586"
+    "latitude": "16.7586",
+    "postalCode": "11310"
   },
   {
     "id": 493,
@@ -6899,7 +7391,8 @@
     "townshipNameEn": "Twantay",
     "townshipNameMm": "တွံတေး",
     "longitude": "95.93047",
-    "latitude": "16.70734"
+    "latitude": "16.70734",
+    "postalCode": "11330"
   },
   {
     "id": 494,
@@ -6913,6 +7406,7 @@
     "townshipNameEn": "Yankin",
     "townshipNameMm": "ရန်ကင်း",
     "longitude": "96.1624",
-    "latitude": "16.83601"
+    "latitude": "16.83601",
+    "postalCode": "11080"
   }
 ]
