@@ -61,7 +61,7 @@ Here are some example data structures for regions, districts, townships, and com
 }
 ```
 
-`townships.json`
+#### `townships.json`
 
 ```json
 {
@@ -71,13 +71,13 @@ Here are some example data structures for regions, districts, townships, and com
   "townshipCode": "MMR010011701",
   "townshipNameEn": "Mogoke",
   "townshipNameMm": "မိုးကုတ်",
-  "longitude": "96.5054",
-  "latitude": "22.92139",
+  "latitude": 22.92139,
+  "longitude": 96.5054,
   "postalCode": "05090"
 }
 ```
 
-`geography.json`
+#### `geography.json`
 
 ```json
 {
@@ -91,8 +91,8 @@ Here are some example data structures for regions, districts, townships, and com
   "townshipCode": "MMR010011701",
   "townshipNameEn": "Mogoke",
   "townshipNameMm": "မိုးကုတ်",
-  "longitude": "96.5054",
-  "latitude": "22.92139",
+  "latitude": 22.92139,
+  "longitude": 96.5054,
   "postalCode": "05090"
 }
 ```
