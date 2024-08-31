@@ -16,7 +16,6 @@ MMR017,Ayeyarwady,MMR017D002,Hinthada,MMR017012,Kyangin,MMR017012701,Kyangin Tow
 MMR017,Ayeyarwady,MMR017D001,Pathein,MMR017007,Kyaunggon,MMR017007701,Kyaunggon Town,ကျောင်းကုန်း,95.1904,17.10768
 MMR017,Ayeyarwady,MMR017D001,Pathein,MMR017005,Kyonpyaw,MMR017005702,Ahtaung Town,အထောင်,95.33365,17.34855
 MMR017,Ayeyarwady,MMR017D001,Pathein,MMR017005,Kyonpyaw,MMR017005701,Kyonpyaw Town,ကျုံပျော်,95.2,17.3
-MMR017,Ayeyarwady,MMR017D004,Labutta,MMR017016,Labutta,MMR017016704,Hainggyikyun Town,ဟိုင်းကြီးကျွန်း,94.80943,15.82677
 MMR017,Ayeyarwady,MMR017D004,Labutta,MMR017016,Labutta,MMR017016703,Labutta (3) Mile Town,လပွတ္တာ (၃) မိုင်,94.78124,16.19983
 MMR017,Ayeyarwady,MMR017D004,Labutta,MMR017016,Labutta,MMR017016701,Labutta Town,လပွတ္တာ,94.75889,16.14557
 MMR017,Ayeyarwady,MMR017D004,Labutta,MMR017016,Labutta,MMR017016702,Pyinsalu Town,ပြင်စလူ,94.80943,15.82677
@@ -49,7 +48,6 @@ MMR007,Bago (East),MMR007D001,Bago,MMR007001,Bago,MMR007001701,Bago Town,ပဲ�
 MMR007,Bago (East),MMR007D001,Bago,MMR007001,Bago,MMR007001702,Hpayargyi Town,ဘုရားကြီး,96.52654,17.47538
 MMR007,Bago (East),MMR007D001,Bago,MMR007001,Bago,MMR007001703,Inntakaw Town,အင်းတကော်,96.37637,17.18087
 MMR007,Bago (East),MMR007D001,Bago,MMR007007,Daik-U,MMR007007701,Daik-U Town,ဒိုက်ဦး,96.66969,17.78967
-MMR007,Bago (East),MMR007D002,Taungoo,MMR007014,Htantabin,MMR007014701,Htantabin Town,ထန်းတပင်,96.48376,18.8433
 MMR007,Bago (East),MMR007D001,Bago,MMR007003,Kawa,MMR007003701,Kawa Town,ကဝ,96.46632,17.08967
 MMR007,Bago (East),MMR007D001,Bago,MMR007003,Kawa,MMR007003702,Thetkala Town,သက္ကလ,96.59657,17.02939
 MMR007,Bago (East),MMR007D002,Taungoo,MMR007011,Kyaukkyi,MMR007011701,Kyaukkyi Town,ကျောက်ကြီး,96.76862,18.32764
@@ -480,7 +478,6 @@ MMR013,Yangon,MMR013D004,Yangon (West),MMR013034,Pabedan,MMR013034701,Pabedan,�
 MMR013,Yangon,MMR013D002,Yangon (East),MMR013016,Pazundaung,MMR013016701,Pazundaung,ပုဇွန်တောင်,96.17439,16.77965
 MMR013,Yangon,MMR013D004,Yangon (West),MMR013039,Sanchaung,MMR013039701,Sanchaung,စမ်းချောင်း,96.13729,16.80381
 MMR013,Yangon,MMR013D003,Yangon (South),MMR013031,Seikgyikanaungto,MMR013031701,Seikgyikanaungto,ဆိပ်ကြီး/ခနောင်တို,96.11637,16.75779
-MMR013,Yangon,MMR013D004,Yangon (West),MMR013045,Seikkan,MMR013045701,Seikkan,ဆိပ်ကမ်း,96.15505,16.7704
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013007,Shwepyithar,MMR013007701,Shwepyithar Town,ရွှေပြည်သာ,96.08329,16.95504
 MMR013,Yangon,MMR013D002,Yangon (East),MMR013011,South Okkalapa,MMR013011701,South Okkalapa,တောင်ဥက္ကလာပ,96.17986,16.84625
 MMR013,Yangon,MMR013D001,Yangon (North),MMR013005,Taikkyi,MMR013005703,Ahpyauk Town,အဖျောက်,95.69338,17.38239

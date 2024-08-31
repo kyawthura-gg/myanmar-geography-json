@@ -262,21 +262,6 @@
     "districtCode": "MMR017D004",
     "districtNameEn": "Labutta",
     "districtNameMm": "လပွတ္တာခရိုင်",
-    "townshipCode": "MMR017016704",
-    "townshipNameEn": "Hainggyikyun",
-    "townshipNameMm": "ဟိုင်းကြီးကျွန်း",
-    "latitude": 15.82677,
-    "longitude": 94.80943,
-    "postalCode": "10760"
-  },
-  {
-    "id": 19,
-    "regionCode": "MMR017",
-    "regionNameEn": "Ayeyarwady",
-    "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
-    "districtCode": "MMR017D004",
-    "districtNameEn": "Labutta",
-    "districtNameMm": "လပွတ္တာခရိုင်",
     "townshipCode": "MMR017016703",
     "townshipNameEn": "Labutta (3) Mile",
     "townshipNameMm": "လပွတ္တာ (၃) မိုင်",
@@ -285,7 +270,7 @@
     "postalCode": "10740"
   },
   {
-    "id": 20,
+    "id": 19,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -300,7 +285,7 @@
     "postalCode": "10120"
   },
   {
-    "id": 21,
+    "id": 20,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -315,7 +300,7 @@
     "postalCode": "10730"
   },
   {
-    "id": 22,
+    "id": 21,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -330,7 +315,7 @@
     "postalCode": "10070"
   },
   {
-    "id": 23,
+    "id": 22,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -345,7 +330,7 @@
     "postalCode": "10180"
   },
   {
-    "id": 24,
+    "id": 23,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -360,7 +345,7 @@
     "postalCode": "10220"
   },
   {
-    "id": 25,
+    "id": 24,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -375,7 +360,7 @@
     "postalCode": "10650"
   },
   {
-    "id": 26,
+    "id": 25,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -390,7 +375,7 @@
     "postalCode": "10640"
   },
   {
-    "id": 27,
+    "id": 26,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -405,7 +390,7 @@
     "postalCode": "10040"
   },
   {
-    "id": 28,
+    "id": 27,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -420,7 +405,7 @@
     "postalCode": "10210"
   },
   {
-    "id": 29,
+    "id": 28,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -435,7 +420,7 @@
     "postalCode": "10760"
   },
   {
-    "id": 30,
+    "id": 29,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -450,7 +435,7 @@
     "postalCode": "10130"
   },
   {
-    "id": 31,
+    "id": 30,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -465,7 +450,7 @@
     "postalCode": "10750"
   },
   {
-    "id": 32,
+    "id": 31,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -480,7 +465,7 @@
     "postalCode": "10160"
   },
   {
-    "id": 33,
+    "id": 32,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -495,7 +480,7 @@
     "postalCode": "10170"
   },
   {
-    "id": 34,
+    "id": 33,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -510,7 +495,7 @@
     "postalCode": "10620"
   },
   {
-    "id": 35,
+    "id": 34,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -525,7 +510,7 @@
     "postalCode": "10610"
   },
   {
-    "id": 36,
+    "id": 35,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -540,7 +525,7 @@
     "postalCode": "10010"
   },
   {
-    "id": 37,
+    "id": 36,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -555,7 +540,7 @@
     "postalCode": "10600"
   },
   {
-    "id": 38,
+    "id": 37,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -570,7 +555,7 @@
     "postalCode": "10780"
   },
   {
-    "id": 39,
+    "id": 38,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -585,7 +570,7 @@
     "postalCode": "10250"
   },
   {
-    "id": 40,
+    "id": 39,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -600,7 +585,7 @@
     "postalCode": "10110"
   },
   {
-    "id": 41,
+    "id": 40,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -615,7 +600,7 @@
     "postalCode": "10770"
   },
   {
-    "id": 42,
+    "id": 41,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -630,7 +615,7 @@
     "postalCode": "10200"
   },
   {
-    "id": 43,
+    "id": 42,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -645,7 +630,7 @@
     "postalCode": "10710"
   },
   {
-    "id": 44,
+    "id": 43,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -660,7 +645,7 @@
     "postalCode": "10700"
   },
   {
-    "id": 45,
+    "id": 44,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -675,7 +660,7 @@
     "postalCode": "10080"
   },
   {
-    "id": 46,
+    "id": 45,
     "regionCode": "MMR017",
     "regionNameEn": "Ayeyarwady",
     "regionNameMm": "ဧရာဝတီတိုင်းဒေသကြီး",
@@ -690,7 +675,7 @@
     "postalCode": "10140"
   },
   {
-    "id": 47,
+    "id": 46,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -705,7 +690,7 @@
     "postalCode": "08010"
   },
   {
-    "id": 48,
+    "id": 47,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -720,7 +705,7 @@
     "postalCode": "08600"
   },
   {
-    "id": 49,
+    "id": 48,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -735,7 +720,7 @@
     "postalCode": "08610"
   },
   {
-    "id": 50,
+    "id": 49,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -750,22 +735,7 @@
     "postalCode": "08060"
   },
   {
-    "id": 51,
-    "regionCode": "MMR007",
-    "regionNameEn": "Bago",
-    "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
-    "districtCode": "MMR007D002",
-    "districtNameEn": "Taungoo",
-    "districtNameMm": "တောင်ငူခရိုင်",
-    "townshipCode": "MMR007014701",
-    "townshipNameEn": "Htantabin",
-    "townshipNameMm": "ထန်းတပင်",
-    "latitude": 18.8433,
-    "longitude": 96.48376,
-    "postalCode": "08130"
-  },
-  {
-    "id": 52,
+    "id": 50,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -780,7 +750,7 @@
     "postalCode": "08090"
   },
   {
-    "id": 53,
+    "id": 51,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -795,7 +765,7 @@
     "postalCode": "08670"
   },
   {
-    "id": 54,
+    "id": 52,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -810,7 +780,7 @@
     "postalCode": "08040"
   },
   {
-    "id": 55,
+    "id": 53,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -825,7 +795,7 @@
     "postalCode": "08630"
   },
   {
-    "id": 56,
+    "id": 54,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -840,7 +810,7 @@
     "postalCode": "08020"
   },
   {
-    "id": 57,
+    "id": 55,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -855,7 +825,7 @@
     "postalCode": "08620"
   },
   {
-    "id": 58,
+    "id": 56,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -870,7 +840,7 @@
     "postalCode": "08640"
   },
   {
-    "id": 59,
+    "id": 57,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -885,7 +855,7 @@
     "postalCode": "08030"
   },
   {
-    "id": 60,
+    "id": 58,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -900,7 +870,7 @@
     "postalCode": "08660"
   },
   {
-    "id": 61,
+    "id": 59,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -915,7 +885,7 @@
     "postalCode": "08650"
   },
   {
-    "id": 62,
+    "id": 60,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -930,7 +900,7 @@
     "postalCode": "08720"
   },
   {
-    "id": 63,
+    "id": 61,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -945,7 +915,7 @@
     "postalCode": "08120"
   },
   {
-    "id": 64,
+    "id": 62,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -960,7 +930,7 @@
     "postalCode": "08730"
   },
   {
-    "id": 65,
+    "id": 63,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -975,7 +945,7 @@
     "postalCode": "08140"
   },
   {
-    "id": 66,
+    "id": 64,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -990,7 +960,7 @@
     "postalCode": "08740"
   },
   {
-    "id": 67,
+    "id": 65,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1005,7 +975,7 @@
     "postalCode": "08050"
   },
   {
-    "id": 68,
+    "id": 66,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1020,7 +990,7 @@
     "postalCode": "08680"
   },
   {
-    "id": 69,
+    "id": 67,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1035,7 +1005,7 @@
     "postalCode": "08100"
   },
   {
-    "id": 70,
+    "id": 68,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1050,7 +1020,7 @@
     "postalCode": "08080"
   },
   {
-    "id": 71,
+    "id": 69,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1065,7 +1035,7 @@
     "postalCode": "08070"
   },
   {
-    "id": 72,
+    "id": 70,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1080,7 +1050,7 @@
     "postalCode": "08690"
   },
   {
-    "id": 73,
+    "id": 71,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1095,7 +1065,7 @@
     "postalCode": "08710"
   },
   {
-    "id": 74,
+    "id": 72,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1110,7 +1080,7 @@
     "postalCode": "08700"
   },
   {
-    "id": 75,
+    "id": 73,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1125,7 +1095,7 @@
     "postalCode": "08110"
   },
   {
-    "id": 76,
+    "id": 74,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1140,7 +1110,7 @@
     "postalCode": "18140"
   },
   {
-    "id": 77,
+    "id": 75,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1155,7 +1125,7 @@
     "postalCode": "18080"
   },
   {
-    "id": 78,
+    "id": 76,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1170,7 +1140,7 @@
     "postalCode": "18090"
   },
   {
-    "id": 79,
+    "id": 77,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1185,7 +1155,7 @@
     "postalCode": "18660"
   },
   {
-    "id": 80,
+    "id": 78,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1200,7 +1170,7 @@
     "postalCode": "18130"
   },
   {
-    "id": 81,
+    "id": 79,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1215,7 +1185,7 @@
     "postalCode": "18120"
   },
   {
-    "id": 82,
+    "id": 80,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1230,7 +1200,7 @@
     "postalCode": "18680"
   },
   {
-    "id": 83,
+    "id": 81,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1245,7 +1215,7 @@
     "postalCode": "18670"
   },
   {
-    "id": 84,
+    "id": 82,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1260,7 +1230,7 @@
     "postalCode": "18100"
   },
   {
-    "id": 85,
+    "id": 83,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1275,7 +1245,7 @@
     "postalCode": "18610"
   },
   {
-    "id": 86,
+    "id": 84,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1290,7 +1260,7 @@
     "postalCode": "18030"
   },
   {
-    "id": 87,
+    "id": 85,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1305,7 +1275,7 @@
     "postalCode": "18020"
   },
   {
-    "id": 88,
+    "id": 86,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1320,7 +1290,7 @@
     "postalCode": "18040"
   },
   {
-    "id": 89,
+    "id": 87,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1335,7 +1305,7 @@
     "postalCode": "18600"
   },
   {
-    "id": 90,
+    "id": 88,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1350,7 +1320,7 @@
     "postalCode": "18010"
   },
   {
-    "id": 91,
+    "id": 89,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1365,7 +1335,7 @@
     "postalCode": "18060"
   },
   {
-    "id": 92,
+    "id": 90,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1380,7 +1350,7 @@
     "postalCode": "18070"
   },
   {
-    "id": 93,
+    "id": 91,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1395,7 +1365,7 @@
     "postalCode": "18650"
   },
   {
-    "id": 94,
+    "id": 92,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1410,7 +1380,7 @@
     "postalCode": "18630"
   },
   {
-    "id": 95,
+    "id": 93,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1425,7 +1395,7 @@
     "postalCode": "18620"
   },
   {
-    "id": 96,
+    "id": 94,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1440,7 +1410,7 @@
     "postalCode": "18640"
   },
   {
-    "id": 97,
+    "id": 95,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1455,7 +1425,7 @@
     "postalCode": "18050"
   },
   {
-    "id": 98,
+    "id": 96,
     "regionCode": "MMR007",
     "regionNameEn": "Bago",
     "regionNameMm": "ပဲခူးတိုင်းဒေသကြီး",
@@ -1470,7 +1440,7 @@
     "postalCode": "18110"
   },
   {
-    "id": 99,
+    "id": 97,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1485,7 +1455,7 @@
     "postalCode": "03030"
   },
   {
-    "id": 100,
+    "id": 98,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1500,7 +1470,7 @@
     "postalCode": "03620"
   },
   {
-    "id": 101,
+    "id": 99,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1515,7 +1485,7 @@
     "postalCode": "03630"
   },
   {
-    "id": 102,
+    "id": 100,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1530,7 +1500,7 @@
     "postalCode": "03010"
   },
   {
-    "id": 103,
+    "id": 101,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1545,7 +1515,7 @@
     "postalCode": "03600"
   },
   {
-    "id": 104,
+    "id": 102,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1560,7 +1530,7 @@
     "postalCode": "03080"
   },
   {
-    "id": 105,
+    "id": 103,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1575,7 +1545,7 @@
     "postalCode": "03690"
   },
   {
-    "id": 106,
+    "id": 104,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1590,7 +1560,7 @@
     "postalCode": "03670"
   },
   {
-    "id": 107,
+    "id": 105,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1605,7 +1575,7 @@
     "postalCode": "03060"
   },
   {
-    "id": 108,
+    "id": 106,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1620,7 +1590,7 @@
     "postalCode": "03660"
   },
   {
-    "id": 109,
+    "id": 107,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1635,7 +1605,7 @@
     "postalCode": "03070"
   },
   {
-    "id": 110,
+    "id": 108,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1650,7 +1620,7 @@
     "postalCode": "03680"
   },
   {
-    "id": 111,
+    "id": 109,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1665,7 +1635,7 @@
     "postalCode": "03090"
   },
   {
-    "id": 112,
+    "id": 110,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1680,7 +1650,7 @@
     "postalCode": "03700"
   },
   {
-    "id": 113,
+    "id": 111,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1695,7 +1665,7 @@
     "postalCode": "03640"
   },
   {
-    "id": 114,
+    "id": 112,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1710,7 +1680,7 @@
     "postalCode": "03040"
   },
   {
-    "id": 115,
+    "id": 113,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1725,7 +1695,7 @@
     "postalCode": "03610"
   },
   {
-    "id": 116,
+    "id": 114,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1740,7 +1710,7 @@
     "postalCode": "03020"
   },
   {
-    "id": 117,
+    "id": 115,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1755,7 +1725,7 @@
     "postalCode": "03650"
   },
   {
-    "id": 118,
+    "id": 116,
     "regionCode": "MMR004",
     "regionNameEn": "Chin",
     "regionNameMm": "ချင်းပြည်နယ်",
@@ -1770,7 +1740,7 @@
     "postalCode": "03050"
   },
   {
-    "id": 119,
+    "id": 117,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1785,7 +1755,7 @@
     "postalCode": "01130"
   },
   {
-    "id": 120,
+    "id": 118,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1800,7 +1770,7 @@
     "postalCode": "01070"
   },
   {
-    "id": 121,
+    "id": 119,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1815,7 +1785,7 @@
     "postalCode": "01620"
   },
   {
-    "id": 122,
+    "id": 120,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1830,7 +1800,7 @@
     "postalCode": "01160"
   },
   {
-    "id": 123,
+    "id": 121,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1845,7 +1815,7 @@
     "postalCode": "01740"
   },
   {
-    "id": 124,
+    "id": 122,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1860,7 +1830,7 @@
     "postalCode": "01020"
   },
   {
-    "id": 125,
+    "id": 123,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1875,7 +1845,7 @@
     "postalCode": "01180"
   },
   {
-    "id": 126,
+    "id": 124,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1890,7 +1860,7 @@
     "postalCode": "01040"
   },
   {
-    "id": 127,
+    "id": 125,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1905,7 +1875,7 @@
     "postalCode": "01140"
   },
   {
-    "id": 128,
+    "id": 126,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1920,7 +1890,7 @@
     "postalCode": "01100"
   },
   {
-    "id": 129,
+    "id": 127,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1935,7 +1905,7 @@
     "postalCode": "01660"
   },
   {
-    "id": 130,
+    "id": 128,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1950,7 +1920,7 @@
     "postalCode": "01670"
   },
   {
-    "id": 131,
+    "id": 129,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1965,7 +1935,7 @@
     "postalCode": "01680"
   },
   {
-    "id": 132,
+    "id": 130,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1980,7 +1950,7 @@
     "postalCode": "01110"
   },
   {
-    "id": 133,
+    "id": 131,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -1995,7 +1965,7 @@
     "postalCode": "01700"
   },
   {
-    "id": 134,
+    "id": 132,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2010,7 +1980,7 @@
     "postalCode": "01690"
   },
   {
-    "id": 135,
+    "id": 133,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2025,7 +1995,7 @@
     "postalCode": "01730"
   },
   {
-    "id": 136,
+    "id": 134,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2040,7 +2010,7 @@
     "postalCode": "01720"
   },
   {
-    "id": 137,
+    "id": 135,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2055,7 +2025,7 @@
     "postalCode": "01150"
   },
   {
-    "id": 138,
+    "id": 136,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2070,7 +2040,7 @@
     "postalCode": "01010"
   },
   {
-    "id": 139,
+    "id": 137,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2085,7 +2055,7 @@
     "postalCode": "01600"
   },
   {
-    "id": 140,
+    "id": 138,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2100,7 +2070,7 @@
     "postalCode": "01030"
   },
   {
-    "id": 141,
+    "id": 139,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2115,7 +2085,7 @@
     "postalCode": "01610"
   },
   {
-    "id": 142,
+    "id": 140,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2130,7 +2100,7 @@
     "postalCode": "01050"
   },
   {
-    "id": 143,
+    "id": 141,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2142,10 +2112,10 @@
     "townshipNameMm": "မြို့လှ",
     "latitude": 24.47856,
     "longitude": 96.65522,
-    "postalCode": "08710"
+    "postalCode": "01710"
   },
   {
-    "id": 144,
+    "id": 142,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2160,7 +2130,7 @@
     "postalCode": "01120"
   },
   {
-    "id": 145,
+    "id": 143,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2175,7 +2145,7 @@
     "postalCode": "01060"
   },
   {
-    "id": 146,
+    "id": 144,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2190,7 +2160,7 @@
     "postalCode": "01650"
   },
   {
-    "id": 147,
+    "id": 145,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2205,7 +2175,7 @@
     "postalCode": "01090"
   },
   {
-    "id": 148,
+    "id": 146,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2220,7 +2190,7 @@
     "postalCode": "01170"
   },
   {
-    "id": 149,
+    "id": 147,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2235,7 +2205,7 @@
     "postalCode": "01640"
   },
   {
-    "id": 150,
+    "id": 148,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2250,7 +2220,7 @@
     "postalCode": "01630"
   },
   {
-    "id": 151,
+    "id": 149,
     "regionCode": "MMR001",
     "regionNameEn": "Kachin",
     "regionNameMm": "ကချင်ပြည်နယ်",
@@ -2265,7 +2235,7 @@
     "postalCode": "01080"
   },
   {
-    "id": 152,
+    "id": 150,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2280,7 +2250,7 @@
     "postalCode": "09040"
   },
   {
-    "id": 153,
+    "id": 151,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2295,7 +2265,7 @@
     "postalCode": "09620"
   },
   {
-    "id": 154,
+    "id": 152,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2310,7 +2280,7 @@
     "postalCode": "09020"
   },
   {
-    "id": 155,
+    "id": 153,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2325,7 +2295,7 @@
     "postalCode": "09610"
   },
   {
-    "id": 156,
+    "id": 154,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2340,7 +2310,7 @@
     "postalCode": "09050"
   },
   {
-    "id": 157,
+    "id": 155,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2355,7 +2325,7 @@
     "postalCode": "09030"
   },
   {
-    "id": 158,
+    "id": 156,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2370,7 +2340,7 @@
     "postalCode": "09010"
   },
   {
-    "id": 159,
+    "id": 157,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2385,7 +2355,7 @@
     "postalCode": "09600"
   },
   {
-    "id": 160,
+    "id": 158,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2400,7 +2370,7 @@
     "postalCode": "09060"
   },
   {
-    "id": 161,
+    "id": 159,
     "regionCode": "MMR002",
     "regionNameEn": "Kayah",
     "regionNameMm": "ကယားပြည်နယ်",
@@ -2415,7 +2385,7 @@
     "postalCode": "09070"
   },
   {
-    "id": 162,
+    "id": 160,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2430,7 +2400,7 @@
     "postalCode": "13040"
   },
   {
-    "id": 163,
+    "id": 161,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2445,7 +2415,7 @@
     "postalCode": "13640"
   },
   {
-    "id": 164,
+    "id": 162,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2460,7 +2430,7 @@
     "postalCode": "13650"
   },
   {
-    "id": 165,
+    "id": 163,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2475,7 +2445,7 @@
     "postalCode": "13010"
   },
   {
-    "id": 166,
+    "id": 164,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2490,7 +2460,7 @@
     "postalCode": "13030"
   },
   {
-    "id": 167,
+    "id": 165,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2505,7 +2475,7 @@
     "postalCode": "13630"
   },
   {
-    "id": 168,
+    "id": 166,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2520,7 +2490,7 @@
     "postalCode": "13060"
   },
   {
-    "id": 169,
+    "id": 167,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2535,7 +2505,7 @@
     "postalCode": "13680"
   },
   {
-    "id": 170,
+    "id": 168,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2550,7 +2520,7 @@
     "postalCode": "13690"
   },
   {
-    "id": 171,
+    "id": 169,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2565,7 +2535,7 @@
     "postalCode": "13700"
   },
   {
-    "id": 172,
+    "id": 170,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2580,7 +2550,7 @@
     "postalCode": "13070"
   },
   {
-    "id": 173,
+    "id": 171,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2595,7 +2565,7 @@
     "postalCode": "13050"
   },
   {
-    "id": 174,
+    "id": 172,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2610,7 +2580,7 @@
     "postalCode": "13660"
   },
   {
-    "id": 175,
+    "id": 173,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2625,7 +2595,7 @@
     "postalCode": "13670"
   },
   {
-    "id": 176,
+    "id": 174,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2640,7 +2610,7 @@
     "postalCode": "13620"
   },
   {
-    "id": 177,
+    "id": 175,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2655,7 +2625,7 @@
     "postalCode": "13610"
   },
   {
-    "id": 178,
+    "id": 176,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2670,7 +2640,7 @@
     "postalCode": "13600"
   },
   {
-    "id": 179,
+    "id": 177,
     "regionCode": "MMR003",
     "regionNameEn": "Kayin",
     "regionNameMm": "ကရင်ပြည်နယ်",
@@ -2685,7 +2655,7 @@
     "postalCode": "13020"
   },
   {
-    "id": 180,
+    "id": 178,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2700,7 +2670,7 @@
     "postalCode": "04150"
   },
   {
-    "id": 181,
+    "id": 179,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2715,7 +2685,7 @@
     "postalCode": "04170"
   },
   {
-    "id": 182,
+    "id": 180,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2730,7 +2700,7 @@
     "postalCode": "04620"
   },
   {
-    "id": 183,
+    "id": 181,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2745,7 +2715,7 @@
     "postalCode": "04210"
   },
   {
-    "id": 184,
+    "id": 182,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2760,7 +2730,7 @@
     "postalCode": "04650"
   },
   {
-    "id": 185,
+    "id": 183,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2775,7 +2745,7 @@
     "postalCode": "04110"
   },
   {
-    "id": 186,
+    "id": 184,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2790,7 +2760,7 @@
     "postalCode": "04010"
   },
   {
-    "id": 187,
+    "id": 185,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2805,7 +2775,7 @@
     "postalCode": "04020"
   },
   {
-    "id": 188,
+    "id": 186,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2820,7 +2790,7 @@
     "postalCode": "04600"
   },
   {
-    "id": 189,
+    "id": 187,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2835,7 +2805,7 @@
     "postalCode": "04100"
   },
   {
-    "id": 190,
+    "id": 188,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2847,10 +2817,10 @@
     "townshipNameMm": "မင်းလှ",
     "latitude": 19.96559,
     "longitude": 95.0367,
-    "postalCode": "18090"
+    "postalCode": "04070"
   },
   {
-    "id": 191,
+    "id": 189,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2865,7 +2835,7 @@
     "postalCode": "04190"
   },
   {
-    "id": 192,
+    "id": 190,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2880,7 +2850,7 @@
     "postalCode": "04130"
   },
   {
-    "id": 193,
+    "id": 191,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2895,7 +2865,7 @@
     "postalCode": "04120"
   },
   {
-    "id": 194,
+    "id": 192,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2910,7 +2880,7 @@
     "postalCode": "04060"
   },
   {
-    "id": 195,
+    "id": 193,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2922,10 +2892,10 @@
     "townshipNameMm": "ကမ္မ",
     "latitude": 21.38358,
     "longitude": 94.81558,
-    "postalCode": "04110"
+    "postalCode": "04630"
   },
   {
-    "id": 196,
+    "id": 194,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2940,7 +2910,7 @@
     "postalCode": "04640"
   },
   {
-    "id": 197,
+    "id": 195,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2955,7 +2925,7 @@
     "postalCode": "04200"
   },
   {
-    "id": 198,
+    "id": 196,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2970,7 +2940,7 @@
     "postalCode": "04230"
   },
   {
-    "id": 199,
+    "id": 197,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -2985,7 +2955,7 @@
     "postalCode": "04030"
   },
   {
-    "id": 200,
+    "id": 198,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3000,7 +2970,7 @@
     "postalCode": "04040"
   },
   {
-    "id": 201,
+    "id": 199,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3015,7 +2985,7 @@
     "postalCode": "04610"
   },
   {
-    "id": 202,
+    "id": 200,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3030,7 +3000,7 @@
     "postalCode": "04660"
   },
   {
-    "id": 203,
+    "id": 201,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3045,7 +3015,7 @@
     "postalCode": "04240"
   },
   {
-    "id": 204,
+    "id": 202,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3060,7 +3030,7 @@
     "postalCode": "04250"
   },
   {
-    "id": 205,
+    "id": 203,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3075,7 +3045,7 @@
     "postalCode": "04050"
   },
   {
-    "id": 206,
+    "id": 204,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3090,7 +3060,7 @@
     "postalCode": "04080"
   },
   {
-    "id": 207,
+    "id": 205,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3105,7 +3075,7 @@
     "postalCode": "04140"
   },
   {
-    "id": 208,
+    "id": 206,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3120,7 +3090,7 @@
     "postalCode": "04090"
   },
   {
-    "id": 209,
+    "id": 207,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3135,7 +3105,7 @@
     "postalCode": "04220"
   },
   {
-    "id": 210,
+    "id": 208,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3150,7 +3120,7 @@
     "postalCode": "04160"
   },
   {
-    "id": 211,
+    "id": 209,
     "regionCode": "MMR009",
     "regionNameEn": "Magway",
     "regionNameMm": "မကွေးတိုင်းဒေသကြီး",
@@ -3165,7 +3135,7 @@
     "postalCode": "04180"
   },
   {
-    "id": 212,
+    "id": 210,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3180,7 +3150,7 @@
     "postalCode": "05060"
   },
   {
-    "id": 213,
+    "id": 211,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3195,7 +3165,7 @@
     "postalCode": "05600"
   },
   {
-    "id": 214,
+    "id": 212,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3210,7 +3180,7 @@
     "postalCode": "05010"
   },
   {
-    "id": 215,
+    "id": 213,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3225,7 +3195,7 @@
     "postalCode": "05020"
   },
   {
-    "id": 216,
+    "id": 214,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3240,7 +3210,7 @@
     "postalCode": "05040"
   },
   {
-    "id": 217,
+    "id": 215,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3255,7 +3225,7 @@
     "postalCode": "05240"
   },
   {
-    "id": 218,
+    "id": 216,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3270,7 +3240,7 @@
     "postalCode": "05150"
   },
   {
-    "id": 219,
+    "id": 217,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3285,7 +3255,7 @@
     "postalCode": "05120"
   },
   {
-    "id": 220,
+    "id": 218,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3300,7 +3270,7 @@
     "postalCode": "05030"
   },
   {
-    "id": 221,
+    "id": 219,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3315,7 +3285,7 @@
     "postalCode": "05200"
   },
   {
-    "id": 222,
+    "id": 220,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3330,7 +3300,7 @@
     "postalCode": "05180"
   },
   {
-    "id": 223,
+    "id": 221,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3345,7 +3315,7 @@
     "postalCode": "05090"
   },
   {
-    "id": 224,
+    "id": 222,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3360,7 +3330,7 @@
     "postalCode": "05250"
   },
   {
-    "id": 225,
+    "id": 223,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3375,7 +3345,7 @@
     "postalCode": "05650"
   },
   {
-    "id": 226,
+    "id": 224,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3390,7 +3360,7 @@
     "postalCode": "05620"
   },
   {
-    "id": 227,
+    "id": 225,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3405,7 +3375,7 @@
     "postalCode": "05160"
   },
   {
-    "id": 228,
+    "id": 226,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3420,7 +3390,7 @@
     "postalCode": "05260"
   },
   {
-    "id": 229,
+    "id": 227,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3435,7 +3405,7 @@
     "postalCode": "05280"
   },
   {
-    "id": 230,
+    "id": 228,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3450,7 +3420,7 @@
     "postalCode": "05630"
   },
   {
-    "id": 231,
+    "id": 229,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3465,7 +3435,7 @@
     "postalCode": "05640"
   },
   {
-    "id": 232,
+    "id": 230,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3480,7 +3450,7 @@
     "postalCode": "05230"
   },
   {
-    "id": 233,
+    "id": 231,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3495,7 +3465,7 @@
     "postalCode": "05070"
   },
   {
-    "id": 234,
+    "id": 232,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3510,7 +3480,7 @@
     "postalCode": "05210"
   },
   {
-    "id": 235,
+    "id": 233,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3525,7 +3495,7 @@
     "postalCode": "05050"
   },
   {
-    "id": 236,
+    "id": 234,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3540,7 +3510,7 @@
     "postalCode": "05080"
   },
   {
-    "id": 237,
+    "id": 235,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3555,7 +3525,7 @@
     "postalCode": "05110"
   },
   {
-    "id": 238,
+    "id": 236,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3570,7 +3540,7 @@
     "postalCode": "05140"
   },
   {
-    "id": 239,
+    "id": 237,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3585,7 +3555,7 @@
     "postalCode": "05130"
   },
   {
-    "id": 240,
+    "id": 238,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3600,7 +3570,7 @@
     "postalCode": "05270"
   },
   {
-    "id": 241,
+    "id": 239,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3615,7 +3585,7 @@
     "postalCode": "05610"
   },
   {
-    "id": 242,
+    "id": 240,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3630,7 +3600,7 @@
     "postalCode": "05100"
   },
   {
-    "id": 243,
+    "id": 241,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3645,7 +3615,7 @@
     "postalCode": "05190"
   },
   {
-    "id": 244,
+    "id": 242,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3660,7 +3630,7 @@
     "postalCode": "05170"
   },
   {
-    "id": 245,
+    "id": 243,
     "regionCode": "MMR010",
     "regionNameEn": "Mandalay",
     "regionNameMm": "မန္တလေးတိုင်းဒေသကြီး",
@@ -3675,7 +3645,7 @@
     "postalCode": "05220"
   },
   {
-    "id": 246,
+    "id": 244,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3690,7 +3660,7 @@
     "postalCode": "12030"
   },
   {
-    "id": 247,
+    "id": 245,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3705,7 +3675,7 @@
     "postalCode": "12060"
   },
   {
-    "id": 248,
+    "id": 246,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3720,7 +3690,7 @@
     "postalCode": "12070"
   },
   {
-    "id": 249,
+    "id": 247,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3735,7 +3705,7 @@
     "postalCode": "12020"
   },
   {
-    "id": 250,
+    "id": 248,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3750,7 +3720,7 @@
     "postalCode": "12600"
   },
   {
-    "id": 251,
+    "id": 249,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3765,7 +3735,7 @@
     "postalCode": "12010"
   },
   {
-    "id": 252,
+    "id": 250,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3780,7 +3750,7 @@
     "postalCode": "12630"
   },
   {
-    "id": 253,
+    "id": 251,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3795,7 +3765,7 @@
     "postalCode": "12080"
   },
   {
-    "id": 254,
+    "id": 252,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3810,7 +3780,7 @@
     "postalCode": "12050"
   },
   {
-    "id": 255,
+    "id": 253,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3825,7 +3795,7 @@
     "postalCode": "12620"
   },
   {
-    "id": 256,
+    "id": 254,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3840,7 +3810,7 @@
     "postalCode": "12640"
   },
   {
-    "id": 257,
+    "id": 255,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3855,7 +3825,7 @@
     "postalCode": "12090"
   },
   {
-    "id": 258,
+    "id": 256,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3870,7 +3840,7 @@
     "postalCode": "12040"
   },
   {
-    "id": 259,
+    "id": 257,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3885,7 +3855,7 @@
     "postalCode": "12610"
   },
   {
-    "id": 260,
+    "id": 258,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3900,7 +3870,7 @@
     "postalCode": "12660"
   },
   {
-    "id": 261,
+    "id": 259,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3915,7 +3885,7 @@
     "postalCode": "12650"
   },
   {
-    "id": 262,
+    "id": 260,
     "regionCode": "MMR011",
     "regionNameEn": "Mon",
     "regionNameMm": "မွန်ပြည်နယ်",
@@ -3930,7 +3900,7 @@
     "postalCode": "12100"
   },
   {
-    "id": 263,
+    "id": 261,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3945,7 +3915,7 @@
     "postalCode": "15060"
   },
   {
-    "id": 264,
+    "id": 262,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3960,7 +3930,7 @@
     "postalCode": "15040"
   },
   {
-    "id": 265,
+    "id": 263,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3975,7 +3945,7 @@
     "postalCode": "15080"
   },
   {
-    "id": 266,
+    "id": 264,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -3990,7 +3960,7 @@
     "postalCode": "15070"
   },
   {
-    "id": 267,
+    "id": 265,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -4005,7 +3975,7 @@
     "postalCode": "15020"
   },
   {
-    "id": 268,
+    "id": 266,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -4020,7 +3990,7 @@
     "postalCode": "15030"
   },
   {
-    "id": 269,
+    "id": 267,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -4035,7 +4005,7 @@
     "postalCode": "15010"
   },
   {
-    "id": 270,
+    "id": 268,
     "regionCode": "MMR018",
     "regionNameEn": "Nay Pyi Taw",
     "regionNameMm": "နေပြည်တော်",
@@ -4050,7 +4020,7 @@
     "postalCode": "15050"
   },
   {
-    "id": 271,
+    "id": 269,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4065,7 +4035,7 @@
     "postalCode": "07150"
   },
   {
-    "id": 272,
+    "id": 270,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4080,7 +4050,7 @@
     "postalCode": "07660"
   },
   {
-    "id": 273,
+    "id": 271,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4095,7 +4065,7 @@
     "postalCode": "07030"
   },
   {
-    "id": 274,
+    "id": 272,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4110,7 +4080,7 @@
     "postalCode": "07070"
   },
   {
-    "id": 275,
+    "id": 273,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4125,7 +4095,7 @@
     "postalCode": "07700"
   },
   {
-    "id": 276,
+    "id": 274,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4140,7 +4110,7 @@
     "postalCode": "07120"
   },
   {
-    "id": 277,
+    "id": 275,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4155,7 +4125,7 @@
     "postalCode": "07640"
   },
   {
-    "id": 278,
+    "id": 276,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4170,7 +4140,7 @@
     "postalCode": "07060"
   },
   {
-    "id": 279,
+    "id": 277,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4185,7 +4155,7 @@
     "postalCode": "07610"
   },
   {
-    "id": 280,
+    "id": 278,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4200,7 +4170,7 @@
     "postalCode": "07020"
   },
   {
-    "id": 281,
+    "id": 279,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4215,7 +4185,7 @@
     "postalCode": "07620"
   },
   {
-    "id": 282,
+    "id": 280,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4230,7 +4200,7 @@
     "postalCode": "07600"
   },
   {
-    "id": 283,
+    "id": 281,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4245,7 +4215,7 @@
     "postalCode": "07090"
   },
   {
-    "id": 284,
+    "id": 282,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4260,7 +4230,7 @@
     "postalCode": "07100"
   },
   {
-    "id": 285,
+    "id": 283,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4275,7 +4245,7 @@
     "postalCode": "07140"
   },
   {
-    "id": 286,
+    "id": 284,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4290,7 +4260,7 @@
     "postalCode": "07630"
   },
   {
-    "id": 287,
+    "id": 285,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4305,7 +4275,7 @@
     "postalCode": "07110"
   },
   {
-    "id": 288,
+    "id": 286,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4320,7 +4290,7 @@
     "postalCode": "07080"
   },
   {
-    "id": 289,
+    "id": 287,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4335,7 +4305,7 @@
     "postalCode": "07050"
   },
   {
-    "id": 290,
+    "id": 288,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4350,7 +4320,7 @@
     "postalCode": "07650"
   },
   {
-    "id": 291,
+    "id": 289,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4365,7 +4335,7 @@
     "postalCode": "07130"
   },
   {
-    "id": 292,
+    "id": 290,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4380,7 +4350,7 @@
     "postalCode": "07040"
   },
   {
-    "id": 293,
+    "id": 291,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4395,7 +4365,7 @@
     "postalCode": "07010"
   },
   {
-    "id": 294,
+    "id": 292,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4410,7 +4380,7 @@
     "postalCode": "07690"
   },
   {
-    "id": 295,
+    "id": 293,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4425,7 +4395,7 @@
     "postalCode": "07170"
   },
   {
-    "id": 296,
+    "id": 294,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4440,7 +4410,7 @@
     "postalCode": "07670"
   },
   {
-    "id": 297,
+    "id": 295,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4455,7 +4425,7 @@
     "postalCode": "07680"
   },
   {
-    "id": 298,
+    "id": 296,
     "regionCode": "MMR012",
     "regionNameEn": "Rakhine",
     "regionNameMm": "ရခိုင်ပြည်နယ်",
@@ -4470,7 +4440,7 @@
     "postalCode": "07160"
   },
   {
-    "id": 299,
+    "id": 297,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4485,7 +4455,7 @@
     "postalCode": "02290"
   },
   {
-    "id": 300,
+    "id": 298,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4500,7 +4470,7 @@
     "postalCode": "02130"
   },
   {
-    "id": 301,
+    "id": 299,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4515,7 +4485,7 @@
     "postalCode": "02270"
   },
   {
-    "id": 302,
+    "id": 300,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4530,7 +4500,7 @@
     "postalCode": "02330"
   },
   {
-    "id": 303,
+    "id": 301,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4545,7 +4515,7 @@
     "postalCode": "02030"
   },
   {
-    "id": 304,
+    "id": 302,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4560,7 +4530,7 @@
     "postalCode": "02050"
   },
   {
-    "id": 305,
+    "id": 303,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4575,7 +4545,7 @@
     "postalCode": "02650"
   },
   {
-    "id": 306,
+    "id": 304,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4590,7 +4560,7 @@
     "postalCode": "02140"
   },
   {
-    "id": 307,
+    "id": 305,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4605,7 +4575,7 @@
     "postalCode": "02680"
   },
   {
-    "id": 308,
+    "id": 306,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4620,7 +4590,7 @@
     "postalCode": "02090"
   },
   {
-    "id": 309,
+    "id": 307,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4635,7 +4605,7 @@
     "postalCode": "02100"
   },
   {
-    "id": 310,
+    "id": 308,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4650,7 +4620,7 @@
     "postalCode": "02210"
   },
   {
-    "id": 311,
+    "id": 309,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4665,7 +4635,7 @@
     "postalCode": "02690"
   },
   {
-    "id": 312,
+    "id": 310,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4680,7 +4650,7 @@
     "postalCode": "02120"
   },
   {
-    "id": 313,
+    "id": 311,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4695,7 +4665,7 @@
     "postalCode": "02150"
   },
   {
-    "id": 314,
+    "id": 312,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4710,7 +4680,7 @@
     "postalCode": "02180"
   },
   {
-    "id": 315,
+    "id": 313,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4725,7 +4695,7 @@
     "postalCode": "02230"
   },
   {
-    "id": 316,
+    "id": 314,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4740,7 +4710,7 @@
     "postalCode": "02200"
   },
   {
-    "id": 317,
+    "id": 315,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4755,7 +4725,7 @@
     "postalCode": "02080"
   },
   {
-    "id": 318,
+    "id": 316,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4770,7 +4740,7 @@
     "postalCode": "02110"
   },
   {
-    "id": 319,
+    "id": 317,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4785,7 +4755,7 @@
     "postalCode": "02300"
   },
   {
-    "id": 320,
+    "id": 318,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4800,7 +4770,7 @@
     "postalCode": "02360"
   },
   {
-    "id": 321,
+    "id": 319,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4815,7 +4785,7 @@
     "postalCode": "02340"
   },
   {
-    "id": 322,
+    "id": 320,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4830,7 +4800,7 @@
     "postalCode": "02350"
   },
   {
-    "id": 323,
+    "id": 321,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4845,7 +4815,7 @@
     "postalCode": "02060"
   },
   {
-    "id": 324,
+    "id": 322,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4860,7 +4830,7 @@
     "postalCode": "02160"
   },
   {
-    "id": 325,
+    "id": 323,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4875,7 +4845,7 @@
     "postalCode": "02370"
   },
   {
-    "id": 326,
+    "id": 324,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4890,7 +4860,7 @@
     "postalCode": "02720"
   },
   {
-    "id": 327,
+    "id": 325,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4905,7 +4875,7 @@
     "postalCode": "02320"
   },
   {
-    "id": 328,
+    "id": 326,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4920,7 +4890,7 @@
     "postalCode": "02710"
   },
   {
-    "id": 329,
+    "id": 327,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4935,7 +4905,7 @@
     "postalCode": "02260"
   },
   {
-    "id": 330,
+    "id": 328,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4950,7 +4920,7 @@
     "postalCode": "02700"
   },
   {
-    "id": 331,
+    "id": 329,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4965,7 +4935,7 @@
     "postalCode": "02250"
   },
   {
-    "id": 332,
+    "id": 330,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4980,7 +4950,7 @@
     "postalCode": "02670"
   },
   {
-    "id": 333,
+    "id": 331,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -4992,10 +4962,10 @@
     "townshipNameMm": "မြို့သစ်",
     "latitude": 24.51539,
     "longitude": 94.51857,
-    "postalCode": "04130"
+    "postalCode": "02660"
   },
   {
-    "id": 334,
+    "id": 332,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5010,7 +4980,7 @@
     "postalCode": "02070"
   },
   {
-    "id": 335,
+    "id": 333,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5025,7 +4995,7 @@
     "postalCode": "02220"
   },
   {
-    "id": 336,
+    "id": 334,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5040,7 +5010,7 @@
     "postalCode": "02190"
   },
   {
-    "id": 337,
+    "id": 335,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5055,7 +5025,7 @@
     "postalCode": "02280"
   },
   {
-    "id": 338,
+    "id": 336,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5070,7 +5040,7 @@
     "postalCode": "02170"
   },
   {
-    "id": 339,
+    "id": 337,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5085,7 +5055,7 @@
     "postalCode": "02240"
   },
   {
-    "id": 340,
+    "id": 338,
     "regionCode": "MMR005",
     "regionNameEn": "Sagaing",
     "regionNameMm": "စစ်ကိုင်းတိုင်းဒေသကြီး",
@@ -5100,7 +5070,7 @@
     "postalCode": "02310"
   },
   {
-    "id": 341,
+    "id": 339,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5115,7 +5085,7 @@
     "postalCode": "17010"
   },
   {
-    "id": 342,
+    "id": 340,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5130,7 +5100,7 @@
     "postalCode": "17090"
   },
   {
-    "id": 343,
+    "id": 341,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5145,7 +5115,7 @@
     "postalCode": "17050"
   },
   {
-    "id": 344,
+    "id": 342,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5160,7 +5130,7 @@
     "postalCode": "17600"
   },
   {
-    "id": 345,
+    "id": 343,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5175,7 +5145,7 @@
     "postalCode": "17020"
   },
   {
-    "id": 346,
+    "id": 344,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5190,7 +5160,7 @@
     "postalCode": "17040"
   },
   {
-    "id": 347,
+    "id": 345,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5205,7 +5175,7 @@
     "postalCode": "17060"
   },
   {
-    "id": 348,
+    "id": 346,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5220,7 +5190,7 @@
     "postalCode": "17610"
   },
   {
-    "id": 349,
+    "id": 347,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5235,7 +5205,7 @@
     "postalCode": "17630"
   },
   {
-    "id": 350,
+    "id": 348,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5250,7 +5220,7 @@
     "postalCode": "17070"
   },
   {
-    "id": 351,
+    "id": 349,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5265,7 +5235,7 @@
     "postalCode": "17620"
   },
   {
-    "id": 352,
+    "id": 350,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5280,7 +5250,7 @@
     "postalCode": "17030"
   },
   {
-    "id": 353,
+    "id": 351,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5295,7 +5265,7 @@
     "postalCode": "17100"
   },
   {
-    "id": 354,
+    "id": 352,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5310,7 +5280,7 @@
     "postalCode": "17660"
   },
   {
-    "id": 355,
+    "id": 353,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5325,7 +5295,7 @@
     "postalCode": "17640"
   },
   {
-    "id": 356,
+    "id": 354,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5340,7 +5310,7 @@
     "postalCode": "17080"
   },
   {
-    "id": 357,
+    "id": 355,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5355,7 +5325,7 @@
     "postalCode": "17650"
   },
   {
-    "id": 358,
+    "id": 356,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5370,7 +5340,7 @@
     "postalCode": "16210"
   },
   {
-    "id": 359,
+    "id": 357,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5385,7 +5355,7 @@
     "postalCode": "16680"
   },
   {
-    "id": 360,
+    "id": 358,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5400,7 +5370,7 @@
     "postalCode": "16020"
   },
   {
-    "id": 361,
+    "id": 359,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5415,7 +5385,7 @@
     "postalCode": "16140"
   },
   {
-    "id": 362,
+    "id": 360,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5430,7 +5400,7 @@
     "postalCode": "16230"
   },
   {
-    "id": 363,
+    "id": 361,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5445,7 +5415,7 @@
     "postalCode": "16700"
   },
   {
-    "id": 364,
+    "id": 362,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5460,7 +5430,7 @@
     "postalCode": "16200"
   },
   {
-    "id": 365,
+    "id": 363,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5475,7 +5445,7 @@
     "postalCode": "16110"
   },
   {
-    "id": 366,
+    "id": 364,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5490,7 +5460,7 @@
     "postalCode": "16640"
   },
   {
-    "id": 367,
+    "id": 365,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5505,7 +5475,7 @@
     "postalCode": "16120"
   },
   {
-    "id": 368,
+    "id": 366,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5520,7 +5490,7 @@
     "postalCode": "16660"
   },
   {
-    "id": 369,
+    "id": 367,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5535,7 +5505,7 @@
     "postalCode": "16650"
   },
   {
-    "id": 370,
+    "id": 368,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5550,7 +5520,7 @@
     "postalCode": "16010"
   },
   {
-    "id": 371,
+    "id": 369,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5565,7 +5535,7 @@
     "postalCode": "16690"
   },
   {
-    "id": 372,
+    "id": 370,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5580,7 +5550,7 @@
     "postalCode": "16220"
   },
   {
-    "id": 373,
+    "id": 371,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5595,7 +5565,7 @@
     "postalCode": "16180"
   },
   {
-    "id": 374,
+    "id": 372,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5610,7 +5580,7 @@
     "postalCode": "16190"
   },
   {
-    "id": 375,
+    "id": 373,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5625,7 +5595,7 @@
     "postalCode": "16240"
   },
   {
-    "id": 376,
+    "id": 374,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5640,7 +5610,7 @@
     "postalCode": "16170"
   },
   {
-    "id": 377,
+    "id": 375,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5655,7 +5625,7 @@
     "postalCode": "16030"
   },
   {
-    "id": 378,
+    "id": 376,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5670,7 +5640,7 @@
     "postalCode": "16620"
   },
   {
-    "id": 379,
+    "id": 377,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5685,7 +5655,7 @@
     "postalCode": "16610"
   },
   {
-    "id": 380,
+    "id": 378,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5700,7 +5670,7 @@
     "postalCode": "16090"
   },
   {
-    "id": 381,
+    "id": 379,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5715,7 +5685,7 @@
     "postalCode": "16630"
   },
   {
-    "id": 382,
+    "id": 380,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5730,7 +5700,7 @@
     "postalCode": "16670"
   },
   {
-    "id": 383,
+    "id": 381,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5745,7 +5715,7 @@
     "postalCode": "16100"
   },
   {
-    "id": 384,
+    "id": 382,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5760,7 +5730,7 @@
     "postalCode": "16160"
   },
   {
-    "id": 385,
+    "id": 383,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5775,7 +5745,7 @@
     "postalCode": "16150"
   },
   {
-    "id": 386,
+    "id": 384,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5790,7 +5760,7 @@
     "postalCode": "16130"
   },
   {
-    "id": 387,
+    "id": 385,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5805,7 +5775,7 @@
     "postalCode": "16600"
   },
   {
-    "id": 388,
+    "id": 386,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5820,7 +5790,7 @@
     "postalCode": "16050"
   },
   {
-    "id": 389,
+    "id": 387,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5835,7 +5805,7 @@
     "postalCode": "16040"
   },
   {
-    "id": 390,
+    "id": 388,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5850,7 +5820,7 @@
     "postalCode": "06090"
   },
   {
-    "id": 391,
+    "id": 389,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5865,7 +5835,7 @@
     "postalCode": "06100"
   },
   {
-    "id": 392,
+    "id": 390,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5880,7 +5850,7 @@
     "postalCode": "06630"
   },
   {
-    "id": 393,
+    "id": 391,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5895,7 +5865,7 @@
     "postalCode": "06640"
   },
   {
-    "id": 394,
+    "id": 392,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5910,7 +5880,7 @@
     "postalCode": "06020"
   },
   {
-    "id": 395,
+    "id": 393,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5925,7 +5895,7 @@
     "postalCode": "06740"
   },
   {
-    "id": 396,
+    "id": 394,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5940,7 +5910,7 @@
     "postalCode": "06210"
   },
   {
-    "id": 397,
+    "id": 395,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5955,7 +5925,7 @@
     "postalCode": "06150"
   },
   {
-    "id": 398,
+    "id": 396,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5970,7 +5940,7 @@
     "postalCode": "06700"
   },
   {
-    "id": 399,
+    "id": 397,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -5985,7 +5955,7 @@
     "postalCode": "06120"
   },
   {
-    "id": 400,
+    "id": 398,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6000,7 +5970,7 @@
     "postalCode": "06730"
   },
   {
-    "id": 401,
+    "id": 399,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6015,7 +5985,7 @@
     "postalCode": "06190"
   },
   {
-    "id": 402,
+    "id": 400,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6030,7 +6000,7 @@
     "postalCode": "06670"
   },
   {
-    "id": 403,
+    "id": 401,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6045,7 +6015,7 @@
     "postalCode": "06070"
   },
   {
-    "id": 404,
+    "id": 402,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6060,7 +6030,7 @@
     "postalCode": "06110"
   },
   {
-    "id": 405,
+    "id": 403,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6075,7 +6045,7 @@
     "postalCode": "06680"
   },
   {
-    "id": 406,
+    "id": 404,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6090,7 +6060,7 @@
     "postalCode": "06180"
   },
   {
-    "id": 407,
+    "id": 405,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6105,7 +6075,7 @@
     "postalCode": "06140"
   },
   {
-    "id": 408,
+    "id": 406,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6120,7 +6090,7 @@
     "postalCode": "06690"
   },
   {
-    "id": 409,
+    "id": 407,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6135,7 +6105,7 @@
     "postalCode": "06130"
   },
   {
-    "id": 410,
+    "id": 408,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6150,7 +6120,7 @@
     "postalCode": "06720"
   },
   {
-    "id": 411,
+    "id": 409,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6165,7 +6135,7 @@
     "postalCode": "06170"
   },
   {
-    "id": 412,
+    "id": 410,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6180,7 +6150,7 @@
     "postalCode": "06200"
   },
   {
-    "id": 413,
+    "id": 411,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6195,7 +6165,7 @@
     "postalCode": "06710"
   },
   {
-    "id": 414,
+    "id": 412,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6210,7 +6180,7 @@
     "postalCode": "06160"
   },
   {
-    "id": 415,
+    "id": 413,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6225,7 +6195,7 @@
     "postalCode": "06750"
   },
   {
-    "id": 416,
+    "id": 414,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6240,7 +6210,7 @@
     "postalCode": "06080"
   },
   {
-    "id": 417,
+    "id": 415,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6255,7 +6225,7 @@
     "postalCode": "06060"
   },
   {
-    "id": 418,
+    "id": 416,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6270,7 +6240,7 @@
     "postalCode": "06030"
   },
   {
-    "id": 419,
+    "id": 417,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6285,7 +6255,7 @@
     "postalCode": "06650"
   },
   {
-    "id": 420,
+    "id": 418,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6300,7 +6270,7 @@
     "postalCode": "06660"
   },
   {
-    "id": 421,
+    "id": 419,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6315,7 +6285,7 @@
     "postalCode": "06050"
   },
   {
-    "id": 422,
+    "id": 420,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6330,7 +6300,7 @@
     "postalCode": "06610"
   },
   {
-    "id": 423,
+    "id": 421,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6345,7 +6315,7 @@
     "postalCode": "06620"
   },
   {
-    "id": 424,
+    "id": 422,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6360,7 +6330,7 @@
     "postalCode": "06600"
   },
   {
-    "id": 425,
+    "id": 423,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6375,7 +6345,7 @@
     "postalCode": "06010"
   },
   {
-    "id": 426,
+    "id": 424,
     "regionCode": "MMR014",
     "regionNameEn": "Shan",
     "regionNameMm": "ရှမ်းပြည်နယ်",
@@ -6390,7 +6360,7 @@
     "postalCode": "06040"
   },
   {
-    "id": 427,
+    "id": 425,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6405,7 +6375,7 @@
     "postalCode": "14080"
   },
   {
-    "id": 428,
+    "id": 426,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6420,7 +6390,7 @@
     "postalCode": "14660"
   },
   {
-    "id": 429,
+    "id": 427,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6435,7 +6405,7 @@
     "postalCode": "14650"
   },
   {
-    "id": 430,
+    "id": 428,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6450,7 +6420,7 @@
     "postalCode": "14010"
   },
   {
-    "id": 431,
+    "id": 429,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6465,7 +6435,7 @@
     "postalCode": "14600"
   },
   {
-    "id": 432,
+    "id": 430,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6480,7 +6450,7 @@
     "postalCode": "14090"
   },
   {
-    "id": 433,
+    "id": 431,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6495,7 +6465,7 @@
     "postalCode": "14670"
   },
   {
-    "id": 434,
+    "id": 432,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6510,7 +6480,7 @@
     "postalCode": "14100"
   },
   {
-    "id": 435,
+    "id": 433,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6525,7 +6495,7 @@
     "postalCode": "14040"
   },
   {
-    "id": 436,
+    "id": 434,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6540,7 +6510,7 @@
     "postalCode": "14050"
   },
   {
-    "id": 437,
+    "id": 435,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6555,7 +6525,7 @@
     "postalCode": "14630"
   },
   {
-    "id": 438,
+    "id": 436,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6570,7 +6540,7 @@
     "postalCode": "14620"
   },
   {
-    "id": 439,
+    "id": 437,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6585,7 +6555,7 @@
     "postalCode": "14060"
   },
   {
-    "id": 440,
+    "id": 438,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6600,7 +6570,7 @@
     "postalCode": "14640"
   },
   {
-    "id": 441,
+    "id": 439,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6615,7 +6585,7 @@
     "postalCode": "14070"
   },
   {
-    "id": 442,
+    "id": 440,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6630,7 +6600,7 @@
     "postalCode": "14030"
   },
   {
-    "id": 443,
+    "id": 441,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6645,7 +6615,7 @@
     "postalCode": "14610"
   },
   {
-    "id": 444,
+    "id": 442,
     "regionCode": "MMR006",
     "regionNameEn": "Tanintharyi",
     "regionNameMm": "တနင်္သာရီတိုင်းဒေသကြီး",
@@ -6660,7 +6630,7 @@
     "postalCode": "14020"
   },
   {
-    "id": 445,
+    "id": 443,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6675,7 +6645,7 @@
     "postalCode": "11120"
   },
   {
-    "id": 446,
+    "id": 444,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6690,7 +6660,7 @@
     "postalCode": "11200"
   },
   {
-    "id": 447,
+    "id": 445,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6705,7 +6675,7 @@
     "postalCode": "11160"
   },
   {
-    "id": 448,
+    "id": 446,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6720,7 +6690,7 @@
     "postalCode": "11280"
   },
   {
-    "id": 449,
+    "id": 447,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6735,7 +6705,7 @@
     "postalCode": "11190"
   },
   {
-    "id": 450,
+    "id": 448,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6750,7 +6720,7 @@
     "postalCode": "11450"
   },
   {
-    "id": 451,
+    "id": 449,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6765,7 +6735,7 @@
     "postalCode": "11420"
   },
   {
-    "id": 452,
+    "id": 450,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6780,7 +6750,7 @@
     "postalCode": "11440"
   },
   {
-    "id": 453,
+    "id": 451,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6795,7 +6765,7 @@
     "postalCode": "11430"
   },
   {
-    "id": 454,
+    "id": 452,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6810,7 +6780,7 @@
     "postalCode": "11260"
   },
   {
-    "id": 455,
+    "id": 453,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6825,7 +6795,7 @@
     "postalCode": "11240"
   },
   {
-    "id": 456,
+    "id": 454,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6840,7 +6810,7 @@
     "postalCode": "11050"
   },
   {
-    "id": 457,
+    "id": 455,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6855,7 +6825,7 @@
     "postalCode": "11400"
   },
   {
-    "id": 458,
+    "id": 456,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6870,7 +6840,7 @@
     "postalCode": "11410"
   },
   {
-    "id": 459,
+    "id": 457,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6885,7 +6855,7 @@
     "postalCode": "11370"
   },
   {
-    "id": 460,
+    "id": 458,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6900,7 +6870,7 @@
     "postalCode": "11360"
   },
   {
-    "id": 461,
+    "id": 459,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6915,7 +6885,7 @@
     "postalCode": "08130"
   },
   {
-    "id": 462,
+    "id": 460,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6930,7 +6900,7 @@
     "postalCode": "11010"
   },
   {
-    "id": 463,
+    "id": 461,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6945,7 +6915,7 @@
     "postalCode": "11040"
   },
   {
-    "id": 464,
+    "id": 462,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6960,7 +6930,7 @@
     "postalCode": "11350"
   },
   {
-    "id": 465,
+    "id": 463,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6975,7 +6945,7 @@
     "postalCode": "11320"
   },
   {
-    "id": 466,
+    "id": 464,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -6990,7 +6960,7 @@
     "postalCode": "11340"
   },
   {
-    "id": 467,
+    "id": 465,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7005,7 +6975,7 @@
     "postalCode": "11180"
   },
   {
-    "id": 468,
+    "id": 466,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7020,7 +6990,7 @@
     "postalCode": "11300"
   },
   {
-    "id": 469,
+    "id": 467,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7035,7 +7005,7 @@
     "postalCode": "11610"
   },
   {
-    "id": 470,
+    "id": 468,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7050,7 +7020,7 @@
     "postalCode": "11100"
   },
   {
-    "id": 471,
+    "id": 469,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7065,7 +7035,7 @@
     "postalCode": "11130"
   },
   {
-    "id": 472,
+    "id": 470,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7080,7 +7050,7 @@
     "postalCode": "11150"
   },
   {
-    "id": 473,
+    "id": 471,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7095,7 +7065,7 @@
     "postalCode": "11060"
   },
   {
-    "id": 474,
+    "id": 472,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7110,7 +7080,7 @@
     "postalCode": "11600"
   },
   {
-    "id": 475,
+    "id": 473,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7125,7 +7095,7 @@
     "postalCode": "11020"
   },
   {
-    "id": 476,
+    "id": 474,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7140,7 +7110,7 @@
     "postalCode": "11220"
   },
   {
-    "id": 477,
+    "id": 475,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7155,7 +7125,7 @@
     "postalCode": "11030"
   },
   {
-    "id": 478,
+    "id": 476,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7170,7 +7140,7 @@
     "postalCode": "11140"
   },
   {
-    "id": 479,
+    "id": 477,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7185,7 +7155,7 @@
     "postalCode": "11170"
   },
   {
-    "id": 480,
+    "id": 478,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7200,7 +7170,7 @@
     "postalCode": "11110"
   },
   {
-    "id": 481,
+    "id": 479,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7215,22 +7185,7 @@
     "postalCode": "11270"
   },
   {
-    "id": 482,
-    "regionCode": "MMR013",
-    "regionNameEn": "Yangon",
-    "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
-    "districtCode": "MMR013D004",
-    "districtNameEn": "Yangon (West)",
-    "districtNameMm": "ရန်ကုန်(အနောက်ပိုင်း)",
-    "townshipCode": "MMR013045701",
-    "townshipNameEn": "Seikkan",
-    "townshipNameMm": "ဆိပ်ကမ်း",
-    "latitude": 16.7704,
-    "longitude": 96.15505,
-    "postalCode": "11440"
-  },
-  {
-    "id": 483,
+    "id": 480,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7245,7 +7200,7 @@
     "postalCode": "11250"
   },
   {
-    "id": 484,
+    "id": 481,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7260,7 +7215,7 @@
     "postalCode": "11090"
   },
   {
-    "id": 485,
+    "id": 482,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7275,7 +7230,7 @@
     "postalCode": "11630"
   },
   {
-    "id": 486,
+    "id": 483,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7290,7 +7245,7 @@
     "postalCode": "11620"
   },
   {
-    "id": 487,
+    "id": 484,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7305,7 +7260,7 @@
     "postalCode": "11380"
   },
   {
-    "id": 488,
+    "id": 485,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7320,7 +7275,7 @@
     "postalCode": "11210"
   },
   {
-    "id": 489,
+    "id": 486,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7335,7 +7290,7 @@
     "postalCode": "11230"
   },
   {
-    "id": 490,
+    "id": 487,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7350,7 +7305,7 @@
     "postalCode": "11290"
   },
   {
-    "id": 491,
+    "id": 488,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7365,7 +7320,7 @@
     "postalCode": "11070"
   },
   {
-    "id": 492,
+    "id": 489,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7380,7 +7335,7 @@
     "postalCode": "11310"
   },
   {
-    "id": 493,
+    "id": 490,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",
@@ -7395,7 +7350,7 @@
     "postalCode": "11330"
   },
   {
-    "id": 494,
+    "id": 491,
     "regionCode": "MMR013",
     "regionNameEn": "Yangon",
     "regionNameMm": "ရန်ကုန်တိုင်းဒေသကြီး",

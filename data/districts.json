@@ -429,145 +429,110 @@
   {
     "id": 62,
     "regionCode": "MMR014",
-    "districtCode": "MMR015D004",
-    "districtNameEn": "Kunlong",
-    "districtNameMm": "ကွမ်းလုံခရိုင်"
-  },
-  {
-    "id": 63,
-    "regionCode": "MMR014",
     "districtCode": "MMR015D005",
     "districtNameEn": "Laukkaing",
     "districtNameMm": "လောက်ကိုင်ခရိုင်"
   },
   {
-    "id": 64,
+    "id": 63,
     "regionCode": "MMR014",
     "districtCode": "MMR015D006",
     "districtNameEn": "Hopang",
     "districtNameMm": "ဟိုပန်ခရိုင်"
   },
   {
-    "id": 65,
+    "id": 64,
     "regionCode": "MMR014",
     "districtCode": "MMR015D007",
     "districtNameEn": "Matman",
     "districtNameMm": "မက်မန်းခရိုင်"
   },
   {
-    "id": 66,
+    "id": 65,
     "regionCode": "MMR014",
     "districtCode": "MMR015D008",
     "districtNameEn": "Mongmit",
     "districtNameMm": "မိုးမိတ်ခရိုင်"
   },
   {
-    "id": 67,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D221",
-    "districtNameEn": "Laukkaing (Kokang SAZ)",
-    "districtNameMm": "လောက်ကိုင်-ကိုးကန့်အထူးဒေသ (၁)"
-  },
-  {
-    "id": 68,
+    "id": 66,
     "regionCode": "MMR014",
     "districtCode": "MMR015D331",
     "districtNameEn": "Mong Maw (Wa SAD)",
     "districtNameMm": "မိုင်းမော-ဝအထူးဒေသ (၂)"
   },
   {
-    "id": 69,
-    "regionCode": "MMR014",
-    "districtCode": "MMR015D332",
-    "districtNameEn": "Wein Kawng (Wein Kao) (Wa SAD)",
-    "districtNameMm": "ဝိန်းကောင်-ဝအထူးဒေသ (၂)"
-  },
-  {
-    "id": 70,
+    "id": 67,
     "regionCode": "MMR014",
     "districtCode": "MMR016D001",
     "districtNameEn": "Kengtung",
     "districtNameMm": "ကျိုင်းတုံခရိုင်"
   },
   {
-    "id": 71,
+    "id": 68,
     "regionCode": "MMR014",
     "districtCode": "MMR016D002",
     "districtNameEn": "Monghsat",
     "districtNameMm": "မိုင်းဆတ်ခရိုင်"
   },
   {
-    "id": 72,
+    "id": 69,
     "regionCode": "MMR014",
     "districtCode": "MMR016D003",
     "districtNameEn": "Tachileik",
     "districtNameMm": "တာချီလိတ်ခရိုင်"
   },
   {
-    "id": 73,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D004",
-    "districtNameEn": "Monghpyak",
-    "districtNameMm": "မိုင်းဖြတ်ခရိုင်"
-  },
-  {
-    "id": 74,
-    "regionCode": "MMR014",
-    "districtCode": "MMR016D333",
-    "districtNameEn": "Mong Pawk (Wa SAD)",
-    "districtNameMm": "မိုင်းပေါက်-ဝအထူးဒေသ (၂)"
-  },
-  {
-    "id": 75,
+    "id": 70,
     "regionCode": "MMR017",
     "districtCode": "MMR017D001",
     "districtNameEn": "Pathein",
     "districtNameMm": "ပုသိမ်ခရိုင်"
   },
   {
-    "id": 76,
+    "id": 71,
     "regionCode": "MMR017",
     "districtCode": "MMR017D002",
     "districtNameEn": "Hinthada",
     "districtNameMm": "ဟင်္သာတခရိုင်"
   },
   {
-    "id": 77,
+    "id": 72,
     "regionCode": "MMR017",
     "districtCode": "MMR017D003",
     "districtNameEn": "Myaungmya",
     "districtNameMm": "မြောင်းမြခရိုင်"
   },
   {
-    "id": 78,
+    "id": 73,
     "regionCode": "MMR017",
     "districtCode": "MMR017D004",
     "districtNameEn": "Labutta",
     "districtNameMm": "လပွတ္တာခရိုင်"
   },
   {
-    "id": 79,
+    "id": 74,
     "regionCode": "MMR017",
     "districtCode": "MMR017D005",
     "districtNameEn": "Maubin",
     "districtNameMm": "မအူပင်ခရိုင်"
   },
   {
-    "id": 80,
+    "id": 75,
     "regionCode": "MMR017",
     "districtCode": "MMR017D006",
     "districtNameEn": "Pyapon",
     "districtNameMm": "ဖျာပုံခရိုင်"
   },
   {
-    "id": 81,
+    "id": 76,
     "regionCode": "MMR018",
     "districtCode": "MMR018D001",
     "districtNameEn": "Oke Ta Ra",
     "districtNameMm": "ဥတ္တရခရိုင်"
   },
   {
-    "id": 82,
+    "id": 77,
     "regionCode": "MMR018",
     "districtCode": "MMR018D002",
     "districtNameEn": "Det Khi Na",
