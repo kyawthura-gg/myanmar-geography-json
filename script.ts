@@ -165,6 +165,59 @@ async function main() {
     console.error('generating geography.json failed')
     console.error(error)
   }
+
+  // update postal code
+  try {
+    const geographyList: any[] = await Bun.file('./data/geography.json', {
+      type: 'application/json',
+    }).json()
+
+    const postalCodeText = await Bun.file(
+      './csv/townships-postalcode.csv',
+    ).text()
+    const postalCodeList: any[] = parse(postalCodeText, { header: true })
+
+    const updateGeography = geographyList.map((v) => {
+      const postalCode = postalCodeList.find(
+        (p) => p['Township_Code'] === v.townshipCode,
+      )
+      if (!postalCode['Postal_Code']) {
+        console.log(
+          `postal code not found ${v.townshipNameEn} --- ${v.townshipCode}`,
+        )
+      }
+      return {
+        ...v,
+        postalCode: postalCode['Postal_Code'],
+      }
+    })
+
+    const updateTownship = updateGeography.map((v) => ({
+      id: v.id,
+      regionCode: v.regionCode,
+      districtCode: v.districtCode,
+      townshipCode: v.townshipCode,
+      townshipNameEn: v.townshipNameEn,
+      townshipNameMm: v.townshipNameMm,
+      longitude: v.longitude,
+      latitude: v.latitude,
+      postalCode: v.postalCode,
+    }))
+
+    await Bun.write(
+      './data/geography.json',
+      JSON.stringify(updateGeography, null, 2),
+    )
+    console.log('updated geography.json file')
+    await Bun.write(
+      './data/townships.json',
+      JSON.stringify(updateTownship, null, 2),
+    )
+    console.log('updated townships.json file')
+  } catch (error) {
+    console.error('updating postal code failed')
+    console.error(error)
+  }
 }
 
 main()
