@@ -132,3 +132,93 @@ test('all townships have a corresponding district', () => {
 
   expect(invalidTownshipDistricts.length).toBe(0)
 })
+
+test('find townships with same name (English or Myanmar) within a region', () => {
+  const townshipsByRegion: any = {}
+  for (const township of townships) {
+    const { regionCode, townshipNameEn, townshipNameMm } = township
+
+    if (!townshipsByRegion[regionCode]) {
+      townshipsByRegion[regionCode] = { en: {}, mm: {} }
+    }
+
+    if (townshipNameEn) {
+      if (!townshipsByRegion[regionCode].en[townshipNameEn]) {
+        townshipsByRegion[regionCode].en[townshipNameEn] = []
+      }
+      townshipsByRegion[regionCode].en[townshipNameEn].push(township)
+    }
+
+    if (townshipNameMm) {
+      if (!townshipsByRegion[regionCode].mm[townshipNameMm]) {
+        townshipsByRegion[regionCode].mm[townshipNameMm] = []
+      }
+      townshipsByRegion[regionCode].mm[townshipNameMm].push(township)
+    }
+  }
+
+  const regionsWithDuplicates: any[] = []
+
+  // Find duplicates
+  for (const regionCode in townshipsByRegion) {
+    const region = townshipsByRegion[regionCode]
+    const enDuplicates = []
+    const mmDuplicates = []
+
+    for (const enName in region.en) {
+      if (region.en[enName].length > 1) {
+        enDuplicates.push({
+          name: enName,
+          count: region.en[enName].length,
+          townships: region.en[enName],
+        })
+      }
+    }
+
+    for (const mmName in region.mm) {
+      if (region.mm[mmName].length > 1) {
+        mmDuplicates.push({
+          name: mmName,
+          count: region.mm[mmName].length,
+          townships: region.mm[mmName],
+        })
+      }
+    }
+
+    if (enDuplicates.length > 0 || mmDuplicates.length > 0) {
+      regionsWithDuplicates.push({
+        regionCode,
+        enDuplicates,
+        mmDuplicates,
+      })
+    }
+  }
+
+  // Log duplicates
+  if (regionsWithDuplicates.length > 0) {
+    console.log('Regions with townships having the same name:')
+    for (const region of regionsWithDuplicates) {
+      console.log(`Region ${region.regionCode}:`)
+      if (region.enDuplicates.length > 0) {
+        console.log('  English name duplicates:')
+        for (const dup of region.enDuplicates) {
+          console.log(`    "${dup.name}" appears ${dup.count} times:`)
+          for (const t of dup.townships) {
+            console.log(`      - Township code: ${t.townshipCode}`)
+          }
+        }
+      }
+      if (region.mmDuplicates.length > 0) {
+        console.log('  Myanmar name duplicates:')
+        for (const dup of region.mmDuplicates) {
+          console.log(`    "${dup.name}" appears ${dup.count} times:`)
+          for (const t of dup.townships) {
+            console.log(`      - Township code: ${t.townshipCode}`)
+          }
+        }
+      }
+    }
+  }
+
+  expect(regionsWithDuplicates.length).toBe(0)
+})
